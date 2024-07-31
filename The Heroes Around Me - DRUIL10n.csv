@@ -1,89 +1,89 @@
-#,Id,key,Chinese,TraditionalChinese,English
-,1,main.start,新游戏,新遊戲,New Game
-,2,main.continue,继续游戏,繼續遊戲,Continue
-,3,main.setting,设置,設置,Settings
-,4,main.thank,感谢名单,感謝名單,Credits
-,5,main.exit,退出,退出,Quit
-,6,menu.tips,菜单,菜單,Menu
-,7,menu.continueTitle,继续游戏,繼續遊戲,Continue
-,8,menu.saveTitle,保存进度,保存進度,Save
-,9,menu.loadTitle,读取进度,讀取進度,Load
-,10,menu.settingTitle,游戏设置,遊戲設置,Settings
-,11,menu.returnTitle,回到主界面,回到主介面,Return to Main Menu
-,12,save.tips,保存进度,保存進度,Save
-,13,load.tips,读取进度,讀取進度,Load
-,14,load.auto,自动,自動,Auto
-,15,setting.languageTitle,语言,語言,Language
-,16,setting.language,简体中文,繁體中文,English
-,17,setting.resoulutionTitle,分辨率,解析度,Screen
-,18,setting.displayTitle,显示模式,顯示模式,Display
-,19,setting.displaywindow,窗口,窗口,Windowed
-,20,setting.displayfull,全屏,全屏,Max
-,21,setting.soundTitle,音效,音效,SFX
-,22,setting.musicTitle,音乐,音樂,Music
-,23,setting.controllerTitle,按键说明,按鍵說明,Controls
-,24,setting.tips,设置,設置,Settings
-,25,setting.keyboard1,移动：←或→,移動：←或→,Move:← or →
-,26,setting.keyboard2,互动、确认：空格,互動、確認：空格,"Interact, Confirm: Space"
-,27,controller.tips,按键说明,按鍵說明,Buttons
-,28,fish.ji,鲫鱼,鯽魚,Crucian Carp
-,29,fish.li,鲤鱼,鯉魚,Common Carp
-,30,fish.tangshi,塘鲺,塘鯴,Catfish
-,31,fish.qing,青鱼,青魚,Herring
-,32,fish.cao,草鱼,草魚,Grass Carp
-,33,fish.lian,鲢,鰱,Silver Carp
-,34,fish.yong,鳙,鱅,Big Head Carp
-,35,fish.banghua,棒花鱼,棒花魚,Chinese False Gudgeon 
-,36,fish.tuling,土鲮,土鯪,Dace
-,37,fish.yueli,月鳢,月鱧,Snakehead
-,38,fish.makou,马口,馬口,Horse Mouth Fish
-,39,fish.landao,蓝刀,藍刀,Moonfish
-,40,fish.qiaozui,翘嘴,翹嘴,Topmouth Cutler
-,41,fish.jun,军鱼,軍魚,Holland's Carp
-,42,fish.daoqiu,刀鳅,刀鰍,Mahi-Mahi
-,43,fish.sanjiao,三角鲤,三角鯉,Trout
-,44,fish.bangui,斑鳜,斑鱖,Hairfin Anchovy
-,45,fish.luofei,罗非鱼,羅非魚,Tilapia
-,46,desc.ji,生活在淡水中的杂食性鱼，体态丰腴，水中穿梭游动的姿态优美。,生活在淡水中的雜食性魚，體態豐腴，水中穿梭遊動的姿態優美。,Fresh water fish that eats everything. Looks pretty while swimming.
-,47,desc.li,生活于水体底层，腹部黄白，嘴边各一对长短须。性情温和，生命力旺盛。,生活於水體底層，腹部黃白，嘴邊各一對長短須。性情溫和，生命力旺盛。,"Lives closer to the bottom, slightly yellow on the belly. Has short whiskers, generally timid and full of life."
-,48,desc.tangshi,表面光滑无鳞，八根大胡须，能在陆地上爬行，可长时间离水。,表面光滑無鱗，八根大鬍鬚，能在陸地上爬行，可長時間離水。,"Looks shiny with no scales, has eight large whiskers, can actually crawl on land and live out of water for a bit."
-,49,desc.qing,体呈青灰色，行动有力，不易捕捉。是我国“四大家鱼”之一。,體呈青灰色，行動有力，不易捕捉。是我國“四大家魚”之一。,"Greenish Grey color, hard to catch and moves quick. One of the ""Four Big Family Fish"""
-,50,desc.cao,体呈茶黄色，性子活泼，游泳迅速。是我国“四大家鱼”之一。,體呈茶黃色，性子活潑，游泳迅速。是我國“四大家魚”之一。,"Yellowish Brown color, lively and swims fast. One of the ""Four Big Family Fish"""
-,51,desc.lian,体扁鳞细，背部银灰色，腹部白色。是我国“四大家鱼”之一。,體扁鱗細，背部銀灰色，腹部白色。是我國“四大家魚”之一。,"Thin scales all over, silver grey on the back, white on the belly. One of the ""Four Big Family Fish"""
-,52,desc.yong,体型侧扁，头部较大，嘴巴宽大。是我国“四大家鱼”之一。,體型側扁，頭部較大，嘴巴寬大。是我國“四大家魚”之一。,"Slightly flat, big head big mouth. One of the ""Four Big Family Fish."""
-,53,desc.banghua,体长头短，背部深黄褐色，腹部淡黄色。体上有多个黑色大斑。,體長頭短，背部深黃褐色，腹部淡黃色。體上有多個黑色大斑。,"Long body with a short head, slightly yellow on the back and belly. Lots of black spots."
-,54,desc.tuling,全身有角质鳞片，无牙齿，以藻类及水底腐殖质为食。,全身有角質鱗片，無牙齒，以藻類及水底腐殖質為食。,"Very scaly, no teeth, likes to eat rotting things and algae."
-,55,desc.yueli,生活于水流缓慢的溪流。头大而宽扁，尾鳍有一黑色眼状斑，全身布满珠色亮点。,生活於水流緩慢的溪流。頭大而寬扁，尾鰭有一黑色眼狀斑，全身佈滿珠色亮點。,Lives in slower moving parts. Big head with spots on the tail.
-,56,desc.makou,生活于水域上层的小型鱼类。颜色鲜艳，主要以小鱼小虾、水生昆虫等为食。,生活於水域上層的小型魚類。顏色鮮豔，主要以小魚小蝦、水生昆蟲等為食。,"Small fish that lives near the surface, eats smaller fish, bugs, and small shrimp."
-,57,desc.landao,生活于水域上层。背部青灰色，腹部银色。行动迅速，沿岸水面觅食。,生活於水域上層。背部青灰色，腹部銀色。行動迅速，沿岸水面覓食。,"Lives near the surface, grey back, silver belly. Fast swimmer and hunts near the shore"
-,58,desc.qiaozui,嘴巴上翘，体背灰黑色，腹部银色，鳍呈深灰色。以水中的浮游生物为主要食物来源。,嘴巴上翹，體背灰黑色，腹部銀色，鰭呈深灰色。以水中的浮游生物為主要食物來源。,Upward mouth with a grey black back and silver belly. Feeds mostly on floating microorganisms.
-,59,desc.jun,被称为“淡水之王”。喜欢于清澈、湍急的江河活动，身体小巧，力气很大，非常凶猛。,被稱為“淡水之王”。喜歡於清澈、湍急的江河活動，身體小巧，力氣很大，非常兇猛。,"""King of fresh water"" likes fast moving areas, strong and fearsome."
-,60,desc.daoqiu,生活于多水草的浅水区，是肉食性杂鱼。长似鳗鱼状，头小呈尖三角状。,生活於多水草的淺水區，是肉食性雜魚。長似鰻魚狀，頭小呈尖三角狀。,"Likes to live in vegetation, ominvorous. Looks a bit like an eel."
-,61,desc.sanjiao,生活于池塘、河沟。头小唇厚，背部隆起，而后急剧下斜，似三角形。,生活於池塘、河溝。頭小唇厚，背部隆起，而後急劇下斜，似三角形。,Lives in ponds and smaller streams. Small mouth with a hump.
-,62,desc.bangui,体呈黄褐色及至灰褐色，腹部黄白色。全身有圆形的大小不等的黑斑。,體呈黃褐色及至灰褐色，腹部黃白色。全身有圓形的大小不等的黑斑。,Yellow to grey in color with an off white belly. Spotted all over.
-,63,desc.luofei,体短、背高。尾鳍圆形，具银灰色斑点。随水温变化或鱼体大小改变水层。,體短、背高。尾鰭圓形，具銀灰色斑點。隨水溫變化或魚體大小改變水層。,"Short body, big back, has grey spots. Will live near the surface or the bottom depending on temperature and size."
-,64,fish.cur,本次钓获,本次釣獲,Current
-,65,fish.hist,历史钓获,歷史釣獲,Record
-,66,fish.max,最长：,最長：,Longest
-,67,fish.min,最短：,最短：,Shortest
-,68,musicgame.joytips,点击屏幕<color='red'>左</color>或<color='red'>右</color>\n激活进入齿轮的音符,點擊螢幕<color='red'>左</color>或<color='red'>右</color>\n啟動進入齒輪的音符,Push <color='red'>Left</color> o r<color='red'>Right</color>\n to move the gears.
-,69,musicgame.tips,按下键盘<color='red'>←</color>或<color='red'>→</color>\n激活进入齿轮的音符,按下鍵盤<color='red'>←</color>或<color='red'>→</color>\n啟動進入齒輪的音符,Push <color='red'>Left</color> o r<color='red'>Right</color>\n to move the gears.
-,70,monsters.desc,要怎样对付威风女侠？,要怎樣對付威風女俠？,How are you going to attack Mighty Heroine?
-,71,monsters.skill1,啾啾光线,啾啾光線,Pew Pew Laser Beam
-,72,monsters.skill2,嗡嗡声波,嗡嗡聲波,Bang Bang Sound Wave
-,73,monsters.skill3,咔嚓剪刀,哢嚓剪刀,Snip Snip Scissors
-,74,monsters.role1name,剪刀怪,剪刀怪,Scissor Monster
-,75,monsters.role2name,威风女侠,威風女俠,Mighty Heroine
-,76,monsters.hp1,体力：,體力：,HP:
-,77,monsters.hp2,体力：,體力：,HP:
-,78,end.tips,未完待续,未完待續,To be continued
-,79,answer11,烧烤,燒烤,BBQ
-,80,answer12,皂荚,皂莢,Honey Locust
-,81,answer21,烟囱,煙囪,Chimney
-,82,answer22,酒壶,酒壺,Flask
-,83,answer31,宝塔,寶塔,Tower
-,84,answer32,城门,城門,Gate
-,85,shichang1,来买菜吗？今天的菜都很新鲜哦。,來買菜嗎？今天的菜都很新鮮哦。,Coming to buy groceries? It's all fresh today.
-,86,shichang2,鸡肉、鸭肉，还是猪肉？,雞肉、鴨肉，還是豬肉？,"Chicken, Duck, Pork?"
-,87,shichang3,苹果、梨子一块二，早熟的桃子也可以看一下。,蘋果、梨子一塊二，早熟的桃子也可以看一下。,"Apples, Pears are 2 for 1, peaches too!"
-,88,shichang4,自己养的鸡鸭，阿兄来瞧一瞧？,自己養的雞鴨，阿兄來瞧一瞧？,"We raised these chickens, want to take a look?"
+#,Id,key,English,Chinese,TraditionalChinese
+,1,main.start,New Game,新游戏,新遊戲
+,2,main.continue,Continue,继续游戏,繼續遊戲
+,3,main.setting,Settings,设置,設置
+,4,main.thank,Credits,感谢名单,感謝名單
+,5,main.exit,Quit,退出,退出
+,6,menu.tips,Menu,菜单,菜單
+,7,menu.continueTitle,Continue,继续游戏,繼續遊戲
+,8,menu.saveTitle,Save,保存进度,保存進度
+,9,menu.loadTitle,Load,读取进度,讀取進度
+,10,menu.settingTitle,Settings,游戏设置,遊戲設置
+,11,menu.returnTitle,Return to Main Menu,回到主界面,回到主介面
+,12,save.tips,Save,保存进度,保存進度
+,13,load.tips,Load,读取进度,讀取進度
+,14,load.auto,Auto,自动,自動
+,15,setting.languageTitle,Language,语言,語言
+,16,setting.language,English,简体中文,繁體中文
+,17,setting.resoulutionTitle,Screen,分辨率,解析度
+,18,setting.displayTitle,Display,显示模式,顯示模式
+,19,setting.displaywindow,Windowed,窗口,窗口
+,20,setting.displayfull,Max,全屏,全屏
+,21,setting.soundTitle,SFX,音效,音效
+,22,setting.musicTitle,Music,音乐,音樂
+,23,setting.controllerTitle,Controls,按键说明,按鍵說明
+,24,setting.tips,Settings,设置,設置
+,25,setting.keyboard1,Move:← or →,移动：←或→,移動：←或→
+,26,setting.keyboard2,"Interact, Confirm: Space",互动、确认：空格,互動、確認：空格
+,27,controller.tips,Buttons,按键说明,按鍵說明
+,28,fish.ji,Crucian Carp,鲫鱼,鯽魚
+,29,fish.li,Common Carp,鲤鱼,鯉魚
+,30,fish.tangshi,Catfish,塘鲺,塘鯴
+,31,fish.qing,Herring,青鱼,青魚
+,32,fish.cao,Grass Carp,草鱼,草魚
+,33,fish.lian,Silver Carp,鲢,鰱
+,34,fish.yong,Big Head Carp,鳙,鱅
+,35,fish.banghua,Chinese False Gudgeon ,棒花鱼,棒花魚
+,36,fish.tuling,Dace,土鲮,土鯪
+,37,fish.yueli,Snakehead,月鳢,月鱧
+,38,fish.makou,Horse Mouth Fish,马口,馬口
+,39,fish.landao,Moonfish,蓝刀,藍刀
+,40,fish.qiaozui,Topmouth Cutler,翘嘴,翹嘴
+,41,fish.jun,Holland's Carp,军鱼,軍魚
+,42,fish.daoqiu,Mahi-Mahi,刀鳅,刀鰍
+,43,fish.sanjiao,Trout,三角鲤,三角鯉
+,44,fish.bangui,Hairfin Anchovy,斑鳜,斑鱖
+,45,fish.luofei,Tilapia,罗非鱼,羅非魚
+,46,desc.ji,Fresh water fish that eats everything. Looks pretty while swimming.,生活在淡水中的杂食性鱼，体态丰腴，水中穿梭游动的姿态优美。,生活在淡水中的雜食性魚，體態豐腴，水中穿梭遊動的姿態優美。
+,47,desc.li,"Lives closer to the bottom, slightly yellow on the belly. Has short whiskers, generally timid and full of life.",生活于水体底层，腹部黄白，嘴边各一对长短须。性情温和，生命力旺盛。,生活於水體底層，腹部黃白，嘴邊各一對長短須。性情溫和，生命力旺盛。
+,48,desc.tangshi,"Looks shiny with no scales, has eight large whiskers, can actually crawl on land and live out of water for a bit.",表面光滑无鳞，八根大胡须，能在陆地上爬行，可长时间离水。,表面光滑無鱗，八根大鬍鬚，能在陸地上爬行，可長時間離水。
+,49,desc.qing,"Greenish Grey color, hard to catch and moves quick. One of the ""Four Big Family Fish""",体呈青灰色，行动有力，不易捕捉。是我国“四大家鱼”之一。,體呈青灰色，行動有力，不易捕捉。是我國“四大家魚”之一。
+,50,desc.cao,"Yellowish Brown color, lively and swims fast. One of the ""Four Big Family Fish""",体呈茶黄色，性子活泼，游泳迅速。是我国“四大家鱼”之一。,體呈茶黃色，性子活潑，游泳迅速。是我國“四大家魚”之一。
+,51,desc.lian,"Thin scales all over, silver grey on the back, white on the belly. One of the ""Four Big Family Fish""",体扁鳞细，背部银灰色，腹部白色。是我国“四大家鱼”之一。,體扁鱗細，背部銀灰色，腹部白色。是我國“四大家魚”之一。
+,52,desc.yong,"Slightly flat, big head big mouth. One of the ""Four Big Family Fish.""",体型侧扁，头部较大，嘴巴宽大。是我国“四大家鱼”之一。,體型側扁，頭部較大，嘴巴寬大。是我國“四大家魚”之一。
+,53,desc.banghua,"Long body with a short head, slightly yellow on the back and belly. Lots of black spots.",体长头短，背部深黄褐色，腹部淡黄色。体上有多个黑色大斑。,體長頭短，背部深黃褐色，腹部淡黃色。體上有多個黑色大斑。
+,54,desc.tuling,"Very scaly, no teeth, likes to eat rotting things and algae.",全身有角质鳞片，无牙齿，以藻类及水底腐殖质为食。,全身有角質鱗片，無牙齒，以藻類及水底腐殖質為食。
+,55,desc.yueli,Lives in slower moving parts. Big head with spots on the tail.,生活于水流缓慢的溪流。头大而宽扁，尾鳍有一黑色眼状斑，全身布满珠色亮点。,生活於水流緩慢的溪流。頭大而寬扁，尾鰭有一黑色眼狀斑，全身佈滿珠色亮點。
+,56,desc.makou,"Small fish that lives near the surface, eats smaller fish, bugs, and small shrimp.",生活于水域上层的小型鱼类。颜色鲜艳，主要以小鱼小虾、水生昆虫等为食。,生活於水域上層的小型魚類。顏色鮮豔，主要以小魚小蝦、水生昆蟲等為食。
+,57,desc.landao,"Lives near the surface, grey back, silver belly. Fast swimmer and hunts near the shore",生活于水域上层。背部青灰色，腹部银色。行动迅速，沿岸水面觅食。,生活於水域上層。背部青灰色，腹部銀色。行動迅速，沿岸水面覓食。
+,58,desc.qiaozui,Upward mouth with a grey black back and silver belly. Feeds mostly on floating microorganisms.,嘴巴上翘，体背灰黑色，腹部银色，鳍呈深灰色。以水中的浮游生物为主要食物来源。,嘴巴上翹，體背灰黑色，腹部銀色，鰭呈深灰色。以水中的浮游生物為主要食物來源。
+,59,desc.jun,"""King of fresh water"" likes fast moving areas, strong and fearsome.",被称为“淡水之王”。喜欢于清澈、湍急的江河活动，身体小巧，力气很大，非常凶猛。,被稱為“淡水之王”。喜歡於清澈、湍急的江河活動，身體小巧，力氣很大，非常兇猛。
+,60,desc.daoqiu,"Likes to live in vegetation, ominvorous. Looks a bit like an eel.",生活于多水草的浅水区，是肉食性杂鱼。长似鳗鱼状，头小呈尖三角状。,生活於多水草的淺水區，是肉食性雜魚。長似鰻魚狀，頭小呈尖三角狀。
+,61,desc.sanjiao,Lives in ponds and smaller streams. Small mouth with a hump.,生活于池塘、河沟。头小唇厚，背部隆起，而后急剧下斜，似三角形。,生活於池塘、河溝。頭小唇厚，背部隆起，而後急劇下斜，似三角形。
+,62,desc.bangui,Yellow to grey in color with an off white belly. Spotted all over.,体呈黄褐色及至灰褐色，腹部黄白色。全身有圆形的大小不等的黑斑。,體呈黃褐色及至灰褐色，腹部黃白色。全身有圓形的大小不等的黑斑。
+,63,desc.luofei,"Short body, big back, has grey spots. Will live near the surface or the bottom depending on temperature and size.",体短、背高。尾鳍圆形，具银灰色斑点。随水温变化或鱼体大小改变水层。,體短、背高。尾鰭圓形，具銀灰色斑點。隨水溫變化或魚體大小改變水層。
+,64,fish.cur,Current,本次钓获,本次釣獲
+,65,fish.hist,Record,历史钓获,歷史釣獲
+,66,fish.max,Longest,最长：,最長：
+,67,fish.min,Shortest,最短：,最短：
+,68,musicgame.joytips,Push <color='red'>Left</color> o r<color='red'>Right</color>\n to move the gears.,点击屏幕<color='red'>左</color>或<color='red'>右</color>\n激活进入齿轮的音符,點擊螢幕<color='red'>左</color>或<color='red'>右</color>\n啟動進入齒輪的音符
+,69,musicgame.tips,Push <color='red'>Left</color> o r<color='red'>Right</color>\n to move the gears.,按下键盘<color='red'>←</color>或<color='red'>→</color>\n激活进入齿轮的音符,按下鍵盤<color='red'>←</color>或<color='red'>→</color>\n啟動進入齒輪的音符
+,70,monsters.desc,How are you going to attack Mighty Heroine?,要怎样对付威风女侠？,要怎樣對付威風女俠？
+,71,monsters.skill1,Pew Pew Laser Beam,啾啾光线,啾啾光線
+,72,monsters.skill2,Bang Bang Sound Wave,嗡嗡声波,嗡嗡聲波
+,73,monsters.skill3,Snip Snip Scissors,咔嚓剪刀,哢嚓剪刀
+,74,monsters.role1name,Scissor Monster,剪刀怪,剪刀怪
+,75,monsters.role2name,Mighty Heroine,威风女侠,威風女俠
+,76,monsters.hp1,HP:,体力：,體力：
+,77,monsters.hp2,HP:,体力：,體力：
+,78,end.tips,To be continued,未完待续,未完待續
+,79,answer11,BBQ,烧烤,燒烤
+,80,answer12,Honey Locust,皂荚,皂莢
+,81,answer21,Chimney,烟囱,煙囪
+,82,answer22,Flask,酒壶,酒壺
+,83,answer31,Tower,宝塔,寶塔
+,84,answer32,Gate,城门,城門
+,85,shichang1,Coming to buy groceries? It's all fresh today.,来买菜吗？今天的菜都很新鲜哦。,來買菜嗎？今天的菜都很新鮮哦。
+,86,shichang2,"Chicken, Duck, Pork?",鸡肉、鸭肉，还是猪肉？,雞肉、鴨肉，還是豬肉？
+,87,shichang3,"Apples, Pears are 2 for 1, peaches too!",苹果、梨子一块二，早熟的桃子也可以看一下。,蘋果、梨子一塊二，早熟的桃子也可以看一下。
+,88,shichang4,"We raised these chickens, want to take a look?",自己养的鸡鸭，阿兄来瞧一瞧？,自己養的雞鴨，阿兄來瞧一瞧？
