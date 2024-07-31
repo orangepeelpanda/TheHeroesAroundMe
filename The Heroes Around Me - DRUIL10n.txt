@@ -1,4 +1,4 @@
-#,Id,key,English,Chinese,TraditionalChinese
+#,Id,key,Chinese,TraditionalChinese,IGNOREHEADER
 ,1,main.start,New Game,新游戏,新遊戲
 ,2,main.continue,Continue,继续游戏,繼續遊戲
 ,3,main.setting,Settings,设置,設置

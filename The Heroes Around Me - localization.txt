@@ -1,4 +1,4 @@
-Key,Description,Standard,English,Chinese,TraditionalChinese
+Key,Description,Standard,Chinese,TraditionalChinese,IGNOREHEADER
 SAY.mozicheng.29.莫子成,,我晓得我奶是哪样跟她家里人失散的了。,I know how my Grandma got separated from her family.,我晓得我奶是哪样跟她家里人失散的了。,我曉得我奶是哪樣跟她家裏人失散的了。
 SAY.mozicheng.30.莫子成,,她那天忽然清醒了一段时间，跟我说了。,"One day she was suddenly full of clarity, and told me.",她那天忽然清醒了一段时间，跟我说了。,她那天忽然清醒了一段時間，跟我說了。
 SAY.mozicheng.31.主角,,哪样？,How?,哪样？,哪樣？
