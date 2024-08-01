@@ -165,7 +165,7 @@ SAY.laolitou.113.老厉头,,等一下！,Wait!,Wait!
 SAY.laolitou.114.老厉头,,同样的道理，还有另外一个故事！,There's another story with the same moral!,There's another story with the same moral!
 SAY.laolitou.115.主角,,……你讲你讲。,...Fine go ahead.,...Fine go ahead.
 SAY.laolitou.116.老厉头,,那天有两个娃仔，来我们店买漫画。,That day there were two kids， wanted to buy some manhua.,That day there were two kids， wanted to buy some manhua.
-SAY.laolitou.117.老厉头,,买了两本《八凤珠》，两本《机器狗》。,"Bought two of “Eight Phoenix Perals""， two of “Robot Dog”","Bought two of “Eight Phoenix Perals""， two of “Robot Dog”"
+SAY.laolitou.117.老厉头,,买了两本《八凤珠》，两本《机器狗》。,Bought two of “Eight Phoenix Perals”， two of “Robot Dog”,Bought two of “Eight Phoenix Perals”， two of “Robot Dog”
 SAY.laolitou.118.主角,,嗯，这段没听过。,Hm， haven't heard this before.,Hm， haven't heard this before.
 SAY.laolitou.119.主角,,你继续。,Go on.,Go on.
 SAY.laolitou.120.老厉头,,他们刚走出去没多远，就碰见另外三个学生。,They didn't walk but two steps and ran into three other students.,They didn't walk but two steps and ran into three other students.
@@ -1101,7 +1101,7 @@ SAY.chapterFlow04.43.张老师,,……有这种东西？,.....That's a thing?,..
 SAY.chapterFlow04.44.主角,,有啊，就是一种蛙，比田鸡大好多。,Yeah， it's a type of frog， much bigger kind.,Yeah， it's a type of frog， much bigger kind.
 SAY.chapterFlow04.45.主角,,差不多有这么大吧。,About this big.,About this big.
 SAY.chapterFlow04.46.主角,,叫起来声音像牛一样。,Croaks like a cow.,Croaks like a cow.
-SAY.chapterFlow04.47.主角,,“哞“——这样的。,"“Moooooo""- like that.","“Moooooo""- like that."
+SAY.chapterFlow04.47.主角,,“哞“——这样的。,Bought two of “Eight Phoenix Perals”， two of “Robot Dog”,Bought two of “Eight Phoenix Perals”， two of “Robot Dog”
 SAY.chapterFlow04.48.张老师,,……真的咯？,......Really?,......Really?
 SAY.chapterFlow04.49.主角,,真的！,Really!,Really!
 SAY.chapterFlow04.50.主角,,我在湖南广东都见过，蛮好吃的。,I see them in Hunan and Guangdong， pretty tasty.,I see them in Hunan and Guangdong， pretty tasty.
@@ -1233,7 +1233,7 @@ SAY.chapterFlow04.4670.李颖,,我在小卖部拿了钥匙，就去了桥底河�
 SAY.chapterFlow04.4671.李颖,,去完桥底再穿过铁路，去糕点厂。,After that I went along the rail to the bakery.,After that I went along the rail to the bakery.
 SAY.chapterFlow04.4672.李颖,,然后又往果园那边走。,Then I went to the orchard.,Then I went to the orchard.
 SAY.chapterFlow04.4673.主角,,好的，晓得了。,Okay， got it.,Okay， got it.
-SAY.chapterFlow04.4675.女儿,,《威风女侠》的新书！,"The new book of “Mighty Heroine""!","The new book of “Mighty Heroine""!"
+SAY.chapterFlow04.4675.女儿,,《威风女侠》的新书！,The new book of “Mighty Heroine”!,The new book of “Mighty Heroine”!
 SAY.chapterFlow04.4731.主角,,今天早上去县城送货，路过新华书店。,I went to the county to deliver something and passed by Xinhua Bookstore.,I went to the county to deliver something and passed by Xinhua Bookstore.
 SAY.chapterFlow04.4732.主角,,进去逛了一会儿，发现有这本就买了。,Went in for a bit， found this and got it.,Went in for a bit， found this and got it.
 SAY.chapterFlow04.4733.女儿,,画得好漂亮呀！,It's so pretty!,It's so pretty!
@@ -3807,13 +3807,13 @@ SAY.chapterFlow01.4664.女儿,,还，还不能走。,No， not yet.,No， not ye
 SAY.chapterFlow01.4665.主角,,为什么？,Why?,Why?
 SAY.chapterFlow01.4666.女儿,,老师不让走。,The teacher won't let me.,The teacher won't let me.
 SAY.chapterFlow01.4667.主角,,什么意思？,What do you mean?,What do you mean?
-SAY.chapterFlow01.4668.女儿,,她……她要找阿公。,She..wants to talk to grandpa.,She..wants to talk to grandpa.
+SAY.chapterFlow01.4668.女儿,,她……她要找阿公。,She... wants to talk to grandpa.,She... wants to talk to grandpa.
 SAY.chapterFlow01.4669.主角,,找阿公做什么？,What for?,What for?
 SAY.chapterFlow01.4670.女儿,,……,……,……
 SAY.chapterFlow01.80.张老师,,你是覃茁荔的家长吗？,Are you Qin Zhuoli's parent?,Are you Qin Zhuoli's parent?
 SAY.chapterFlow01.81.主角,,对，我是她爸。,Yeah， I'm her dad.,Yeah， I'm her dad.
 SAY.chapterFlow01.4680.张老师,,我姓张，她的班主任，语文数学都是我教。,I'm Teacher Zhang. I teach both Language and Math.,I'm Teacher Zhang. I teach both Language and Math.
-SAY.chapterFlow01.4681.张老师,,以前一直在高年级，这学期刚调到二年级。,I used to teach the higher grades， this semester I'm teaching second grade.,I used to teach the higher grades， this semester I'm teaching second grade.
+SAY.chapterFlow01.4681.张老师,,以前一直在高年级，这学期刚调到二年级。,I used to teach the higher grades， this semester， I'm teaching second grade.,I used to teach the higher grades， this semester， I'm teaching second grade.
 SAY.chapterFlow01.4682.主角,,哦，张老师，你好。,Oh， Teacher Zhang， nice to meet you.,Oh， Teacher Zhang， nice to meet you.
 SAY.chapterFlow01.4683.主角,,上学期那个，梁老师，她不做班主任了？,Teacher Liang isn't the lead for this class this semester?,Teacher Liang isn't the lead for this class this semester?
 SAY.chapterFlow01.4684.张老师,,她去别的学校了。,She went to another school.,She went to another school.
@@ -3840,9 +3840,9 @@ SAY.chapterFlow01.4704.张老师,,你说要是她特别聪明，倒也没关系�
 SAY.chapterFlow01.4705.张老师,,结果今天数学课测验，错了一半。,But today she missed half the questions in her test.,But today she missed half the questions in her test.
 SAY.chapterFlow01.4706.张老师,,那就说明完全没跟上，不用功不行哦。,That means she isn't keeping up， can't have that.,That means she isn't keeping up， can't have that.
 SAY.chapterFlow01.4707.主角,,……嗯。,...Yeah.,...Yeah.
-SAY.chapterFlow01.4708.张老师,,原本是打算跟你家老人反映的，你来了更好。,I was going to tell the elders， but it's better than you're here.,I was going to tell the elders， but it's better than you're here.
-SAY.chapterFlow01.4709.张老师,,毕竟自己女儿，该知道还是应该要知道的。,It's your own daughter， should know these things.,It's your own daughter， should know these things.
-SAY.chapterFlow01.4710.张老师,,你赚这么多，结果将来娃仔连数钱都不会数。,You work so hard to make so much money， but in the end what if she can't even count.,You work so hard to make so much money， but in the end what if she can't even count.
+SAY.chapterFlow01.4708.张老师,,原本是打算跟你家老人反映的，你来了更好。,I was going to tell the elders， but it's better that you're here.,I was going to tell the elders， but it's better that you're here.
+SAY.chapterFlow01.4709.张老师,,毕竟自己女儿，该知道还是应该要知道的。,It's your own daughter， you should know these things.,It's your own daughter， you should know these things.
+SAY.chapterFlow01.4710.张老师,,你赚这么多，结果将来娃仔连数钱都不会数。,You work so hard to make so much money， but in the end， what if she can't even count.,You work so hard to make so much money， but in the end， what if she can't even count.
 SAY.chapterFlow01.4711.张老师,,那就着力咯。,That'll be a problem.,That'll be a problem.
 SAY.chapterFlow01.4712.主角,,对不起，老师。,Sorry， teacher.,Sorry， teacher.
 SAY.chapterFlow01.4713.主角,,给你添麻烦了。,Made it hard for you.,Made it hard for you.
@@ -3864,7 +3864,7 @@ SAY.chapterFlow01.4849.母亲,,小妹家啊。,Her  place.,Her  place.
 SAY.chapterFlow01.4850.主角,,她家公家婆呢？,What about her in laws?,What about her in laws?
 SAY.chapterFlow01.4851.母亲,,他们不住在一起的。,They don't live together.,They don't live together.
 SAY.chapterFlow01.4852.母亲,,这两个老的还要上班。,They still work.,They still work.
-SAY.chapterFlow01.4853.主角,,不是退休了吗？,Didn't the retire?,Didn't the retire?
+SAY.chapterFlow01.4853.主角,,不是退休了吗？,Didn't they retire?,Didn't they retire?
 SAY.chapterFlow01.4854.母亲,,退啥呀？,Retire?,Retire?
 SAY.chapterFlow01.4855.母亲,,他们比我们年轻多了。,They are younger than we are.,They are younger than we are.
 SAY.chapterFlow01.4856.母亲,,你妹夫是家里面大仔，比小妹还小咧。,Your brother in law is their eldest and is younger than she is.,Your brother in law is their eldest and is younger than she is.
@@ -3876,7 +3876,7 @@ SAY.chapterFlow01.4862.父亲,,你正好可以陪陪荔荔。,You can be with Li
 SAY.chapterFlow01.4863.父亲,,人家那种在外打工的，想回家都不能回。,Some people work out of town， they can't even come home.,Some people work out of town， they can't even come home.
 SAY.chapterFlow01.4864.父亲,,一年才得见一次娃仔。,They only see their kids once a year.,They only see their kids once a year.
 SAY.chapterFlow01.4865.主角,,你说几天，一个礼拜，那无所谓。,How many days， one week， that's fine.,How many days， one week， that's fine.
-SAY.chapterFlow01.4866.主角,,一个月太久了，我哪样做活路？,One month is a bit long， how am I gonig to work?,One month is a bit long， how am I gonig to work?
+SAY.chapterFlow01.4866.主角,,一个月太久了，我哪样做活路？,One month is a bit long， how am I going to work?,One month is a bit long， how am I going to work?
 SAY.chapterFlow01.4867.父亲,,又不是不让你出门。,Not letting you just stay home.,Not letting you just stay home.
 SAY.chapterFlow01.4868.父亲,,白天荔荔要上学，你找周边的货不得了吗？,Lili has to work during the day. You can find delivery in the area.,Lili has to work during the day. You can find delivery in the area.
 SAY.chapterFlow01.4869.父亲,,旧时你也做过短途啊。,You used to do short distance.,You used to do short distance.
@@ -3891,16 +3891,16 @@ SAY.chapterFlow01.4877.母亲,,你是不想待在家吧？,You don't want to sta
 SAY.chapterFlow01.4878.主角,,……没有。,...No.,...No.
 SAY.chapterFlow01.4879.母亲,,有些话我早都想跟你说了。,I have something I've been meaning to tell you.,I have something I've been meaning to tell you.
 SAY.chapterFlow01.4880.母亲,,不到一年的时间，你把全国都跑了个遍。,You've ran all over the country in one year.,You've ran all over the country in one year.
-SAY.chapterFlow01.4881.母亲,,一有机会就去跑长途，没有货也要在县城等。,Once you have a chance you do a long haul， even if you don't have anything you wait in the county.,Once you have a chance you do a long haul， even if you don't have anything you wait in the county.
-SAY.chapterFlow01.4882.母亲,,明明从县城回到镇上，开车最多一个半小时。,It only takes an hour and half to come back.,It only takes an hour and half to come back.
+SAY.chapterFlow01.4881.母亲,,一有机会就去跑长途，没有货也要在县城等。,Whenever you have a chance，  you do a long haul， even if you don't have anything， you wait in the county.,Whenever you have a chance，  you do a long haul， even if you don't have anything， you wait in the county.
+SAY.chapterFlow01.4882.母亲,,明明从县城回到镇上，开车最多一个半小时。,It only takes an hour and a half to come back.,It only takes an hour and a half to come back.
 SAY.chapterFlow01.4883.母亲,,你宁愿在停车场睡觉，也不愿意回来。,But you'd rather sleep in your car there and not come home.,But you'd rather sleep in your car there and not come home.
 SAY.chapterFlow01.4884.母亲,,为什么？这是你家哦。,Why? This is your home.,Why? This is your home.
 SAY.chapterFlow01.4885.主角,,哪有不回来？乱讲。,I do come home， what are you talking about?,I do come home， what are you talking about?
 SAY.chapterFlow01.4886.母亲,,我们两个你可以不管，但是要考虑荔荔啊。,You can leave us be， but think about Lili.,You can leave us be， but think about Lili.
-SAY.chapterFlow01.4887.母亲,,跟阿公阿奶的感情，和自己父母始终不一样。,Their feelings towards grandparents is not the same as their parents.,Their feelings towards grandparents is not the same as their parents.
+SAY.chapterFlow01.4887.母亲,,跟阿公阿奶的感情，和自己父母始终不一样。,Their feelings towards the grandparents is not the same as their parents.,Their feelings towards the grandparents is not the same as their parents.
 SAY.chapterFlow01.4888.母亲,,没有父母在身边，娃仔很孤单的。,The kid will be lonely without her parents.,The kid will be lonely without her parents.
 SAY.chapterFlow01.4889.母亲,,你应该也发现了，这段日子她变化很大。,You should have seen by now， she's very different these past few days.,You should have seen by now， she's very different these past few days.
-SAY.chapterFlow01.4890.母亲,,性格越来越孤僻，脾气越来越差。,Becoming more and more unsocialable， easy irritated.,Becoming more and more unsocialable， easy irritated.
+SAY.chapterFlow01.4890.母亲,,性格越来越孤僻，脾气越来越差。,Becoming more and more unsociable， easy irritated.,Becoming more and more unsociable， easy irritated.
 SAY.chapterFlow01.4891.母亲,,老是一个人发呆，动不动就大喊大叫。,Sits by herself and sometimes just yells for no reason.,Sits by herself and sometimes just yells for no reason.
 SAY.chapterFlow01.4892.母亲,,这样下去，我真的担心她会出问题。,If this keeps on， I'm afraid something will happen.,If this keeps on， I'm afraid something will happen.
 SAY.chapterFlow01.4894.父亲,,就这样决定啦。,Okay it's decided.,Okay it's decided.
@@ -3916,7 +3916,7 @@ SAY.chapterFlow01.4904.主角,,看着她吃的。,I watched her take it.,I watch
 SAY.chapterFlow01.2102.主角,,（要去小学接地主妹，走这边绕太远了。）,(If I have to pick up the kid from school， this way is too long.),(If I have to pick up the kid from school， this way is too long.)
 SAY.chapterFlow01.3537.主角,,梁叔。,Uncle Liang.,Uncle Liang.
 SAY.chapterFlow01.3905.梁叔,,阿南啊。,Ah Nan.,Ah Nan.
-SAY.chapterFlow01.3538.梁叔,,好像很久没见到你了。,Been a while since I seen you.,Been a while since I seen you.
+SAY.chapterFlow01.3538.梁叔,,好像很久没见到你了。,Been a while since I've seen you.,Been a while since I've seen you.
 SAY.chapterFlow01.3539.主角,,对啊，没得空。,Yeah， been busy.,Yeah， been busy.
 SAY.chapterFlow01.4612.主角,,今天也是这批货顺路，才回来一趟。,Delivery today was on the way， so I came back.,Delivery today was on the way， so I came back.
 SAY.chapterFlow01.3540.梁叔,,辛苦哦。,Must be tough.,Must be tough.
@@ -3960,16 +3960,16 @@ SAY.chapterFlow01.3608.梁叔,,这字印得真是小。,The print is so small.,T
 SAY.chapterFlow01.3609.梁叔,,戴了眼镜都看不清。,I can't even read with my glasses.,I can't even read with my glasses.
 SAY.chapterFlow01.3611.梁叔,,不淡不咸，又得一天。,Another day.,Another day.
 SAY.chapterFlow01.3613.梁叔,,文化是好东西哦。,Culture is a good thing.,Culture is a good thing.
-SAY.chapterFlow01.3614.梁叔,,要不是年轻的时候识过几个字。,If it wasn't for learning how to read a bit while I was younger.,If it wasn't for learning how to read a bit while I was younger.
-SAY.chapterFlow01.4622.梁叔,,现在连报纸都看不懂。,I can't even read the news paper today.,I can't even read the news paper today.
-SAY.chapterFlow01.3909.梁叔,,脚有风湿的地方又隐隐作痛啦。,Ah my arthritis is hurting again.,Ah my arthritis is hurting again.
+SAY.chapterFlow01.3614.梁叔,,要不是年轻的时候识过几个字。,If it wasn't for learning how to read while I was younger.,If it wasn't for learning how to read while I was younger.
+SAY.chapterFlow01.4622.梁叔,,现在连报纸都看不懂。,I wouldn't be able read the news paper today.,I wouldn't be able read the news paper today.
+SAY.chapterFlow01.3909.梁叔,,脚有风湿的地方又隐隐作痛啦。,Ah， my arthritis is hurting again.,Ah， my arthritis is hurting again.
 SAY.chapterFlow01.3910.梁叔,,怕是真要变天咯。,It'll probably rain soon.,It'll probably rain soon.
 SAY.chapterFlow01.3745.刘翠花,,在这儿空等太无聊了。,Just waiting here is too boring.,Just waiting here is too boring.
 SAY.chapterFlow01.3746.刘翠花,,干不了别的事情，打发时间的东西又没有。,Can't do anything else， can't do anything to pass the time.,Can't do anything else， can't do anything to pass the time.
 SAY.chapterFlow01.3747.刘翠花,,珍姨，你应该放几本杂志在这里给客人看的。,Auntie Zhen， you should get some magazines here for people.,Auntie Zhen， you should get some magazines here for people.
 SAY.chapterFlow01.3748.母亲,,杂志是吧？,Magazines?,Magazines?
 SAY.chapterFlow01.3749.母亲,,好，我明天就去买。,Sure， I'll go buy some tomorrow.,Sure， I'll go buy some tomorrow.
-SAY.chapterFlow01.4630.母亲,,报纸还没送来。,The newspaper has't come yet today.,The newspaper has't come yet today.
+SAY.chapterFlow01.4630.母亲,,报纸还没送来。,The newspaper hasn't come yet today.,The newspaper hasn't come yet today.
 SAY.chapterFlow01.4631.母亲,,不然就拿给你看了。,Otherwise I'd let you read it.,Otherwise I'd let you read it.
 SAY.chapterFlow01.3753.刘翠花,,真受罪。,It's painful.,It's painful.
 SAY.chapterFlow01.3754.刘翠花,,屋里又热，药水又臭。,It's hot in here， the chemicals stink.,It's hot in here， the chemicals stink.
@@ -3981,22 +3981,22 @@ SAY.chapterFlow01.3762.主角,,给，今天的报纸。,Here， today's paper.,H
 SAY.chapterFlow01.3763.刘翠花,,哦，谢谢！,Oh， thanks!,Oh， thanks!
 SAY.chapterFlow01.3764.母亲,,我们家的吗？,Is this ours?,Is this ours?
 SAY.chapterFlow01.3765.主角,,嗯，在门口捡的。,Yeah， got it at the doorstep.,Yeah， got it at the doorstep.
-SAY.chapterFlow01.3767.母亲,,那等下我再拿回去。,I'll bring it back in a bit.,I'll bring it back in a bit.
+SAY.chapterFlow01.3767.母亲,,那等下我再拿回去。,Then I'll take it back later.,Then I'll take it back later.
 SAY.chapterFlow01.4632.刘翠花,,看见报纸，就想起以前在海南的日子。,The newspaper reminds me of my days in Hainan.,The newspaper reminds me of my days in Hainan.
 SAY.chapterFlow01.4633.母亲,,你去过海南？,You've been to Hainan?,You've been to Hainan?
 SAY.chapterFlow01.4634.刘翠花,,大概是八年前吧。,About eight years ago.,About eight years ago.
 SAY.chapterFlow01.4635.刘翠花,,全国各地的年轻人都往那里挤。,All the young people around the country loved going there.,All the young people around the country loved going there.
 SAY.chapterFlow01.4636.刘翠花,,我也去了，找不到工，没留下来。,I went， couldn't find a job， didn't stay.,I went， couldn't find a job， didn't stay.
 SAY.chapterFlow01.4637.母亲,,我有印象。,I remember a bit.,I remember a bit.
-SAY.chapterFlow01.4638.母亲,,那段时间大家都在说。,That time everyone was saying. ,That time everyone was saying. 
-SAY.chapterFlow01.4639.刘翠花,,我想回家，又没有钱，只能跟同乡去卖报纸。,I want to go home， but don't have money， so we sold newspapers.,I want to go home， but don't have money， so we sold newspapers.
+SAY.chapterFlow01.4638.母亲,,那段时间大家都在说。,Everyone was talking about it that time.,Everyone was talking about it that time.
+SAY.chapterFlow01.4639.刘翠花,,我想回家，又没有钱，只能跟同乡去卖报纸。,I wanted to go home， but didn't have the money， so we sold newspapers.,I wanted to go home， but didn't have the money， so we sold newspapers.
 SAY.chapterFlow01.4640.母亲,,哪样卖？,How'd you sell it?,How'd you sell it?
-SAY.chapterFlow01.4641.刘翠花,,当时海南有很多跟我一样的外来人。,At first in Hainan there were lots of people like me from out of town.,At first in Hainan there were lots of people like me from out of town.
+SAY.chapterFlow01.4641.刘翠花,,当时海南有很多跟我一样的外来人。,At first in Hainan， there were lots of people like me from out of town.,At first in Hainan， there were lots of people like me from out of town.
 SAY.chapterFlow01.4642.刘翠花,,初来乍到，没有工作。,Job searching as we first got there.,Job searching as we first got there.
-SAY.chapterFlow01.4643.刘翠花,,报纸上印有招工信息，他们每天都要看。,There were jobs being posted in the news paper， so people needed it everyday.,There were jobs being posted in the news paper， so people needed it everyday.
-SAY.chapterFlow01.4644.刘翠花,,我们想了想，就去报社批发了两大捆报纸。,So we thought， we'd go buy two large bundles of news paper.,So we thought， we'd go buy two large bundles of news paper.
+SAY.chapterFlow01.4643.刘翠花,,报纸上印有招工信息，他们每天都要看。,There were jobs being posted in the newspaper， so people needed it everyday.,There were jobs being posted in the newspaper， so people needed it everyday.
+SAY.chapterFlow01.4644.刘翠花,,我们想了想，就去报社批发了两大捆报纸。,So we thought， we'd go buy two large bundles of newspaper.,So we thought， we'd go buy two large bundles of newspaper.
 SAY.chapterFlow01.4645.刘翠花,,进价一毛钱一份，我们在车站和码头卖一块。,Go sell it at the station and at the docks.,Go sell it at the station and at the docks.
-SAY.chapterFlow01.4646.刘翠花,,最后真的攒够了路费，还能买些东西给父母。,In the end we really did make enough money to go back home and also get stuff for my parents.,In the end we really did make enough money to go back home and also get stuff for my parents.
+SAY.chapterFlow01.4646.刘翠花,,最后真的攒够了路费，还能买些东西给父母。,In the end， we really did make enough money to go back home and also get stuff for my parents.,In the end， we really did make enough money to go back home and also get stuff for my parents.
 SAY.chapterFlow01.4647.母亲,,噢，哈哈哈哈。,Oh， hahaha!,Oh， hahaha!
 SAY.chapterFlow01.4648.母亲,,你们还挺机灵的。,That was pretty smart.,That was pretty smart.
 SAY.chapterFlow01.4649.刘翠花,,现在想来像做了场梦。,It's like a dream， thinking about it now.,It's like a dream， thinking about it now.
@@ -4017,34 +4017,34 @@ SAY.chapterFlow01.3829.主角,,焗油嘛？,Hot oil?,Hot oil?
 SAY.chapterFlow01.3659.母亲,,烫头。,For hair perms.,For hair perms.
 SAY.chapterFlow01.3831.主角,,烫头不是用那种吊在头顶的机器？,Don't use those hanging machines for perms?,Don't use those hanging machines for perms?
 SAY.chapterFlow01.3830.主角,,像榕树根一样的。,Like the banyan tree roots.,Like the banyan tree roots.
-SAY.chapterFlow01.3832.母亲,,有那种，也有这种罩子加热的。,There's that kind， then there's this kid.,There's that kind， then there's this kid.
+SAY.chapterFlow01.3832.母亲,,有那种，也有这种罩子加热的。,There's that kind， then there's this kind.,There's that kind， then there's this kind.
 SAY.chapterFlow01.3833.母亲,,还有冷烫的，就只戴个烫发帽。,Some even use a cold perm， just using the cap.,Some even use a cold perm， just using the cap.
 SAY.chapterFlow01.3834.主角,,是不是还有用火钳的？,Don't some use tongs?,Don't some use tongs?
 SAY.chapterFlow01.3835.主角,,我读书那时见街上的老爹用过。,I remember when I was a kid I saw people on the street using them.,I remember when I was a kid I saw people on the street using them.
-SAY.chapterFlow01.3836.母亲,,有，那种我都不敢用。,Yeah， but I too scared to use them.,Yeah， but I too scared to use them.
+SAY.chapterFlow01.3836.母亲,,有，那种我都不敢用。,Yeah， but I was too scared to use them.,Yeah， but I was too scared to use them.
 SAY.chapterFlow01.3837.母亲,,一个铁钳，放进炉子，烧得红红的。,Put a pair of metal tongs in the oven， make it red hot.,Put a pair of metal tongs in the oven， make it red hot.
 SAY.chapterFlow01.3838.母亲,,夹下去头发马上冒烟，吱吱响。,Then pinch hair with it， have it smoke and sizzle.,Then pinch hair with it， have it smoke and sizzle.
-SAY.chapterFlow01.3839.母亲,,一不小心就焦了，或者断了。,If you don't do it carefully you'll burn or break the hair.,If you don't do it carefully you'll burn or break the hair.
+SAY.chapterFlow01.3839.母亲,,一不小心就焦了，或者断了。,If you don't do it carefully，  you'll burn or break the hair.,If you don't do it carefully，  you'll burn or break the hair.
 SAY.chapterFlow01.3850.刘翠花,,焦了断了还算好咯！,It's better if the hair just gets burnt， or breaks off.,It's better if the hair just gets burnt， or breaks off.
 SAY.chapterFlow01.3915.刘翠花,,那鬼玩意儿很可怕的！,That stuff is scary!,That stuff is scary!
-SAY.chapterFlow01.3914.刘翠花,,我姑以前被烫到头皮，起了个大水泡。,My auntie got burnt in the past on her scalp， had a huge bliser.,My auntie got burnt in the past on her scalp， had a huge bliser.
-SAY.chapterFlow01.3916.刘翠花,,后来那个位置再也不长头发了。,And hair never grew back there anymore.,And hair never grew back there anymore.
+SAY.chapterFlow01.3914.刘翠花,,我姑以前被烫到头皮，起了个大水泡。,My auntie got burnt in the past on her scalp， had a huge blister.,My auntie got burnt in the past on her scalp， had a huge blister.
+SAY.chapterFlow01.3916.刘翠花,,后来那个位置再也不长头发了。,And the hair never grew back there anymore.,And the hair never grew back there anymore.
 SAY.chapterFlow01.3852.母亲,,被你讲得，我都起鸡皮疙瘩了！,Hearing that gives me goosebumps!,Hearing that gives me goosebumps!
 SAY.chapterFlow01.3851.刘翠花,,真的就是这么恐怖呀！,That is scary!,That is scary!
 SAY.chapterFlow01.3687.母亲,,这次运的什么货？,What are you delivering this time?,What are you delivering this time?
 SAY.chapterFlow01.3919.主角,,昨晚在电话里不是跟你说过了？,Didn't I tell you on the phone last night?,Didn't I tell you on the phone last night?
 SAY.chapterFlow01.3920.主角,,跟庆山镇的一个老板去省城采购。,Going with a store owner from Qingshan Mountain to go buy stuff.,Going with a store owner from Qingshan Mountain to go buy stuff.
 SAY.chapterFlow01.4625.主角,,一个个装好的纸箱，食品粮油之类的。,Just a bunch of prepackaged stuff like food， grains， oil.,Just a bunch of prepackaged stuff like food， grains， oil.
-SAY.chapterFlow01.3921.母亲,,哦，我都没听清。,Oh， Didn't hear you clearly.,Oh， Didn't hear you clearly.
+SAY.chapterFlow01.3921.母亲,,哦，我都没听清。,Oh， didn't hear you clearly.,Oh， didn't hear you clearly.
 SAY.chapterFlow01.4626.母亲,,庆山不就在我们芷滨旁边吗？,Isn't Qingshan right next to Zhibin?,Isn't Qingshan right next to Zhibin?
 SAY.chapterFlow01.3922.主角,,是啊，所以弄完了我就直接回来。,Yeah， so I'll come right back after I'm done.,Yeah， so I'll come right back after I'm done.
 SAY.chapterFlow01.3923.主角,,其实还可以再快点的，他搞得太啰嗦。,Actually it could be faster， but he likes to make it complicated.,Actually it could be faster， but he likes to make it complicated.
 SAY.chapterFlow01.3924.主角,,先进县里卸掉一半货，回到镇上再全部卸完。,Gotta drop off half in the county， then come back to the town to drop off the rest.,Gotta drop off half in the county， then come back to the town to drop off the rest.
 SAY.chapterFlow01.3925.母亲,,干嘛要这样折腾？,Why so difficult?,Why so difficult?
-SAY.chapterFlow01.3926.主角,,说明东西不全是他的。,Probably not all his stuff.,Probably not all his stuff.
-SAY.chapterFlow01.3927.主角,,估计是几个熟人出钱，拼一车货，他做代表。,Probably a few people did a group buy and he's the representative.,Probably a few people did a group buy and he's the representative.
-SAY.chapterFlow01.3928.主角,,这年头，个个都在找路子做生意。,This time of year， everyone is looking to do busienss.,This time of year， everyone is looking to do busienss.
-SAY.chapterFlow01.3929.母亲,,哎，我们没有人家那种头脑，学不来。,Sigh， too bad no one in our familyi has that kind of brains， can't do it.,Sigh， too bad no one in our familyi has that kind of brains， can't do it.
+SAY.chapterFlow01.3926.主角,,说明东西不全是他的。,It's probably not all his stuff.,It's probably not all his stuff.
+SAY.chapterFlow01.3927.主角,,估计是几个熟人出钱，拼一车货，他做代表。,Probably， a few people did a group buy and he's the representative.,Probably， a few people did a group buy and he's the representative.
+SAY.chapterFlow01.3928.主角,,这年头，个个都在找路子做生意。,This time of year， everyone is looking to do business.,This time of year， everyone is looking to do business.
+SAY.chapterFlow01.3929.母亲,,哎，我们没有人家那种头脑，学不来。,Sigh， too bad no one in our family has that kind of brains， can't do it.,Sigh， too bad no one in our family has that kind of brains， can't do it.
 SAY.chapterFlow01.3930.母亲,,踏踏实实做自己的事情就算了。,Just do our own work honestly and that's enough.,Just do our own work honestly and that's enough.
 SAY.chapterFlow01.4627.主角,,那当然，哪有这么容易发财？,Of course， it's not that easy to get rich.,Of course， it's not that easy to get rich.
 SAY.chapterFlow01.3853.母亲,,你还不走？,Why are you still here?,Why are you still here?
@@ -4059,7 +4059,7 @@ SAY.chapterFlow01.3737.母亲,,谁这么缺德哦？连毛巾都要偷。,Who wo
 SAY.chapterFlow01.3739.母亲,,这老头子很讨嫌的。,Your dad is so annoying.,Your dad is so annoying.
 SAY.chapterFlow01.3740.母亲,,我说给他染发，他死活不愿意。,I told him I'll dye his hair for him， he won't let me.,I told him I'll dye his hair for him， he won't let me.
 SAY.chapterFlow01.3741.母亲,,说白头发看起来精神，简直岂有此理！,Says his grey hair looks more energetic， nonsense!,Says his grey hair looks more energetic， nonsense!
-SAY.chapterFlow01.4629.母亲,,不弄好那保险丝，我怕冰箱里头的东西坏哦。,If we don't fix that fuse I'm afraid the things in the fridge will go bad.,If we don't fix that fuse I'm afraid the things in the fridge will go bad.
+SAY.chapterFlow01.4629.母亲,,不弄好那保险丝，我怕冰箱里头的东西坏哦。,If we don't fix that fuse， I'm afraid the things in the fridge will go bad.,If we don't fix that fuse， I'm afraid the things in the fridge will go bad.
 SAY.chapterFlow01.3782.系统提示,,{wvo}捡到刚送来的报纸{w=3},{wvo}Picked up the newspaper{w=3},{wvo}Picked up the newspaper{w=3}
 SAY.chapterFlow01.3934.主角,,妈。,Mom.,Mom.
 SAY.chapterFlow01.3937.母亲,,回来了吗？饿咩？,Back? Hungry?,Back? Hungry?
@@ -4089,7 +4089,7 @@ SAY.chapterFlow01.4824.主角,,哦，那很好呀！,Oh， that's great!,Oh， t
 SAY.chapterFlow01.4825.父亲,,我做的这个婴儿背带，终于有用武之地啦！,I made a baby carrier， we can finally use it!,I made a baby carrier， we can finally use it!
 SAY.chapterFlow01.4826.主角,,人家不会买个新的吗？,Won't they just buy a brand new one?,Won't they just buy a brand new one?
 SAY.chapterFlow01.4827.主角,,还要用你自制的。,Why would they want one you made?,Why would they want one you made?
-SAY.chapterFlow01.4828.父亲,,买的哪有做的合适？,The bought one won't fit as one you made.,The bought one won't fit as one you made.
+SAY.chapterFlow01.4828.父亲,,买的哪有做的合适？,The bought one won't fit as well as one you made.,The bought one won't fit as well as one you made.
 SAY.chapterFlow01.4829.父亲,,我专门设计过的，半岁到五岁都可以用。,I designed this myself， can use it from 6 months till 5 years old.,I designed this myself， can use it from 6 months till 5 years old.
 SAY.chapterFlow01.4830.主角,,谁三岁还用背带咧？,Who wants to be carried at 3?,Who wants to be carried at 3?
 SAY.chapterFlow01.4831.父亲,,你懂什么？,What do you know?,What do you know?
@@ -4108,15 +4108,15 @@ SAY.chapterFlow01.4788.主角,,不可以不写！,You have to!,You have to!
 SAY.chapterFlow01.4789.主角,,你是学生，完成作业是你的任务！,You are a student， completing assignments is your mission!,You are a student， completing assignments is your mission!
 SAY.chapterFlow01.4790.女儿,,我不想写！,I don't want to!,I don't want to!
 SAY.chapterFlow01.4791.主角,,老师刚讲你成绩差，是因为什么？,The teacher said your grades are bad， do you know why?,The teacher said your grades are bad， do you know why?
-SAY.chapterFlow01.4792.主角,,平时不做作业，考试的时候你就不会。,You don't do homework， so when they give you a test you don't know how to do it.,You don't do homework， so when they give you a test you don't know how to do it.
+SAY.chapterFlow01.4792.主角,,平时不做作业，考试的时候你就不会。,You don't do homework， so when they give you a test， you don't know how to do it.,You don't do homework， so when they give you a test， you don't know how to do it.
 SAY.chapterFlow01.4793.主角,,读书想读好，必须要写作业。,You have to study， and do your homework.,You have to study， and do your homework.
 SAY.chapterFlow01.4794.女儿,,我也不想读书！,I don't want to study!,I don't want to study!
 SAY.chapterFlow01.4795.女儿,,读书不好玩。,Studying isn't fun.,Studying isn't fun.
-SAY.chapterFlow01.4796.主角,,读书就不是为了好玩，是为了学东西。,Studying it's for fun， it's for learning.,Studying it's for fun， it's for learning.
+SAY.chapterFlow01.4796.主角,,读书就不是为了好玩，是为了学东西。,Studying isn't for fun， it's for learning.,Studying isn't for fun， it's for learning.
 SAY.chapterFlow01.4797.女儿,,我不喜欢。,I don't like it.,I don't like it.
 SAY.chapterFlow01.4798.主角,,不管你喜不喜欢。,I don't care if you like it or not.,I don't care if you like it or not.
 SAY.chapterFlow01.4799.主角,,回去写作业！快点！,Go back and do your homework! Now!,Go back and do your homework! Now!
-SAY.chapterFlow01.4801.主角,,听见咩！？,Do you hear?!,Do you hear?!
+SAY.chapterFlow01.4801.主角,,听见咩！？,Do you hear me?!,Do you hear me?!
 SAY.chapterFlow01.4803.主角,,覃茁荔！,Qin Zhuoli!,Qin Zhuoli!
 SAY.chapterFlow01.4808.主角,,你再扔东西试试！？,Throw something again!,Throw something again!
 SAY.chapterFlow01.4809.主角,,自己做错事还这么恶！,You did something wrong and you still act up!,You did something wrong and you still act up!
@@ -4144,7 +4144,7 @@ SAY.chapterFlow01.4987.女儿,,呜——,Sob-,Sob-
 SAY.chapterFlow01.4989.主角,,这几个抽屉找过没有？,Did you look in the drawers?,Did you look in the drawers?
 SAY.chapterFlow01.4990.女儿,,找过了——,Yes-,Yes-
 SAY.chapterFlow01.4991.女儿,,没有——,It's gone-,It's gone-
-SAY.chapterFlow01.4992.主角,,你的魔法棒长什么样？,What's it look like?,What's it look like?
+SAY.chapterFlow01.4992.主角,,你的魔法棒长什么样？,What does it look like?,What does it look like?
 SAY.chapterFlow01.4993.女儿,,这么长的——,It's this long-,It's this long-
 SAY.chapterFlow01.4994.女儿,,很漂亮的——,Very pretty-,Very pretty-
 SAY.chapterFlow01.4995.女儿,,头头有颗五角星——,Has a star on top-,Has a star on top-
@@ -4172,10 +4172,10 @@ SAY.chapterFlow01.5016.主角,,我马上过去。,I'll go get it.,I'll go get it
 SAY.chapterFlow01.5041.冬夕,,咳咳——咳。,Cough- Cough.,Cough- Cough.
 SAY.chapterFlow01.5042.主角,,下午路过没见到你。,Didn't see you this afternoon.,Didn't see you this afternoon.
 SAY.chapterFlow01.5043.冬夕,,去钓鱼了。,Went fishing.,Went fishing.
-SAY.chapterFlow01.5044.主角,,当老板当得这么轻松。,That easy being the boss?,That easy being the boss?
+SAY.chapterFlow01.5044.主角,,当老板当得这么轻松。,It's that easy being the boss?,It's that easy being the boss?
 SAY.chapterFlow01.5045.冬夕,,在厂里也没事做啊。,Nothing to do in the factory.,Nothing to do in the factory.
 SAY.chapterFlow01.5046.冬夕,,总不能我来锯木头吧？那还请什么工人？,I can't be the one sawing all the time right? Why would I hire people then?,I can't be the one sawing all the time right? Why would I hire people then?
-SAY.chapterFlow01.5047.冬夕,,这回在家待几天？,How many days you staying this time?,How many days you staying this time?
+SAY.chapterFlow01.5047.冬夕,,这回在家待几天？,How many days are you staying this time?,How many days are you staying this time?
 SAY.chapterFlow01.5048.主角,,不晓得，估计蛮久的。,Not sure， probably a while.,Not sure， probably a while.
 SAY.chapterFlow01.5049.冬夕,,咳咳。,Cough.,Cough.
 SAY.chapterFlow01.5050.冬夕,,那跟我去钓鱼。,Come fishing with me.,Come fishing with me.
@@ -4208,7 +4208,7 @@ SAY.chapterFlow01.5119.黎芸凤,,自己一个，又没吃的。,All alone， no
 SAY.chapterFlow01.5120.主角,,你高兴咯，我没意见。,If you're happy I have no objections.,If you're happy I have no objections.
 SAY.chapterFlow01.5121.黎芸凤,,这样荔荔还能有个伴。,This way Lili can have someone to play with,This way Lili can have someone to play with
 SAY.chapterFlow01.5122.黎芸凤,,她身体不好，不能像别的小朋友那样玩耍。,She's not able to play like other kids.,She's not able to play like other kids.
-SAY.chapterFlow01.5123.黎芸凤,,在家养个宠物，就不会那么寂寞了。,So with a pet she'll feel less lonely.,So with a pet she'll feel less lonely.
+SAY.chapterFlow01.5123.黎芸凤,,在家养个宠物，就不会那么寂寞了。,So with a pet， she'll feel less lonely.,So with a pet， she'll feel less lonely.
 SAY.chapterFlow01.5124.主角,,可以啊。,Sure.,Sure.
 SAY.chapterFlow01.5125.黎芸凤,,你为什么拿我的东西？,Why did you take my things?,Why did you take my things?
 SAY.chapterFlow01.5126.主角,,这是你的？,This is yours?,This is yours?
@@ -4220,14 +4220,14 @@ SAY.chapterFlow01.5131.黎芸凤,,讲义夹。,It's a binder.,It's a binder.
 SAY.chapterFlow01.5132.黎芸凤,,用来装散张的纸的。,For holding loose paper.,For holding loose paper.
 SAY.chapterFlow01.5133.主角,,封面都发黄了。,The cover is yellowed.,The cover is yellowed.
 SAY.chapterFlow01.5134.黎芸凤,,好多年咯，读书的时候我爸给我买的。,Yeah it's been years， my dad bought it when I was studying.,Yeah it's been years， my dad bought it when I was studying.
-SAY.chapterFlow01.5138.UI旁白1,,几时拍的照片？,When were this picture taken?,When were this picture taken?
+SAY.chapterFlow01.5138.UI旁白1,,几时拍的照片？,When was this picture taken?,When was this picture taken?
 SAY.chapterFlow01.5139.UI旁白2,,我读县高的时候。,When I was studying in the County High School.,When I was studying in the County High School.
 SAY.chapterFlow01.5140.UI旁白1,,对哦，你读的是县高。,Oh yeah， you went to the County High School.,Oh yeah， you went to the County High School.
 SAY.chapterFlow01.5141.UI旁白1,,我两年都在公社读的。,My two years were at the commune.,My two years were at the commune.
 SAY.chapterFlow01.5142.UI旁白2,,我晓得。,I know.,I know.
 SAY.chapterFlow01.5143.UI旁白2,,只有成绩好的才挨选去县高。,Only the ones with good grades got to go to County.,Only the ones with good grades got to go to County.
 SAY.chapterFlow01.5144.UI旁白1,,你了不起。,You're amazing.,You're amazing.
-SAY.chapterFlow01.5145.UI旁白2,,哎呀，那时候没过塑，磨损得厉害。,Ah， this is an old photo hasn't gone through plasticization， so it's pretty damaged.,Ah， this is an old photo hasn't gone through plasticization， so it's pretty damaged.
+SAY.chapterFlow01.5145.UI旁白2,,哎呀，那时候没过塑，磨损得厉害。,Ah， this is an old photo that hasn't gone through plasticization， so it's pretty damaged.,Ah， this is an old photo that hasn't gone through plasticization， so it's pretty damaged.
 SAY.chapterFlow01.5146.UI旁白1,,哪个是你？,Which one is you?,Which one is you?
 SAY.chapterFlow01.5147.UI旁白2,,你看不出来咯！？,You can't tell?!,You can't tell?!
 SAY.chapterFlow01.5148.UI旁白1,,眯眼睛那个？,The one with the sqinting eyes?,The one with the sqinting eyes?
@@ -4250,11 +4250,11 @@ SAY.chapterFlow01.5186.UI旁白2,,这样好看啊。,That way it looks better.,T
 SAY.chapterFlow01.5188.UI旁白1,,肉，鱼，菜……,Meat， Fish， vegetables...,Meat， Fish， vegetables...
 SAY.chapterFlow01.5189.UI旁白1,,这是鸡蛋还是马铃薯？,Is this an egg or potato?,Is this an egg or potato?
 SAY.chapterFlow01.5190.UI旁白2,,马铃薯。,Potato.,Potato.
-SAY.chapterFlow01.5192.UI旁白2,,鸡蛋不买了，妈说我们养的鸡会下蛋的。,Don't need to buy eggs， my mom says our chickens will lay t hem.,Don't need to buy eggs， my mom says our chickens will lay t hem.
+SAY.chapterFlow01.5192.UI旁白2,,鸡蛋不买了，妈说我们养的鸡会下蛋的。,Don't need to buy eggs， my mom says our chickens will lay them.,Don't need to buy eggs， my mom says our chickens will lay them.
 SAY.chapterFlow01.5194.UI旁白1,,五角，七角，一块五，三角……,50 cents， 70 cents， buck 50， 30 cents...,50 cents， 70 cents， buck 50， 30 cents...
 SAY.chapterFlow01.5197.UI旁白1,,不便宜啊。,This ain't cheap.,This ain't cheap.
 SAY.chapterFlow01.5198.UI旁白2,,我要学会讲价！太薄了我的脸皮！,I want to learn to haggle! I'm too shy!,I want to learn to haggle! I'm too shy!
-SAY.chapterFlow01.5199.UI旁白1,,讲多几次就习惯了。,Just keep trying you'll get better.,Just keep trying you'll get better.
+SAY.chapterFlow01.5199.UI旁白1,,讲多几次就习惯了。,Just keep trying， you'll get better.,Just keep trying， you'll get better.
 SAY.chapterFlow01.5200.UI旁白1,,右边这几句又是什么？,What's this on the right?,What's this on the right?
 SAY.chapterFlow01.5201.UI旁白2,,我的买菜心得。,My thoughts on buying groceries.,My thoughts on buying groceries.
 SAY.chapterFlow01.5211.UI旁白2,,人家跟我讲的。,What people told me.,What people told me.
@@ -4262,15 +4262,15 @@ SAY.chapterFlow01.5203.UI旁白1,,我看看写了啥。,Let me see.,Let me see.
 SAY.chapterFlow01.5204.UI旁白1,,那种小冻鱼叫剥皮鱼。,The tiny frozen fish are called black scrapers.,The tiny frozen fish are called black scrapers.
 SAY.chapterFlow01.5205.UI旁白1,,很划算，味道也不错。,It's economical， and tastes good.,It's economical， and tastes good.
 SAY.chapterFlow01.5206.UI旁白1,,想买活鱼要早点去。,If you want to buy live fish you should go early.,If you want to buy live fish you should go early.
-SAY.chapterFlow01.5207.UI旁白1,,市场路口大盆子卖的，比鱼摊的便宜。,The one sold in the large water buckets at the entrace to the market is cheaper than the fish stand.,The one sold in the large water buckets at the entrace to the market is cheaper than the fish stand.
-SAY.chapterFlow01.5208.UI旁白1,,青菜反过来，晚点再去可以捡漏。,Vegetables on the otherhand are the other way around， go later to get the cheaper ones.,Vegetables on the otherhand are the other way around， go later to get the cheaper ones.
+SAY.chapterFlow01.5207.UI旁白1,,市场路口大盆子卖的，比鱼摊的便宜。,The ones sold in the large water buckets are cheaper.,The ones sold in the large water buckets are cheaper.
+SAY.chapterFlow01.5208.UI旁白1,,青菜反过来，晚点再去可以捡漏。,Vegetables on the otherhand are cheaper later.,Vegetables on the otherhand are cheaper later.
 SAY.chapterFlow01.5209.UI旁白1,,……,……,……
-SAY.chapterFlow01.5210.UI旁白1,,这种话有什么好记的？个个都晓得。,What's so necessary about writing this down? Everyone knows.,What's so necessary about writing this down? Everyone knows.
+SAY.chapterFlow01.5210.UI旁白1,,这种话有什么好记的？个个都晓得。,What's so necessary about writing this down?,What's so necessary about writing this down?
 SAY.chapterFlow01.5202.UI旁白2,,你莫管，我就要记！,Leave me alone， I want to write it down!,Leave me alone， I want to write it down!
 SAY.chapterFlow01.5212.UI旁白2,,省下钱，多买点苹果给地主妹吃。,Save some money， buy some apples for the kid.,Save some money， buy some apples for the kid.
 SAY.chapterFlow01.5213.UI旁白2,,娃仔要多吃水果。,Kids need to eat more fruit.,Kids need to eat more fruit.
-SAY.chapterFlow01.5214.UI旁白1,,下回跑长途经过广东，我买罐奶粉回来。,Next time on the way back from Guangdong I'll pick up some formula.,Next time on the way back from Guangdong I'll pick up some formula.
-SAY.chapterFlow01.5215.UI旁白1,,听讲那边的奶粉好。,I hear the formual there is good.,I hear the formual there is good.
+SAY.chapterFlow01.5214.UI旁白1,,下回跑长途经过广东，我买罐奶粉回来。,I'll pick up some formula from Guangdong.,I'll pick up some formula from Guangdong.
+SAY.chapterFlow01.5215.UI旁白1,,听讲那边的奶粉好。,I hear the formula there is good.,I hear the formula there is good.
 SAY.chapterFlow01.5216.UI旁白2,,可以啊。,Sure.,Sure.
 SAY.chapterFlow01.5219.旁白1,,喂。,Hey.,Hey.
 SAY.chapterFlow01.5218.主角,,喂。,Hey.,Hey.
@@ -4279,7 +4279,7 @@ SAY.chapterFlow01.5220.旁白1,,做什么？,What's up?,What's up?
 SAY.chapterFlow01.5221.旁白1,,咳咳，吭——,Cough， ugh-,Cough， ugh-
 SAY.chapterFlow01.5240.旁白1,,想去钓鱼了吗？,Wanna go fishing? ,Wanna go fishing? 
 SAY.chapterFlow01.5222.主角,,钓个屁。,Fish my ass.,Fish my ass.
-SAY.chapterFlow01.5223.主角,,你认识人咩？帮我问问镇上有没有要拉货的？,Do you know people? Ask to see if anyone you know needs delivery.,Do you know people? Ask to see if anyone you know needs delivery.
+SAY.chapterFlow01.5223.主角,,你认识人咩？帮我问问镇上有没有要拉货的？,Do you know people? Asking to see if anyone you know needs delivery.,Do you know people? Asking to see if anyone you know needs delivery.
 SAY.chapterFlow01.5224.旁白1,,你要干嘛？,What do you want?,What do you want?
 SAY.chapterFlow01.5225.主角,,这阵子不想跑长途了。,I don't want to drive long haul anymore.,I don't want to drive long haul anymore.
 SAY.chapterFlow01.5241.主角,,打算在附近随便做做，歇一下。,I'm gonna change to just doing local routes， take a break.,I'm gonna change to just doing local routes， take a break.
@@ -4324,8 +4324,8 @@ SAY.wangyoumu.104.王有亩,,我没有打他。,I didn't beat him.,I didn't beat
 SAY.wangyoumu.105.王有亩,,小舅子买了新的给他，再搞坏我就收拾他。,Brother in law bought a new one， if he breaks it again I'll take care of him.,Brother in law bought a new one， if he breaks it again I'll take care of him.
 SAY.chapterFlow02.1.女儿,,阿爸。,Dad.,Dad.
 SAY.chapterFlow02.5311.女儿,,这里到底是叫芷滨镇，还是芷滨乡啊？,Is this Zhibin Town， or Zhibin Village?,Is this Zhibin Town， or Zhibin Village?
-SAY.chapterFlow02.5312.主角,,几年前还叫芷滨乡的。,Few years ago we called it Zhibin Village.,Few years ago we called it Zhibin Village.
-SAY.chapterFlow02.5313.主角,,后来改成镇了。,Then it became Town.,Then it became Town.
+SAY.chapterFlow02.5312.主角,,几年前还叫芷滨乡的。,Few years ago， we called it Zhibin Village.,Few years ago， we called it Zhibin Village.
+SAY.chapterFlow02.5313.主角,,后来改成镇了。,Then it became a Town.,Then it became a Town.
 SAY.chapterFlow02.5314.女儿,,有什么不同？,What's the difference?,What's the difference?
 SAY.chapterFlow02.5315.主角,,我也不清楚。,I don't really know,I don't really know
 SAY.chapterFlow02.5316.主角,,可能镇更大一点吧。,Maybe town is bigger?,Maybe town is bigger?
@@ -4344,7 +4344,7 @@ SAY.chapterFlow02.5328.主角,,龙水县不仅有芷滨，还有其他各个镇�
 SAY.chapterFlow02.5329.女儿,,哦！那我明白了！,Oh! I get it now!,Oh! I get it now!
 SAY.chapterFlow02.5330.主角,,为什么突然问这个？,Why do you suddenly ask this?,Why do you suddenly ask this?
 SAY.chapterFlow02.5331.女儿,,妈妈帮我画了一幅画，还没有名字。,Mommy drew a picture for me， but there's no name.,Mommy drew a picture for me， but there's no name.
-SAY.chapterFlow02.5332.女儿,,现在决定了，就叫——芷滨镇小地图！,Now I decided， I'm going to call it Zhibin Town map!,Now I decided， I'm going to call it Zhibin Town map!
+SAY.chapterFlow02.5332.女儿,,现在决定了，就叫——芷滨镇小地图！,Now I decided， I'm going to call it the Zhibin Town map!,Now I decided， I'm going to call it the Zhibin Town map!
 SAY.chapterFlow02.5333.主角,,什么样的，给我看看。,What's it look like， let me see.,What's it look like， let me see.
 SAY.chapterFlow02.18.UI旁白2,,可以哦，画得挺好。,Oh， it's nicely drawn.,Oh， it's nicely drawn.
 SAY.chapterFlow02.19.UI旁白1,,图案是妈妈画的，颜色是我涂的。,Mommy drew the pictures， I colored it in.,Mommy drew the pictures， I colored it in.
@@ -4361,7 +4361,7 @@ SAY.chapterFlow02.56.UI旁白1,,对的！这是烧烤串！,Yeah! This is a BBQ 
 SAY.chapterFlow02.57.UI旁白1,,这里是桥头的烧烤店。,This is the BBQ shop at the bridge.,This is the BBQ shop at the bridge.
 SAY.chapterFlow02.66.UI旁白1,,什么是皂荚？,What's zao jia?,What's zao jia?
 SAY.chapterFlow02.67.UI旁白2,,皂荚树啊。,Zao jia tree.,Zao jia tree.
-SAY.chapterFlow02.5336.UI旁白2,,它的果就像这样子啦，一颗颗连成一串的。,The fruit  looks like this， it's like a round thing and another all linked together.,The fruit  looks like this， it's like a round thing and another all linked together.
+SAY.chapterFlow02.5336.UI旁白2,,它的果就像这样子啦，一颗颗连成一串的。,The fruit looks like this， it's like a round thing and another all linked together.,The fruit looks like this， it's like a round thing and another all linked together.
 SAY.chapterFlow02.5337.UI旁白1,,不对！这是烧烤串！,No! This is a BBQ skewer!,No! This is a BBQ skewer!
 SAY.chapterFlow02.5338.UI旁白1,,这里是桥头的烧烤店。,This is the BBQ shop at the bridge.,This is the BBQ shop at the bridge.
 SAY.chapterFlow02.102.UI旁白1,,嗯，是烟囱！,Yeah， this is a chimney!,Yeah， this is a chimney!
@@ -4374,10 +4374,10 @@ SAY.chapterFlow02.5341.UI旁白2,,有的酒壶就长这样。,Flagons look like 
 SAY.chapterFlow02.5342.UI旁白1,,不是，这是烟囱！,No， this is a chimney!,No， this is a chimney!
 SAY.chapterFlow02.5343.UI旁白1,,这里是糖厂！,This is the sugar factor!,This is the sugar factor!
 SAY.chapterFlow02.134.UI旁白1,,回答正确！,Correct answer!,Correct answer!
-SAY.chapterFlow02.135.UI旁白1,,快到村里那条路，有个古代留下的城门。,The road that leads up into the town has a gate left over from old times.,The road that leads up into the town has a gate left over from old times.
+SAY.chapterFlow02.135.UI旁白1,,快到村里那条路，有个古代留下的城门。,The town has a gate left over from old times.,The town has a gate left over from old times.
 SAY.chapterFlow02.152.UI旁白1,,我们镇上哪有塔呀！？,We don't have a tower in our town!?,We don't have a tower in our town!?
 SAY.chapterFlow02.153.UI旁白1,,是城门！,This is the gate!,This is the gate!
-SAY.chapterFlow02.155.UI旁白1,,快到村里那条路，有个古代留下的城门。,The road that leads up into the town has a gate left over from old times.,The road that leads up into the town has a gate left over from old times.
+SAY.chapterFlow02.155.UI旁白1,,快到村里那条路，有个古代留下的城门。,The gate left over from old times.,The gate left over from old times.
 SAY.chapterFlow02.80.UI旁白2,,你也吃过那家烧烤咯？,You've had BBQ there before?,You've had BBQ there before?
 SAY.chapterFlow02.4619.UI旁白2,,他们不是晚上才开门？,Don't they only open at night?,Don't they only open at night?
 SAY.chapterFlow02.99.UI旁白1,,白天也有开的！,They're open during the day too.,They're open during the day too.
@@ -4394,7 +4394,7 @@ SAY.chapterFlow02.4634.UI旁白2,,会啊。,Yeah.,Yeah.
 SAY.chapterFlow02.5345.UI旁白2,,职工福利，过节就发。,Perks at work， you get some during the holiday.,Perks at work， you get some during the holiday.
 SAY.chapterFlow02.4636.UI旁白1,,真好！,Cool!,Cool!
 SAY.chapterFlow02.4637.UI旁白1,,我也想去糖厂上班！,I want to go work at the sugar factory!,I want to go work at the sugar factory!
-SAY.chapterFlow02.4638.UI旁白2,,人家生产的是白砂糖，不是你吃的那种糖果。,They make the cane sugar， not the candy you eat. ,They make the cane sugar， not the candy you eat. 
+SAY.chapterFlow02.4638.UI旁白2,,人家生产的是白砂糖，不是你吃的那种糖果。,They make cane sugar， not the candy you eat. ,They make cane sugar， not the candy you eat. 
 SAY.chapterFlow02.4639.UI旁白1,,啊？,Oh?,Oh?
 SAY.chapterFlow02.4640.UI旁白1,,那，那我再想想！,Then， then let me think!,Then， then let me think!
 SAY.chapterFlow02.5347.UI旁白1,,下一个问题！这个！,Next question! This one!,Next question! This one!
@@ -4409,27 +4409,27 @@ SAY.chapterFlow02.172.UI旁白2,,什么水什么云，不记得了。,Something 
 SAY.chapterFlow02.4650.UI旁白2,,好像是宋朝的一个诗人，被贬到了这里后写的。,I think it was a Song Dynasty poet， wrote it after they got pressed down here.,I think it was a Song Dynasty poet， wrote it after they got pressed down here.
 SAY.chapterFlow02.4651.UI旁白1,,扁？,Pressed down?,Pressed down?
 SAY.chapterFlow02.4652.UI旁白2,,古代那些当官的人，做错事要挨皇帝罚。,In the old days， when you were an official， if you did something wrong the Emperor would punish you.,In the old days， when you were an official， if you did something wrong the Emperor would punish you.
-SAY.chapterFlow02.4653.UI旁白2,,皇帝派他去偏远地区，这就叫贬。,If the emperor sent you to the middle of nowhere， that would someimtes be called pressed down.,If the emperor sent you to the middle of nowhere， that would someimtes be called pressed down.
+SAY.chapterFlow02.4653.UI旁白2,,皇帝派他去偏远地区，这就叫贬。,If the emperor sent you to the middle of nowhere， that would sometimes be called pressed down.,If the emperor sent you to the middle of nowhere， that would sometimes be called pressed down.
 SAY.chapterFlow02.4654.UI旁白1,,哦，吓我一跳！,Oh， scared me.,Oh， scared me.
 SAY.chapterFlow02.4655.UI旁白1,,我还以为他被压扁了。,I thought he got flattened.,I thought he got flattened.
 SAY.chapterFlow02.4656.UI旁白2,,哪有这么恐怖的事咧？,No way， not that scary.,No way， not that scary.
-SAY.chapterFlow02.4657.UI旁白1,,好啦，接下来是最重要的一题！,Okay， the next mone is the most important question!,Okay， the next mone is the most important question!
+SAY.chapterFlow02.4657.UI旁白1,,好啦，接下来是最重要的一题！,Okay， the next one is the most important question!,Okay， the next one is the most important question!
 SAY.chapterFlow02.4658.UI旁白1,,我们家在哪里呢？,Where is our house?,Where is our house?
 SAY.chapterFlow02.183.主角,,还要问哪个？,What else do you want to ask?,What else do you want to ask?
 SAY.chapterFlow02.184.女儿,,没了，其他都很简单。,Nothing， the rest are easy.,Nothing， the rest are easy.
 SAY.chapterFlow02.185.女儿,,你要走了吗？,Are you leaving?,Are you leaving?
 SAY.chapterFlow02.186.主角,,准备啦，快到时间了。,Getting ready to， it's almost time.,Getting ready to， it's almost time.
-SAY.chapterFlow02.187.女儿,,这次去哪里？,Where are you gong this time.,Where are you gong this time.
+SAY.chapterFlow02.187.女儿,,这次去哪里？,Where are you going this time.,Where are you going this time.
 SAY.chapterFlow02.188.主角,,山东。,Shandong.,Shandong.
 SAY.chapterFlow02.5353.女儿,,山东比广东远吗？,Is Shandong farther than Guangdong?,Is Shandong farther than Guangdong?
 SAY.chapterFlow02.5352.主角,,远多了。,Much farther.,Much farther.
 SAY.chapterFlow02.5355.女儿,,这个地图送给你。,Take this map.,Take this map.
 SAY.chapterFlow02.5354.主角,,给我干嘛？,Why give it to me?,Why give it to me?
-SAY.chapterFlow02.189.女儿,,带着它就不怕迷路了。,If you have it then you won't get lost.,If you have it then you won't get lost.
+SAY.chapterFlow02.189.女儿,,带着它就不怕迷路了。,If you have it， then you won't get lost.,If you have it， then you won't get lost.
 SAY.chapterFlow02.190.主角,,我怎么会迷路呢？,How would I get lost?,How would I get lost?
 SAY.chapterFlow02.191.女儿,,你上次说的呀。,You said it last time.,You said it last time.
 SAY.chapterFlow02.192.女儿,,镇上每天都不一样。,The town is different everyday.,The town is different everyday.
-SAY.chapterFlow02.193.女儿,,盖新房子，修新街道。,The build new houses， make new roads.,The build new houses， make new roads.
+SAY.chapterFlow02.193.女儿,,盖新房子，修新街道。,They build new houses， make new roads.,They build new houses， make new roads.
 SAY.chapterFlow02.194.女儿,,你总是出去开车，我怕你会不认得路回家。,You keep driving everyday， I'm afraid you won't know your way home.,You keep driving everyday， I'm afraid you won't know your way home.
 SAY.chapterFlow02.195.主角,,哈哈，那不至于。,Haha， it's not that bad.,Haha， it's not that bad.
 SAY.chapterFlow02.196.主角,,我这辈子都住在这里，闭着眼睛都会走。,I've lived here all my life， I can walk around with my eyes closed.,I've lived here all my life， I can walk around with my eyes closed.
@@ -4439,29 +4439,29 @@ SAY.chapterFlow02.199.主角,,就当是个护身符。,It's like a protection ch
 SAY.chapterFlow02.200.女儿,,好的。,Okay.,Okay.
 SAY.chapterFlow02.201.主角,,谢谢你哦。,Thank you.,Thank you.
 SAY.chapterFlow02.202.女儿,,不客气！,You're welcome!,You're welcome!
-SAY.chapterFlow02.408.系统提示,,这是芷滨镇中心村的地图,This is a map ofthe town of Zhibin.,This is a map ofthe town of Zhibin.
+SAY.chapterFlow02.408.系统提示,,这是芷滨镇中心村的地图,This is a map of the town of Zhibin.,This is a map of the town of Zhibin.
 SAY.chapterFlow02.410.系统提示,,蓝线表示当前在哪里,The blue tells you where you're at now.,The blue tells you where you're at now.
 SAY.chapterFlow02.418.系统提示,,红圈表示要去哪里,The red tells you where you need to go.,The red tells you where you need to go.
 SAY.chapterFlow02.424.系统提示,,方向键可以切换不同地点,Arrow keys can swap between different locations.,Arrow keys can swap between different locations.
 SAY.chapterFlow02.429.系统提示,,确认键可以获取该地点的信息,Confirm key gives you some information.,Confirm key gives you some information.
-SAY.chapterFlow02.4758.UI旁白1,,去邮局门口找村里来的宁叔。,Go to the Post office to find Uncle Ning.,Go to the Post office to find Uncle Ning.
-SAY.chapterFlow02.5358.UI旁白1,,去畜牧站找阿山。,To the agricultre station to find Ah Shan.,To the agricultre station to find Ah Shan.
-SAY.chapterFlow02.499.UI旁白1,,这时候回家还早，先去谈谈工作吧。,It's too early to go back， see if I can find some work.,It's too early to go back， see if I can find some work.
-SAY.chapterFlow02.505.UI旁白1,,之前陪地主妹看过一个动画片，叫《机器狗》。,Ah not long ago I went with the kid to watch a cartoon movie， “Robot Dog”.,Ah not long ago I went with the kid to watch a cartoon movie， “Robot Dog”.
+SAY.chapterFlow02.4758.UI旁白1,,去邮局门口找村里来的宁叔。,Go to the post office to find Uncle Ning.,Go to the post office to find Uncle Ning.
+SAY.chapterFlow02.5358.UI旁白1,,去畜牧站找阿山。,Go to the agricultre station to find Ah Shan.,Go to the agricultre station to find Ah Shan.
+SAY.chapterFlow02.499.UI旁白1,,这时候回家还早，先去谈谈工作吧。,It's too early to go back， let's see if I can find some work.,It's too early to go back， let's see if I can find some work.
+SAY.chapterFlow02.505.UI旁白1,,之前陪地主妹看过一个动画片，叫《机器狗》。,Ah， not long ago I went with the kid to watch a cartoon movie， “Robot Dog”.,Ah， not long ago I went with the kid to watch a cartoon movie， “Robot Dog”.
 SAY.chapterFlow02.506.UI旁白1,,它有个法宝是一扇门。,They had a gadget that was a door.,They had a gadget that was a door.
-SAY.chapterFlow02.512.UI旁白1,,自己想好去哪里，打开门就是那个地方。,Once you thnk of where you want to go， you open the door and there you are.,Once you thnk of where you want to go， you open the door and there you are.
+SAY.chapterFlow02.512.UI旁白1,,自己想好去哪里，打开门就是那个地方。,Once you think of where you want to go， you open the door and there you are.,Once you think of where you want to go， you open the door and there you are.
 SAY.chapterFlow02.515.UI旁白1,,真有那玩意儿就好了，多方便啊。,It'd be so nice if that was real， how convenient.,It'd be so nice if that was real， how convenient.
 SAY.chapterFlow02.514.UI旁白1,,最好是能用来开车送货，绝对发大财。,If you can use it to make deliveries， you'd make a lot of money.,If you can use it to make deliveries， you'd make a lot of money.
-SAY.chapterFlow02.513.UI旁白1,,算了，别做梦了，一步一步自己走吧。,Bah， no time to daydream， better do it myself one step at a time.,Bah， no time to daydream， better do it myself one step at a time.
-SAY.chapterFlow02.5375.UI旁白1,,看地图看半天，还不如走起来。,Instead of staring at the map， better to just start walking.,Instead of staring at the map， better to just start walking.
-SAY.chapterFlow02.523.UI旁白1,,芷滨发展得不错，该有的都有了。,Zhibin's development is coming along， we have everything we're supposed to have.,Zhibin's development is coming along， we have everything we're supposed to have.
+SAY.chapterFlow02.513.UI旁白1,,算了，别做梦了，一步一步自己走吧。,Bah， no time to daydreaming， better do it myself one step at a time.,Bah， no time to daydreaming， better do it myself one step at a time.
+SAY.chapterFlow02.5375.UI旁白1,,看地图看半天，还不如走起来。,Instead of staring at the map， maybe it's better to just start walking.,Instead of staring at the map， maybe it's better to just start walking.
+SAY.chapterFlow02.523.UI旁白1,,芷滨发展得不错，该有的都有了。,Zhibin's development is coming along， we have everything we need.,Zhibin's development is coming along， we have everything we need.
 SAY.chapterFlow02.524.UI旁白1,,有些路好久没走过了，有的人也很久没来往。,Haven't walked down some streets， and haven't said hi to lots of people.,Haven't walked down some streets， and haven't said hi to lots of people.
 SAY.chapterFlow02.525.UI旁白1,,闲逛一下也问题不大，可别忘了要做的事情。,Shouldn't be a big problem to wander around a bit， but still， gotta remember what I gotta do.,Shouldn't be a big problem to wander around a bit， but still， gotta remember what I gotta do.
 SAY.chapterFlow02.4681.UI旁白1,,阿爸，我们家的房子，旧时就长这样吗？,Dad， was our house always like this?,Dad， was our house always like this?
 SAY.chapterFlow02.4682.UI旁白2,,当然不是。,Of course not.,Of course not.
-SAY.chapterFlow02.4683.UI旁白2,,最初只是个泥砖瓦房，光有前面的堂屋。,At first it was just a concrete and tile building with the front area.,At first it was just a concrete and tile building with the front area.
+SAY.chapterFlow02.4683.UI旁白2,,最初只是个泥砖瓦房，光有前面的堂屋。,At first， it was just a concrete and tile building with the front area.,At first， it was just a concrete and tile building with the front area.
 SAY.chapterFlow02.4684.UI旁白2,,厨房和卫生间都没盖。,We didn't even have a kitchen or bathroom.,We didn't even have a kitchen or bathroom.
-SAY.chapterFlow02.4708.UI旁白2,,后来阿公阿奶攒了钱，才拆了重建。,Then when Grandma and Grandpa finally got some money we rebuilt.,Then when Grandma and Grandpa finally got some money we rebuilt.
+SAY.chapterFlow02.4708.UI旁白2,,后来阿公阿奶攒了钱，才拆了重建。,Then when Grandma and Grandpa finally got some money， we rebuilt.,Then when Grandma and Grandpa finally got some money， we rebuilt.
 SAY.chapterFlow02.4709.UI旁白2,,等我跟你妈妈结了婚，又盖了二楼。,Then when I married your mom， we built the second floor.,Then when I married your mom， we built the second floor.
 SAY.chapterFlow02.4710.UI旁白1,,哇，以后我也盖一层！,Wow， I want to build an extra floor in the future!,Wow， I want to build an extra floor in the future!
 SAY.chapterFlow02.4711.UI旁白1,,不，要盖四层。,No， four!,No， four!
@@ -4474,10 +4474,10 @@ SAY.chapterFlow02.5348.UI旁白2,,我不想走这么多楼梯。,I don't want to
 SAY.chapterFlow02.4718.UI旁白1,,电梯是我们在广东饭店见到的那种吗？,Elevator like the ones we saw in Guangdong?,Elevator like the ones we saw in Guangdong?
 SAY.chapterFlow02.5350.UI旁白2,,嗯，你最喜欢啦。,Yeah， you love those.,Yeah， you love those.
 SAY.chapterFlow02.5349.UI旁白1,,那个好玩！,That's fun!,That's fun!
-SAY.chapterFlow02.4719.UI旁白1,,每次它的门打开，外面的地方都不一样！,Everytime the doors open it's different out there.,Everytime the doors open it's different out there.
+SAY.chapterFlow02.4719.UI旁白1,,每次它的门打开，外面的地方都不一样！,Everytime the doors open， it's different out there.,Everytime the doors open， it's different out there.
 SAY.chapterFlow02.4720.UI旁白2,,指望你了。,Counting on you.,Counting on you.
 SAY.chapterFlow02.4721.UI旁白2,,电梯这么贵，我们是买不起了。,Elevators are expensive， we can't afford it.,Elevators are expensive， we can't afford it.
-SAY.chapterFlow02.5351.UI旁白2,,等你长大了给我们买。,When you get older we'll buy it.,When you get older we'll buy it.
+SAY.chapterFlow02.5351.UI旁白2,,等你长大了给我们买。,When you get older， we'll buy it.,When you get older， we'll buy it.
 SAY.chapterFlow02.4722.UI旁白1,,呵呵呵呵。,Hehehehe.,Hehehehe.
 SAY.chapterFlow02.4723.UI旁白2,,房子旁边这个小人仔，是你咩？,This little person next to the house is you?,This little person next to the house is you?
 SAY.chapterFlow02.4724.UI旁白1,,不是。,No.,No.
@@ -4486,7 +4486,7 @@ SAY.chapterFlow02.4726.UI旁白1,,她是……家人!,They are...family!,They ar
 SAY.chapterFlow02.4727.UI旁白2,,谁的家人？,Whose family?,Whose family?
 SAY.chapterFlow02.4728.UI旁白1,,家人就是，就是……,Family like...,Family like...
 SAY.chapterFlow02.4729.UI旁白1,,她代表我们家全部人！提醒你回家！,They represent all of us， to remind you to come home!,They represent all of us， to remind you to come home!
-SAY.chapterFlow02.4730.UI旁白1,,回家就能见到我们了！,If you come home you can see us.,If you come home you can see us.
+SAY.chapterFlow02.4730.UI旁白1,,回家就能见到我们了！,If you come home， you can see us.,If you come home， you can see us.
 SAY.chapterFlow02.4731.UI旁白2,,哈哈，晓得了。,Haha， got it.,Haha， got it.
 SAY.chapterFlow02.4692.UI旁白1,,不，我们家在这里。,No， our house is here.,No， our house is here.
 SAY.chapterFlow02.4702.UI旁白1,,嗯，就是这里。,Yeah， here.,Yeah， here.
@@ -4494,19 +4494,19 @@ SAY.chapterFlow02.4706.UI旁白1,,不，我们家在这里。,No， our house is
 SAY.chapterFlow02.5255.主角,,不是要走了咯？,Aren't you leaving?,Aren't you leaving?
 SAY.chapterFlow02.5256.主角,,还在这儿练功。,Still exercising.,Still exercising.
 SAY.chapterFlow02.5257.父亲,,什么练功？,What exercise?,What exercise?
-SAY.chapterFlow02.5258.父亲,,我这套是正规太极拳。,This is properr Taichi.,This is properr Taichi.
-SAY.chapterFlow02.5259.父亲,,太极生两仪，两仪分阴阳。,From Taichi there are two of everything， like the Yin and Yang.,From Taichi there are two of everything， like the Yin and Yang.
+SAY.chapterFlow02.5258.父亲,,我这套是正规太极拳。,This is proper Taichi.,This is proper Taichi.
+SAY.chapterFlow02.5259.父亲,,太极生两仪，两仪分阴阳。,From Taichi， there are two of everything， like the Yin and Yang.,From Taichi， there are two of everything， like the Yin and Yang.
 SAY.chapterFlow02.5260.父亲,,白天要打一轮，夜晚再打一轮。,So I do this once in the morning， once in the evening.,So I do this once in the morning， once in the evening.
 SAY.chapterFlow02.5261.父亲,,现在不打，上车以后就不方便打咯。,If I don't do it now， it'll be hard to do it on the road.,If I don't do it now， it'll be hard to do it on the road.
 SAY.chapterFlow02.5262.主角,,又在这儿胡扯。,Spouting nonsense again.,Spouting nonsense again.
 SAY.chapterFlow02.5263.主角,,你们几时出发？,When are you all heading out?,When are you all heading out?
 SAY.chapterFlow02.5264.父亲,,没那么快。,Not that fast.,Not that fast.
 SAY.chapterFlow02.5265.父亲,,等你妈收拾一下铺头，再去买点菜留给你们。,Your mom has to go clean up， then buy stuff for you tonight.,Your mom has to go clean up， then buy stuff for you tonight.
-SAY.chapterFlow02.5266.父亲,,明天你就自己搞定啦。,Starting tomorrow you're on your own.,Starting tomorrow you're on your own.
+SAY.chapterFlow02.5266.父亲,,明天你就自己搞定啦。,Starting tomorrow， you're on your own.,Starting tomorrow， you're on your own.
 SAY.chapterFlow02.5267.主角,,要送你们去火车站咩？,Need me to take you to the train station?,Need me to take you to the train station?
 SAY.chapterFlow02.5268.父亲,,不用，你去做你的事。,Nah， you do your thing.,Nah， you do your thing.
 SAY.chapterFlow02.5269.父亲,,我们坐公共汽车。,We'll take the bus.,We'll take the bus.
-SAY.chapterFlow02.5270.主角,,我们家的，小妹家的，电话号码记好。,Remember our number and little sister's number.,Remember our number and little sister's number.
+SAY.chapterFlow02.5270.主角,,我们家的，小妹家的，电话号码记好。,Remember our number and our little sister's number.,Remember our number and our little sister's number.
 SAY.chapterFlow02.5271.主角,,区号也要记，懂得咩？,Area code too， got it?,Area code too， got it?
 SAY.chapterFlow02.5272.父亲,,你妈都写下来了。,Your mom wrote it down.,Your mom wrote it down.
 SAY.chapterFlow02.5273.主角,,路上小心点，钱藏好。,Be careful， keep your money safe.,Be careful， keep your money safe.
@@ -4515,7 +4515,7 @@ SAY.chapterFlow02.5275.父亲,,得啦。,Yeah.,Yeah.
 SAY.chapterFlow02.5276.父亲,,荔荔，再见咯！,Lili， bye!,Lili， bye!
 SAY.chapterFlow02.5277.女儿,,……阿公，再见。,...Grandpa， bye.,...Grandpa， bye.
 SAY.chapterFlow02.5279.主角,,专心点，认真上课。,Pay attention in school.,Pay attention in school.
-SAY.chapterFlow02.5281.主角,,你应啊，跟你讲话呢。,Say something， talking to you.,Say something， talking to you.
+SAY.chapterFlow02.5281.主角,,你应啊，跟你讲话呢。,Say something， I'm talking to you.,Say something， I'm talking to you.
 SAY.chapterFlow02.5282.女儿,,哦。,Oh.,Oh.
 SAY.chapterFlow02.5283.主角,,中午要在学校吃，饭票莫搞丢了。,You have to eat lunch at school， don't lose your ticket.,You have to eat lunch at school， don't lose your ticket.
 SAY.chapterFlow02.5284.主角,,下午放学再来接你。,I'll come pick you up in the afternoon.,I'll come pick you up in the afternoon.
@@ -4526,7 +4526,7 @@ SAY.chapterFlow02.5290.主角,,可以啊，叶总。,Oh nice， Director Ye.,Oh 
 SAY.chapterFlow02.5291.主角,,一下子就找到人了。,You found someone right away.,You found someone right away.
 SAY.chapterFlow02.5292.冬夕,,咳咳，咳咳。,Cough， cough.,Cough， cough.
 SAY.chapterFlow02.5293.冬夕,,朋友我还是有点的。,I have some friends here and there.,I have some friends here and there.
-SAY.chapterFlow02.5294.主角,,那我现在去跟他们聊？,I'll go chat with them now?,I'll go chat with them now?
+SAY.chapterFlow02.5294.主角,,那我现在去跟他们聊？,Shall I chat with them now?,Shall I chat with them now?
 SAY.chapterFlow02.5295.冬夕,,嗯，我就说了个大概。,Yeah， I just gave them the general gist.,Yeah， I just gave them the general gist.
 SAY.chapterFlow02.5296.冬夕,,具体你自己看着办吧。,The rest is up to you.,The rest is up to you.
 SAY.chapterFlow02.5297.冬夕,,我也要去开工了。,I'm going to go work now too.,I'm going to go work now too.
@@ -4536,7 +4536,7 @@ SAY.chapterFlow02.5304.主角,,（改行当猪贩子的阿山。）,(Ah Shan cha
 SAY.chapterFlow02.5305.主角,,（还有糖厂的车队……）,(The team from the sugar factory...),(The team from the sugar factory...)
 SAY.chapterFlow02.5306.主角,,（既然老四说糖厂那个人要晚一点才有空。）,(Even though Lao Si said that the sugar factory is going to be busy until later.),(Even though Lao Si said that the sugar factory is going to be busy until later.)
 SAY.chapterFlow02.5307.主角,,（那就先找另外两个吧。）,(Maybe I should go find the other two first.),(Maybe I should go find the other two first.)
-SAY.chapterFlow02.5362.UI旁白1,,去邮局门口找村里来的宁叔。,Go to the Post office to find Uncle Ning.,Go to the Post office to find Uncle Ning.
+SAY.chapterFlow02.5362.UI旁白1,,去邮局门口找村里来的宁叔。,Go to the post office to find Uncle Ning.,Go to the post office to find Uncle Ning.
 SAY.chapterFlow02.5369.UI旁白1,,去畜牧站找阿山。,Go to the agricultural center to find Ah Shan.,Go to the agricultural center to find Ah Shan.
 SAY.chapterFlow02.5377.主角,,每回见你，你都胖了。,Everytime I see you， you get fatter.,Everytime I see you， you get fatter.
 SAY.chapterFlow02.5379.林雨山,,人到中年嘛，发福了。,Getting old， getting happy.,Getting old， getting happy.

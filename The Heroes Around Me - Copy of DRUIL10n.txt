@@ -78,8 +78,8 @@
 ,77,monsters.hp2,HP:,HP:
 ,78,end.tips,To be continued,To be continued
 ,79,answer11,BBQ,BBQ
-,80,answer12,Honey Locust,Honey Locust
-,81,answer21,Chimney,Chimney
+,80,answer12,Fruit,Fruit
+,81,answer21,Flue,Flue
 ,82,answer22,Flask,Flask
 ,83,answer31,Tower,Tower
 ,84,answer32,Gate,Gate
