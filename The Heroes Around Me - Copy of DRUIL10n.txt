@@ -1,0 +1,89 @@
+#,Id,key,Chinese,TraditionalChinese
+,1,main.start,New Game,New Game
+,2,main.continue,Continue,Continue
+,3,main.setting,Settings,Settings
+,4,main.thank,Credits,Credits
+,5,main.exit,Quit,Quit
+,6,menu.tips,Menu,Menu
+,7,menu.continueTitle,Continue,Continue
+,8,menu.saveTitle,Save,Save
+,9,menu.loadTitle,Load,Load
+,10,menu.settingTitle,Settings,Settings
+,11,menu.returnTitle,Main Menu,Main Menu
+,12,save.tips,Save,Save
+,13,load.tips,Load,Load
+,14,load.auto,AS,AS
+,15,setting.languageTitle,Language,Language
+,16,setting.language,English,English
+,17,setting.resoulutionTitle,Screen,Screen
+,18,setting.displayTitle,Display,Display
+,19,setting.displaywindow,Windowed,Windowed
+,20,setting.displayfull,Max,Max
+,21,setting.soundTitle,SFX,SFX
+,22,setting.musicTitle,Music,Music
+,23,setting.controllerTitle,Controls,Controls
+,24,setting.tips,Settings,Settings
+,25,setting.keyboard1,Move:← or →,Move:← or →
+,26,setting.keyboard2,Interact: Space,Interact: Space
+,27,controller.tips,Controls,Controls
+,28,fish.ji,Crucian Carp,Crucian Carp
+,29,fish.li,Common Carp,Common Carp
+,30,fish.tangshi,Catfish,Catfish
+,31,fish.qing,Herring,Herring
+,32,fish.cao,Grass Carp,Grass Carp
+,33,fish.lian,Silver Carp,Silver Carp
+,34,fish.yong,Bighead Carp,Bighead Carp
+,35,fish.banghua,Chinese False Gudgeon ,Chinese False Gudgeon 
+,36,fish.tuling,Dace,Dace
+,37,fish.yueli,Snakehead,Snakehead
+,38,fish.makou,Horse Mouth Fish,Horse Mouth Fish
+,39,fish.landao,Moonfish,Moonfish
+,40,fish.qiaozui,Topmouth Cutler,Topmouth Cutler
+,41,fish.jun,Holland's Carp,Holland's Carp
+,42,fish.daoqiu,Mahi-Mahi,Mahi-Mahi
+,43,fish.sanjiao,Trout,Trout
+,44,fish.bangui,Hairfin Anchovy,Hairfin Anchovy
+,45,fish.luofei,Tilapia,Tilapia
+,46,desc.ji,Fresh water fish that eats everything. Looks pretty while swimming.,Fresh water fish that eats everything. Looks pretty while swimming.
+,47,desc.li,Lives closer to the bottom， slightly yellow on the belly. Has short whiskers， generally timid and full of life.,Lives closer to the bottom， slightly yellow on the belly. Has short whiskers， generally timid and full of life.
+,48,desc.tangshi,Looks shiny with no scales， has eight large whiskers， can actually crawl on land and live out of the water for a bit.,Looks shiny with no scales， has eight large whiskers， can actually crawl on land and live out of the water for a bit.
+,49,desc.qing,Greenish Grey color， hard to catch and moves quick. One of the “Four Famous Domestic Fishes”,Greenish Grey color， hard to catch and moves quick. One of the “Four Famous Domestic Fishes”
+,50,desc.cao,Yellowish Brown color， lively and swims fast. One of the “Four Famous Domestic Fishes”,Yellowish Brown color， lively and swims fast. One of the “Four Famous Domestic Fishes”
+,51,desc.lian,Thin scales all over， silver grey on the back， white on the belly. One of the “Four Famous Domestic Fishes”,Thin scales all over， silver grey on the back， white on the belly. One of the “Four Famous Domestic Fishes”
+,52,desc.yong,Slightly flat， big head， big mouth. One of the “Four Famous Domestic Fishes”,Slightly flat， big head， big mouth. One of the “Four Famous Domestic Fishes”
+,53,desc.banghua,Long body with a short head， slightly yellow on the back and belly. Lots of black spots.,Long body with a short head， slightly yellow on the back and belly. Lots of black spots.
+,54,desc.tuling,Very scaly， no teeth， likes to eat rotting things and algae.,Very scaly， no teeth， likes to eat rotting things and algae.
+,55,desc.yueli,Lives in slower moving parts. Big head with spots on the tail.,Lives in slower moving parts. Big head with spots on the tail.
+,56,desc.makou,Small fish that lives near the surface， eats smaller fish， bugs， and small shrimp.,Small fish that lives near the surface， eats smaller fish， bugs， and small shrimp.
+,57,desc.landao,Lives near the surface， grey back， silver belly. Fast swimmer and hunts near the shore,Lives near the surface， grey back， silver belly. Fast swimmer and hunts near the shore
+,58,desc.qiaozui,Upward mouth with a grey black back and silver belly. Feeds mostly on floating microorganisms.,Upward mouth with a grey black back and silver belly. Feeds mostly on floating microorganisms.
+,59,desc.jun,“King of Fresh Water” likes fast moving areas， strong and fearsome.,“King of Fresh Water” likes fast moving areas， strong and fearsome.
+,60,desc.daoqiu,Likes to live in vegetation， ominvorous. Looks a bit like an eel.,Likes to live in vegetation， ominvorous. Looks a bit like an eel.
+,61,desc.sanjiao,Lives in ponds and smaller streams. Small mouth with a hump.,Lives in ponds and smaller streams. Small mouth with a hump.
+,62,desc.bangui,Yellow to grey in color with an off white belly. Spotted all over.,Yellow to grey in color with an off white belly. Spotted all over.
+,63,desc.luofei,Short body， big back， has grey spots. Will live near the surface or the bottom depending on temperature and size.,Short body， big back， has grey spots. Will live near the surface or the bottom depending on temperature and size.
+,64,fish.cur,Current,Current
+,65,fish.hist,Record,Record
+,66,fish.max,++,++
+,67,fish.min,- -,- -
+,68,musicgame.joytips,Push <color='red'>Left</color> o r<color='red'>Right</color>\n to move the gears.,Push <color='red'>Left</color> o r<color='red'>Right</color>\n to move the gears.
+,69,musicgame.tips,Push <color='red'>Left</color> o r<color='red'>Right</color>\n to move the gears.,Push <color='red'>Left</color> o r<color='red'>Right</color>\n to move the gears.
+,70,monsters.desc,How are you going to attack Mighty Heroine?,How are you going to attack Mighty Heroine?
+,71,monsters.skill1,Pew Pew Laser Beam,Pew Pew Laser Beam
+,72,monsters.skill2,Bang Bang Sound Wave,Bang Bang Sound Wave
+,73,monsters.skill3,Snip Snip Scissors,Snip Snip Scissors
+,74,monsters.role1name,Scissor Monster,Scissor Monster
+,75,monsters.role2name,Mighty Heroine,Mighty Heroine
+,76,monsters.hp1,HP:,HP:
+,77,monsters.hp2,HP:,HP:
+,78,end.tips,To be continued,To be continued
+,79,answer11,BBQ,BBQ
+,80,answer12,Honey Locust,Honey Locust
+,81,answer21,Chimney,Chimney
+,82,answer22,Flask,Flask
+,83,answer31,Tower,Tower
+,84,answer32,Gate,Gate
+,85,shichang1,Coming to buy groceries? It's all fresh today.,Coming to buy groceries? It's all fresh today.
+,86,shichang2,Chicken， Duck， Pork?,Chicken， Duck， Pork?
+,87,shichang3,Apples， Pears are 2 for 1， peaches too!,Apples， Pears are 2 for 1， peaches too!
+,88,shichang4,We raised these chickens， want to take a look?,We raised these chickens， want to take a look?
