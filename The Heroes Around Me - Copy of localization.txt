@@ -923,29 +923,29 @@ SAY.liangshu.36.主角,,不然会把内胎也磨烂。,Or you're gonna damage th
 SAY.liangshu.37.主角,,所以货车补胎，内外都要观察，都要搞干净。,So when you patch a tire on a cargo truck， you gotta check everything， make sure it's clean.,So when you patch a tire on a cargo truck， you gotta check everything， make sure it's clean.
 SAY.liangshu.38.梁叔,,你是自己补的咩？,You fix it yourself?,You fix it yourself?
 SAY.liangshu.39.梁叔,,我见司机佬好多都懂得自己修车。,I see lots of drivers know how to fix cars.,I see lots of drivers know how to fix cars.
-SAY.liangshu.40.主角,,修车是修车，轮胎一般很少会自己搞的。,Fixing a car is fixing a car， but changing a tire most people can do themselves.,Fixing a car is fixing a car， but changing a tire most people can do themselves.
+SAY.liangshu.40.主角,,修车是修车，轮胎一般很少会自己搞的。,Fixing a car is fixing a car， but changing a tire， most people can do themselves.,Fixing a car is fixing a car， but changing a tire， most people can do themselves.
 SAY.liangshu.41.主角,,随车工具不够店里全，拆装轮胎太着力。,You don't have as many tools in the truck， it's exhausting to take off a tire.,You don't have as many tools in the truck， it's exhausting to take off a tire.
 SAY.liangshu.42.梁叔,,那就是去补胎店拆？,So you go to a tire shop to take it off?,So you go to a tire shop to take it off?
 SAY.liangshu.43.主角,,嗯。,Yeah.,Yeah.
-SAY.liangshu.44.梁叔,,拆完呢？哪样补？,Then what? How do you fix?,Then what? How do you fix?
+SAY.liangshu.44.梁叔,,拆完呢？哪样补？,Then what? How do you fix it?,Then what? How do you fix it?
 SAY.liangshu.45.主角,,既然已经漏气了，先把内胎挖出来。,Since it's already leaking， you take the inner tube out first.,Since it's already leaking， you take the inner tube out first.
 SAY.liangshu.46.主角,,除非是气门嘴的问题，否则内胎百分百穿了。,Unless it's the valve， then the inner tire is done.,Unless it's the valve， then the inner tire is done.
 SAY.liangshu.47.主角,,耳朵听，眼睛观察。,Listen closely， look carefully.,Listen closely， look carefully.
-SAY.liangshu.48.主角,,你不是有个脸盆，用来泡轮胎的吗？,Don't you have some sort of small tub， for tires?,Don't you have some sort of small tub， for tires?
-SAY.liangshu.49.主角,,补胎店也差不多，有个大水池或者大油桶。,The tire shops are about the same， they just have a bigger size one.,The tire shops are about the same， they just have a bigger size one.
+SAY.liangshu.48.主角,,你不是有个脸盆，用来泡轮胎的吗？,Don't you have some sort of small tub for tires?,Don't you have some sort of small tub for tires?
+SAY.liangshu.49.主角,,补胎店也差不多，有个大水池或者大油桶。,The tire shops are about the same， they just have a bigger sized one.,The tire shops are about the same， they just have a bigger sized one.
 SAY.liangshu.50.主角,,泡进去看哪里漏，或者涂点肥皂水在表面。,Throw the tire in there， see where it's leaking， or add some soapy water on it.,Throw the tire in there， see where it's leaking， or add some soapy water on it.
 SAY.liangshu.51.主角,,找到就用笔做个记号。,Once you find it， you can mark it.,Once you find it， you can mark it.
-SAY.liangshu.52.主角,,粗鲁一点的，直接就把螺丝刀捅在上面。,If you really want to be direct just stab it with a screwdriver.,If you really want to be direct just stab it with a screwdriver.
+SAY.liangshu.52.主角,,粗鲁一点的，直接就把螺丝刀捅在上面。,If you really want to be direct， just stab it with a screwdriver.,If you really want to be direct， just stab it with a screwdriver.
 SAY.liangshu.53.主角,,反正就是标记好位置，哪里漏就补哪里。,Anyways， just mark it， then fix where it's leaking,Anyways， just mark it， then fix where it's leaking
 SAY.liangshu.54.主角,,然后再检查外胎，找到钉子或者磨损的地方。,Then check the outer tube， find where the damage is.,Then check the outer tube， find where the damage is.
 SAY.liangshu.55.主角,,处理一下，搞干净。,Fix and clean it.,Fix and clean it.
 SAY.liangshu.56.主角,,现在货车大部分用的是帆布外胎。,Most tires now are canvas tires.,Most tires now are canvas tires.
-SAY.liangshu.57.主角,,如果鼓包，那就是帆布断了，不能修只能换。,If you got a bubble， then the canvas is broke， you can't fix it， gotta replace it.,If you got a bubble， then the canvas is broke， you can't fix it， gotta replace it.
+SAY.liangshu.57.主角,,如果鼓包，那就是帆布断了，不能修只能换。,If you got a bubble， then the canvas is broken， you can't fix it， gotta replace it.,If you got a bubble， then the canvas is broken， you can't fix it， gotta replace it.
 SAY.liangshu.58.梁叔,,哦……,Oh...,Oh...
 SAY.liangshu.59.梁叔,,东西太多了，记不住。,So many things， I can't remember it all.,So many things， I can't remember it all.
 SAY.liangshu.60.主角,,干嘛，你要补货车胎？,What? You need to fix a spare tire?,What? You need to fix a spare tire?
 SAY.liangshu.61.梁叔,,原本以为都是轮胎嘛。,I thought because it was just a tire.,I thought because it was just a tire.
-SAY.liangshu.62.梁叔,,要是我也能干，可以多赚点钱。,If I can do it to， I can make some money.,If I can do it to， I can make some money.
+SAY.liangshu.62.梁叔,,要是我也能干，可以多赚点钱。,If I can do it too， I can make some money.,If I can do it too， I can make some money.
 SAY.liangshu.63.梁叔,,听你一讲，这么复杂，算了算了。,But hearing you talk about it， it's so complicated， forget it.,But hearing you talk about it， it's so complicated， forget it.
 SAY.liangshu.64.主角,,哈哈哈哈哈。,Hahahahaha.,Hahahahaha.
 SAY.liangshu.10.梁叔,,山东在哪个地方？,Where's Shandong?,Where's Shandong?
@@ -954,39 +954,39 @@ SAY.liangshu.65.梁叔,,河南又是哪里？,Where's Henan.,Where's Henan.
 SAY.liangshu.66.主角,,湖北再往北。,North of Hubei.,North of Hubei.
 SAY.liangshu.67.梁叔,,那湖北……,Then Hubei...,Then Hubei...
 SAY.liangshu.68.主角,,你干脆先告诉我，有哪里是你晓得的。,Just tell me what places you do know.,Just tell me what places you do know.
-SAY.liangshu.69.主角,,不然全国这么多地方，我要哪样跟你讲？,Otherwise the country is so big， how am I supposed to tell you?,Otherwise the country is so big， how am I supposed to tell you?
+SAY.liangshu.69.主角,,不然全国这么多地方，我要哪样跟你讲？,Otherwise， the country is so big， how am I supposed to tell you?,Otherwise， the country is so big， how am I supposed to tell you?
 SAY.liangshu.70.梁叔,,哈哈哈，算了算了。,Hahaha， forget it.,Hahaha， forget it.
-SAY.liangshu.71.梁叔,,得空我自己看地图。,When I'm free I'll check out a map.,When I'm free I'll check out a map.
-SAY.liangshu.72.梁叔,,是我有个侄子，在山东当兵。,I've a nephew， he's in the military in Shandong.,I've a nephew， he's in the military in Shandong.
-SAY.liangshu.73.梁叔,,他讲那边的东西好吃。,He says food is good.,He says food is good.
+SAY.liangshu.71.梁叔,,得空我自己看地图。,When I'm free， I'll check out a map.,When I'm free， I'll check out a map.
+SAY.liangshu.72.梁叔,,是我有个侄子，在山东当兵。,I have a nephew， he's in the military in Shandong.,I have a nephew， he's in the military in Shandong.
+SAY.liangshu.73.梁叔,,他讲那边的东西好吃。,He says the food is good.,He says the food is good.
 SAY.liangshu.74.主角,,是啊，鲁菜嘛。,Yeah， Lu cuisine.,Yeah， Lu cuisine.
 SAY.liangshu.75.主角,,中国的四大菜系之一，北方菜的代表。,One of the big four， represents the north.,One of the big four， represents the north.
 SAY.liangshu.76.梁叔,,没吃过，想去试一下。,Never had it， I want to try.,Never had it， I want to try.
-SAY.liangshu.77.主角,,下回去那边，带上你。,Next time I go up I'll take you with me.,Next time I go up I'll take you with me.
+SAY.liangshu.77.主角,,下回去那边，带上你。,Next time I go up， I'll take you with me.,Next time I go up， I'll take you with me.
 SAY.liangshu.78.主角,,你帮我开一半的路。,You gotta drive half of it though.,You gotta drive half of it though.
 SAY.liangshu.79.梁叔,,哈哈，我哪会开车咧？,Haha， you think I know how to drive?,Haha， you think I know how to drive?
 SAY.liangshu.7.梁叔,,阿南你这么得空，跟我讲讲中国地理呗。,Ah Nan， since you're so free， tell me about China's geography.,Ah Nan， since you're so free， tell me about China's geography.
 SAY.liangshu.8.主角,,……我还有事，走了。,...I have things to do， see ya.,...I have things to do， see ya.
 SAY.liangshu.18.梁叔,,坐落于芷滨镇状元湾的状元公园，即将竣工。,The Zhuangyuan Park sitting at Zhibin's Zhuangyuan Bay is about to be finished.,The Zhuangyuan Park sitting at Zhibin's Zhuangyuan Bay is about to be finished.
 SAY.liangshu.80.梁叔,,你去看过咩？其实就是从大水车那里进去。,You wanna go check it out? It's right over where the water wheel is.,You wanna go check it out? It's right over where the water wheel is.
-SAY.liangshu.81.梁叔,,得空带荔荔去走走啊，沾点灵气。,If you have time take Lili there， get some of the energy.,If you have time take Lili there， get some of the energy.
-SAY.liangshu.82.梁叔,,古时候那个人，解元、会元、状元，三及第。,Ancient time， that person tested all the way up to Zhuangyuan.,Ancient time， that person tested all the way up to Zhuangyuan.
+SAY.liangshu.81.梁叔,,得空带荔荔去走走啊，沾点灵气。,If you have time， take Lili there， get some of the energy.,If you have time， take Lili there， get some of the energy.
+SAY.liangshu.82.梁叔,,古时候那个人，解元、会元、状元，三及第。,In ancient times， that person tested all the way up to Zhuangyuan.,In ancient times， that person tested all the way up to Zhuangyuan.
 SAY.liangshu.83.梁叔,,以后荔荔也考个状元。,Hopefully Lili also gets a Zhuangyuan.,Hopefully Lili also gets a Zhuangyuan.
 SAY.liangshu.20.梁叔,,从卖花圈那个店后面，可以望见矿区的山。,From behind the flowerstore， you can see the mines up in the mountain.,From behind the flowerstore， you can see the mines up in the mountain.
 SAY.liangshu.84.梁叔,,现在很荒凉了，野草都比老房子高。,Now it's pretty much abandoned， the grass is taller than the houses.,Now it's pretty much abandoned， the grass is taller than the houses.
 SAY.liangshu.22.梁叔,,地理我是不太搞得懂。,I don't understand geography.,I don't understand geography.
 SAY.liangshu.85.梁叔,,我就听人家和我讲过，地方不同，农时不同。,I hear people tell me， different places have different farming times.,I hear people tell me， different places have different farming times.
-SAY.liangshu.86.梁叔,,像那首诗写的——农家少闲月，五月人倍忙。,Like that poem- farmer's don't have free months， busy with everyone in May.,Like that poem- farmer's don't have free months， busy with everyone in May.
-SAY.liangshu.87.梁叔,,有的省份，老历五月就开始双抢了。,Some places in the fifth month of the old calendar， they gotta rush to harvest and plant.,Some places in the fifth month of the old calendar， they gotta rush to harvest and plant.
+SAY.liangshu.86.梁叔,,像那首诗写的——农家少闲月，五月人倍忙。,Like that poem- farmer's don't have free months， doubly busy in May.,Like that poem- farmer's don't have free months， doubly busy in May.
+SAY.liangshu.87.梁叔,,有的省份，老历五月就开始双抢了。,Some places， in the fifth month of the old calendar， they gotta rush to harvest and plant.,Some places， in the fifth month of the old calendar， they gotta rush to harvest and plant.
 SAY.liangshu.88.梁叔,,我们这边的，起码要等过了初伏啦。,Here? We wait until after Summer Solstice.,Here? We wait until after Summer Solstice.
 SAY.liangshu.24.梁叔,,你那个好兄弟，老四，做得吃的哦。,Oh yeah your buddy， Lao Si， made some food.,Oh yeah your buddy， Lao Si， made some food.
 SAY.liangshu.89.梁叔,,我们隔壁那条街的仓库都挨他租下来了。,They even rented that storage space next street over.,They even rented that storage space next street over.
-SAY.liangshu.90.梁叔,,做买卖真是一把好手。,Real good at business.,Real good at business.
+SAY.liangshu.90.梁叔,,做买卖真是一把好手。,He's real good at business.,He's real good at business.
 SAY.liangshu.92.梁叔,,那口老井保护得好咧。,Doing good with the old well too.,Doing good with the old well too.
 SAY.liangshu.93.梁叔,,清澈透明，甘甜可口。,Water's clean and refreshing.,Water's clean and refreshing.
 SAY.liangshu.94.梁叔,,几百年从来没有干过，到现在都是活水。,Never been dry， always had live water.,Never been dry， always had live water.
 SAY.liangshu.115.梁叔,,不像小桥头那条溪流，已经不能喝了。,Not like that stream next to the bridge， you can't drink from there anymore.,Not like that stream next to the bridge， you can't drink from there anymore.
-SAY.liangshu.116.梁叔,,上游建了好几间工厂，用来漱口你都想吐。,They built so many factories upstream， even using it to rinse your mouth you want to puke.,They built so many factories upstream， even using it to rinse your mouth you want to puke.
+SAY.liangshu.116.梁叔,,上游建了好几间工厂，用来漱口你都想吐。,They built so many factories upstream， even using it to rinse your mouth makes you want to puke.,They built so many factories upstream， even using it to rinse your mouth makes you want to puke.
 SAY.liangshu.117.梁叔,,我就是嫌水井边那几个老奶，太吵了。,I just find the old ladies next to the well too gossipy.,I just find the old ladies next to the well too gossipy.
 SAY.liangshu.118.梁叔,,所以我很少过去打水。,So I don't get water there often.,So I don't get water there often.
 SAY.liangshu.96.梁叔,,那天我去到小学那边，看他们下棋。,That day I went to the school， found them playing some Chinese Chess.,That day I went to the school， found them playing some Chinese Chess.
@@ -996,22 +996,22 @@ SAY.liangshu.119.梁叔,,所以讲发展终究是会给大家带来好处。,Dev
 SAY.liangshu.120.梁叔,,虽然也有破坏的方面。,Even though there will be some destruction.,Even though there will be some destruction.
 SAY.liangshu.100.梁叔,,那个幼儿园，都不晓得搞点什么鬼。,That kindergarten， who knows what's up.,That kindergarten， who knows what's up.
 SAY.liangshu.101.梁叔,,修了一年还没修好。,Been under repairs for a year.,Been under repairs for a year.
-SAY.liangshu.102.梁叔,,好在你家荔荔毕业了，不然书都没得读。,Luckily， your Lili already graduated from kindergarten， otherwise there's noewhere to go.,Luckily， your Lili already graduated from kindergarten， otherwise there's noewhere to go.
+SAY.liangshu.102.梁叔,,好在你家荔荔毕业了，不然书都没得读。,Luckily， your Lili already graduated from kindergarten， otherwise there's nowhere to go.,Luckily， your Lili already graduated from kindergarten， otherwise there's nowhere to go.
 SAY.liangshu.104.梁叔,,鱼塘旁边那个牛，人家讲它很灵性的哦。,That cow next to the fish pond， people say it understands humans.,That cow next to the fish pond， people say it understands humans.
-SAY.liangshu.105.梁叔,,听得懂人话，你讲什么它会应你。,Whatever you say it will respond to you.,Whatever you say it will respond to you.
+SAY.liangshu.105.梁叔,,听得懂人话，你讲什么它会应你。,Whatever you say， it will respond to you.,Whatever you say， it will respond to you.
 SAY.liangshu.106.梁叔,,你信咩？,You believe it?,You believe it?
 SAY.liangshu.108.梁叔,,我有个堂弟住在篮球场后面，那些楼房里。,I got a cousin who lives in those buildings behind the basketball courts.,I got a cousin who lives in those buildings behind the basketball courts.
 SAY.liangshu.109.梁叔,,他讲，篮球场路边那个铁皮房，可以租。,He says that tin building can be rented.,He says that tin building can be rented.
-SAY.liangshu.110.梁叔,,所以我之前有考虑过，在那里开个店修单车。,I thought about it renting one to open a bike fixing shop.,I thought about it renting one to open a bike fixing shop.
+SAY.liangshu.110.梁叔,,所以我之前有考虑过，在那里开个店修单车。,I thought about renting one to open a bike fixing shop.,I thought about renting one to open a bike fixing shop.
 SAY.liangshu.121.梁叔,,后来去一问，嘿，那个老奶一口气租了十年。,Then when I asked， ha， someone rented it out for ten years.,Then when I asked， ha， someone rented it out for ten years.
 SAY.liangshu.122.梁叔,,那算啦，我就租了现在这间房子。,So I said forget it， and got this one.,So I said forget it， and got this one.
 SAY.liangshu.123.梁叔,,也好，你家就在隔壁，找你老头聊天方便。,Worked out， your house is next door， makes it easy to go chat with your old man.,Worked out， your house is next door， makes it easy to go chat with your old man.
 SAY.liangshu.112.梁叔,,旁边这家住木板房的，脾气古怪得很咧！,The one who stayed in this wood house here， real strange.,The one who stayed in this wood house here， real strange.
-SAY.liangshu.113.梁叔,,过年过节见面都不跟你打招呼的！,Doesn't even say high over New Year's or the holidays!,Doesn't even say high over New Year's or the holidays!
+SAY.liangshu.113.梁叔,,过年过节见面都不跟你打招呼的！,Doesn't even say hi over New Year's or the holidays!,Doesn't even say hi over New Year's or the holidays!
 SAY.liangshu.114.梁叔,,但是上回，我跟你老头收养了这只猫。,But last time， me and your old man took in this cat.,But last time， me and your old man took in this cat.
-SAY.liangshu.124.梁叔,,想盖个小房子，问他要木板，他也愿意给。,Wanted to build a small house for it， asked him for some wood， he gave some.,Wanted to build a small house for it， asked him for some wood， he gave some.
+SAY.liangshu.124.梁叔,,想盖个小房子，问他要木板，他也愿意给。,We wanted to build a small house for it， asked him for some wood， he gave some.,We wanted to build a small house for it， asked him for some wood， he gave some.
 SAY.liangshu.125.梁叔,,而且质量非常好。,And it was good quality.,And it was good quality.
-SAY.liangshu.126.梁叔,,听讲他以前是专业生产手工木门的。,I heard that he was a professional carpenter  in the past.,I heard that he was a professional carpenter  in the past.
+SAY.liangshu.126.梁叔,,听讲他以前是专业生产手工木门的。,I heard that he was a professional carpenter in the past.,I heard that he was a professional carpenter in the past.
 SAY.liangshu.127.梁叔,,估计年纪上来了，没有心思做了。,I guess age caught up and then they quit.,I guess age caught up and then they quit.
 SAY.taoyi.29.主角,,杨姨。,Auntie Yang.,Auntie Yang.
 SAY.taoyi.33.桃姨,,阿南，做什么？,Ah Nan， what can I do you for?,Ah Nan， what can I do you for?
@@ -1101,7 +1101,7 @@ SAY.chapterFlow04.43.张老师,,……有这种东西？,.....That's a thing?,..
 SAY.chapterFlow04.44.主角,,有啊，就是一种蛙，比田鸡大好多。,Yeah， it's a type of frog， much bigger kind.,Yeah， it's a type of frog， much bigger kind.
 SAY.chapterFlow04.45.主角,,差不多有这么大吧。,About this big.,About this big.
 SAY.chapterFlow04.46.主角,,叫起来声音像牛一样。,Croaks like a cow.,Croaks like a cow.
-SAY.chapterFlow04.47.主角,,“哞“——这样的。,Bought two of “Eight Phoenix Perals”， two of “Robot Dog”,Bought two of “Eight Phoenix Perals”， two of “Robot Dog”
+SAY.chapterFlow04.47.主角,,“哞“——这样的。,“Moooooo”- like that.,“Moooooo”- like that.
 SAY.chapterFlow04.48.张老师,,……真的咯？,......Really?,......Really?
 SAY.chapterFlow04.49.主角,,真的！,Really!,Really!
 SAY.chapterFlow04.50.主角,,我在湖南广东都见过，蛮好吃的。,I see them in Hunan and Guangdong， pretty tasty.,I see them in Hunan and Guangdong， pretty tasty.
@@ -3718,12 +3718,12 @@ SAY.liuqian.89.刘芊,,她的哥哥姐姐很疼她。,Her older brother and sist
 SAY.liuqian.90.刘芊,,不像我两个哥哥，总是欺负我。,Not like my brothers， always picking on me.,Not like my brothers， always picking on me.
 SAY.liuqian.91.刘芊,,用花生骗我，让我去舔猪的耳朵。,Using peanuts to trick me to lick a pig's ear.,Using peanuts to trick me to lick a pig's ear.
 SAY.liuqian.92.刘芊,,不过，花生挺好吃的。,But， peanuts are pretty good.,But， peanuts are pretty good.
-SAY.liuqian.93.刘芊,,我在家想要什么东西，只能帮他们做活路。,In my house whatever you want you have to work for it.,In my house whatever you want you have to work for it.
+SAY.liuqian.93.刘芊,,我在家想要什么东西，只能帮他们做活路。,In my house， whatever you want， you have to work for it.,In my house， whatever you want， you have to work for it.
 SAY.liuqian.94.刘芊,,我帮大哥洗玻璃，他就给我玩他的BB机。,I help my oldest brother wash windows， he lets me play with his toys.,I help my oldest brother wash windows， he lets me play with his toys.
 SAY.liuqian.95.刘芊,,我帮二哥洗衣服，他就给我买毽子。,I do laundry for my second brother， he buys me toys.,I do laundry for my second brother， he buys me toys.
 SAY.liuqian.96.刘芊,,我帮妈妈拔草，她就给我买短裤。,I help my mom pull weeds， she buys me clothes.,I help my mom pull weeds， she buys me clothes.
 SAY.liuqian.97.刘芊,,这种活路，全部都要做一个上午或者下午！,All of these things take all day or all evening.,All of these things take all day or all evening.
-SAY.liuqian.98.刘芊,,那天我被爸爸打了。,Yesterday my dad hit me.,Yesterday my dad hit me.
+SAY.liuqian.98.刘芊,,那天我被爸爸打了。,Yesterday， my dad hit me.,Yesterday， my dad hit me.
 SAY.liuqian.99.刘芊,,他以前从来不打我的。,He never hit me in the past.,He never hit me in the past.
 SAY.liuqian.100.刘芊,,为什么？我又没淘气。,Why? I wasn't bad.,Why? I wasn't bad.
 SAY.liuqian.101.刘芊,,我只是想要一双拖鞋，把凉鞋带子剪掉而已。,I just wanted a pair of slippers and cut up some of my sandals.,I just wanted a pair of slippers and cut up some of my sandals.
@@ -3731,12 +3731,12 @@ SAY.liuqian.102.刘芊,,上次我发高烧，大姨和外婆来看我。,Last ti
 SAY.liuqian.103.刘芊,,她们买了好多好吃的。,They bought lots of yummy food.,They bought lots of yummy food.
 SAY.liuqian.104.刘芊,,我看到就觉得很幸福，不难受了。,I felt so much better after seeing it all.,I felt so much better after seeing it all.
 SAY.liuqian.105.刘芊,,什么时候才能再发一次烧呢？,When can I get a fever again?,When can I get a fever again?
-SAY.liuqian.106.刘芊,,爸爸妈妈吵完架以后，妈妈就不做饭了。,After mom and dad are done fighting， my mom doesn't cook anymore.,After mom and dad are done fighting， my mom doesn't cook anymore.
+SAY.liuqian.106.刘芊,,爸爸妈妈吵完架以后，妈妈就不做饭了。,After mom and dad are done fighting， my mom doesn't cook.,After mom and dad are done fighting， my mom doesn't cook.
 SAY.liuqian.107.刘芊,,爸爸会给钱我，让我去买方便面吃。,Dad will give me money to go buy instant noodles.,Dad will give me money to go buy instant noodles.
 SAY.liuqian.108.刘芊,,我喜欢他们吵架。,I like it when they fight.,I like it when they fight.
 SAY.liuqian.109.刘芊,,以前爸爸在外面打工，经常不回家。,My dad isn't home often because of his work.,My dad isn't home often because of his work.
-SAY.liuqian.110.刘芊,,我有时都不认得他了。,Sometimes I don't recognize him.,Sometimes I don't recognize him.
-SAY.liuqian.111.刘芊,,他给我买东西，我会跟他说，我不要。,He said he would buy me things I would tell him I don't want it.,He said he would buy me things I would tell him I don't want it.
+SAY.liuqian.110.刘芊,,我有时都不认得他了。,Sometimes， I don't recognize him.,Sometimes， I don't recognize him.
+SAY.liuqian.111.刘芊,,他给我买东西，我会跟他说，我不要。,He said he would buy me things. I would tell him I don't want it.,He said he would buy me things. I would tell him I don't want it.
 SAY.liuqian.112.刘芊,,我说，你不是我爸爸。,I would say， you're not my dad.,I would say， you're not my dad.
 SAY.liuqian.113.刘芊,,他现在每天都会回家，但是不给我买东西了。,Now he comes home everyday， but he doesn't buy me anything anymore.,Now he comes home everyday， but he doesn't buy me anything anymore.
 SAY.liuqian.115.刘芊,,她过年一定会收到很多红包吧？,She must get lots of red envelopes for new years.,She must get lots of red envelopes for new years.
@@ -3753,19 +3753,19 @@ SAY.ziwei.178.紫薇,,你要不要和我一起去？,Do you want to go with me?,
 SAY.ziwei.179.紫薇,,我打过板栗，跟我爸爸上山打的。,I harvested chestnuts before， with my dad on the mountains.,I harvested chestnuts before， with my dad on the mountains.
 SAY.ziwei.180.紫薇,,炒过以后可香了，又脆又甜。,After you roast them they're delicious.,After you roast them they're delicious.
 SAY.ziwei.181.紫薇,,但是我偷偷告诉你一个秘密——,Let me tell you a secret-,Let me tell you a secret-
-SAY.ziwei.182.紫薇,,板栗吃多了容易放屁。,If you eat too many chestnuts you fart a lot.,If you eat too many chestnuts you fart a lot.
-SAY.ziwei.183.紫薇,,我家门口有两棵果树。,We have two fruit tress in front of hour hose.,We have two fruit tress in front of hour hose.
+SAY.ziwei.182.紫薇,,板栗吃多了容易放屁。,If you eat too many chestnuts， you fart a lot.,If you eat too many chestnuts， you fart a lot.
+SAY.ziwei.183.紫薇,,我家门口有两棵果树。,We have two fruit trees in front of our house.,We have two fruit trees in front of our house.
 SAY.ziwei.184.紫薇,,可是因为我家在路边，每天都很多人经过。,Because our house is next to a busy street， lots of people walk by.,Because our house is next to a busy street， lots of people walk by.
 SAY.ziwei.185.紫薇,,果子总是会被人摘掉。,People would always pick the fruits.,People would always pick the fruits.
-SAY.ziwei.186.紫薇,,哼，我以后也要去摘别人家的果子吃。,Hm， in the future I'll go take other people's too.,Hm， in the future I'll go take other people's too.
-SAY.ziwei.187.紫薇,,你吃过小螃蟹吗？,Have you  had tiny crabs before?,Have you  had tiny crabs before?
+SAY.ziwei.186.紫薇,,哼，我以后也要去摘别人家的果子吃。,Hm， in the future， I'll go take other people's too.,Hm， in the future， I'll go take other people's too.
+SAY.ziwei.187.紫薇,,你吃过小螃蟹吗？,Have you had tiny crabs before?,Have you had tiny crabs before?
 SAY.ziwei.188.紫薇,,哥哥姐姐带我去河沟里抓过。,My brother and sister would take me to catch them.,My brother and sister would take me to catch them.
 SAY.ziwei.189.紫薇,,回来涂上面粉，再撒上辣椒粉，就放锅里炸。,When you bring them back， toss them in flower and pepper， then fry them.,When you bring them back， toss them in flower and pepper， then fry them.
 SAY.ziwei.190.紫薇,,又香又脆，可好吃了！,So nice and crunchy， I love them!,So nice and crunchy， I love them!
 SAY.ziwei.191.紫薇,,隔壁奶奶还有我的亲戚都喜欢我。,The grandma next door and my relatives all like me.,The grandma next door and my relatives all like me.
-SAY.ziwei.192.紫薇,,因为我不挑食，一顿能吃两碗饭。,Because I'm not picky and I can have two bowls of rice for my meals.,Because I'm not picky and I can have two bowls of rice for my meals.
+SAY.ziwei.192.紫薇,,因为我不挑食，一顿能吃两碗饭。,Because I'm not picky and I can eat two bowls of rice for my meals.,Because I'm not picky and I can eat two bowls of rice for my meals.
 SAY.ziwei.193.紫薇,,她们经常留我吃饭。,They always ask me to stay to eat.,They always ask me to stay to eat.
-SAY.ziwei.194.紫薇,,妈妈说过，不能随便在别人家吃饭。,But my mom said I shouldn't stay at people's house for meals.,But my mom said I shouldn't stay at people's house for meals.
+SAY.ziwei.194.紫薇,,妈妈说过，不能随便在别人家吃饭。,But my mom said I shouldn't stay at people's houses for meals.,But my mom said I shouldn't stay at people's houses for meals.
 SAY.ziwei.195.紫薇,,我不听。,I don't listen.,I don't listen.
 SAY.ziwei.196.紫薇,,三伯说，我的腿很粗，像大象的腿。,My third uncle says my legs are thick like an elephant's.,My third uncle says my legs are thick like an elephant's.
 SAY.ziwei.197.紫薇,,哈哈哈哈，好好玩。,Hahaha， so fun.,Hahaha， so fun.
@@ -3775,11 +3775,11 @@ SAY.ziwei.201.紫薇,,我特别喜欢和诊所姐姐一起玩。,I like to play 
 SAY.ziwei.202.紫薇,,她长得像小燕子。,She looks like Xiao Yanzi.,She looks like Xiao Yanzi.
 SAY.ziwei.203.紫薇,,不过大人都不喜欢她。,But none of the adults like her.,But none of the adults like her.
 SAY.ziwei.204.紫薇,,他们说她不上学，整天在家做白日梦。,They said she doesn't go to school， and daydreams all day.,They said she doesn't go to school， and daydreams all day.
-SAY.ziwei.205.紫薇,,还说她穿奇怪的衣服。,Also they think she wears weird clothes.,Also they think she wears weird clothes.
+SAY.ziwei.205.紫薇,,还说她穿奇怪的衣服。,Also， they think she wears weird clothes.,Also， they think she wears weird clothes.
 SAY.ziwei.206.紫薇,,可是我觉得，那套衣服很好看呀。,But I think she looks good.,But I think she looks good.
-SAY.ziwei.208.紫薇,,隔壁奶奶做的粉丝蛋汤好喝。,Next door the granny makes really good vermicelli egg soup.,Next door the granny makes really good vermicelli egg soup.
+SAY.ziwei.208.紫薇,,隔壁奶奶做的粉丝蛋汤好喝。,Next door， the granny makes really good vermicelli egg soup.,Next door， the granny makes really good vermicelli egg soup.
 SAY.ziwei.209.紫薇,,可她炒洋葱放很少油，我不爱吃。,But she doesn't put enough oil in her onions， I don't like it.,But she doesn't put enough oil in her onions， I don't like it.
-SAY.ziwei.210.紫薇,,每次她炒洋葱的时候，我就不去她家吃饭。,Everytime she makes onions， I don't go eat there.,Everytime she makes onions， I don't go eat there.
+SAY.ziwei.210.紫薇,,每次她炒洋葱的时候，我就不去她家吃饭。,Everytime she makes onions， I don't eat there.,Everytime she makes onions， I don't eat there.
 SAY.chapterFlow01.1.旁白1,,覃牧南。,Qin Munan.,Qin Munan.
 SAY.chapterFlow01.7.主角,,爸？,Dad?,Dad?
 SAY.chapterFlow01.8.父亲,,这么快回到？,Here already?,Here already?
@@ -4205,7 +4205,7 @@ SAY.chapterFlow01.5116.主角,,你不是怕狗吗？,Aren't you afraid of dogs?,
 SAY.chapterFlow01.5117.黎芸凤,,可是我看它很可怜啊！,It looks so sad though.,It looks so sad though.
 SAY.chapterFlow01.5118.黎芸凤,,这么小就在流浪。,Just wandering around since it was a puppy.,Just wandering around since it was a puppy.
 SAY.chapterFlow01.5119.黎芸凤,,自己一个，又没吃的。,All alone， nothing to eat.,All alone， nothing to eat.
-SAY.chapterFlow01.5120.主角,,你高兴咯，我没意见。,If you're happy I have no objections.,If you're happy I have no objections.
+SAY.chapterFlow01.5120.主角,,你高兴咯，我没意见。,If you're happy， I have no objections.,If you're happy， I have no objections.
 SAY.chapterFlow01.5121.黎芸凤,,这样荔荔还能有个伴。,This way Lili can have someone to play with,This way Lili can have someone to play with
 SAY.chapterFlow01.5122.黎芸凤,,她身体不好，不能像别的小朋友那样玩耍。,She's not able to play like other kids.,She's not able to play like other kids.
 SAY.chapterFlow01.5123.黎芸凤,,在家养个宠物，就不会那么寂寞了。,So with a pet， she'll feel less lonely.,So with a pet， she'll feel less lonely.
@@ -4261,16 +4261,16 @@ SAY.chapterFlow01.5211.UI旁白2,,人家跟我讲的。,What people told me.,Wha
 SAY.chapterFlow01.5203.UI旁白1,,我看看写了啥。,Let me see.,Let me see.
 SAY.chapterFlow01.5204.UI旁白1,,那种小冻鱼叫剥皮鱼。,The tiny frozen fish are called black scrapers.,The tiny frozen fish are called black scrapers.
 SAY.chapterFlow01.5205.UI旁白1,,很划算，味道也不错。,It's economical， and tastes good.,It's economical， and tastes good.
-SAY.chapterFlow01.5206.UI旁白1,,想买活鱼要早点去。,If you want to buy live fish you should go early.,If you want to buy live fish you should go early.
-SAY.chapterFlow01.5207.UI旁白1,,市场路口大盆子卖的，比鱼摊的便宜。,The ones sold in the large water buckets are cheaper.,The ones sold in the large water buckets are cheaper.
-SAY.chapterFlow01.5208.UI旁白1,,青菜反过来，晚点再去可以捡漏。,Vegetables on the otherhand are cheaper later.,Vegetables on the otherhand are cheaper later.
+SAY.chapterFlow01.5206.UI旁白1,,想买活鱼要早点去。,Live fish is cheaper early.,Live fish is cheaper early.
+SAY.chapterFlow01.5207.UI旁白1,,市场路口大盆子卖的，比鱼摊的便宜。,Cheaper fish in the large buckets.,Cheaper fish in the large buckets.
+SAY.chapterFlow01.5208.UI旁白1,,青菜反过来，晚点再去可以捡漏。,Vegetables are cheaper later.,Vegetables are cheaper later.
 SAY.chapterFlow01.5209.UI旁白1,,……,……,……
 SAY.chapterFlow01.5210.UI旁白1,,这种话有什么好记的？个个都晓得。,What's so necessary about writing this down?,What's so necessary about writing this down?
 SAY.chapterFlow01.5202.UI旁白2,,你莫管，我就要记！,Leave me alone， I want to write it down!,Leave me alone， I want to write it down!
 SAY.chapterFlow01.5212.UI旁白2,,省下钱，多买点苹果给地主妹吃。,Save some money， buy some apples for the kid.,Save some money， buy some apples for the kid.
 SAY.chapterFlow01.5213.UI旁白2,,娃仔要多吃水果。,Kids need to eat more fruit.,Kids need to eat more fruit.
-SAY.chapterFlow01.5214.UI旁白1,,下回跑长途经过广东，我买罐奶粉回来。,I'll pick up some formula from Guangdong.,I'll pick up some formula from Guangdong.
-SAY.chapterFlow01.5215.UI旁白1,,听讲那边的奶粉好。,I hear the formula there is good.,I hear the formula there is good.
+SAY.chapterFlow01.5214.UI旁白1,,下回跑长途经过广东，我买罐奶粉回来。,I'll get formula from Guangdong.,I'll get formula from Guangdong.
+SAY.chapterFlow01.5215.UI旁白1,,听讲那边的奶粉好。,Hear it's good there.,Hear it's good there.
 SAY.chapterFlow01.5216.UI旁白2,,可以啊。,Sure.,Sure.
 SAY.chapterFlow01.5219.旁白1,,喂。,Hey.,Hey.
 SAY.chapterFlow01.5218.主角,,喂。,Hey.,Hey.
@@ -4324,7 +4324,7 @@ SAY.wangyoumu.104.王有亩,,我没有打他。,I didn't beat him.,I didn't beat
 SAY.wangyoumu.105.王有亩,,小舅子买了新的给他，再搞坏我就收拾他。,Brother in law bought a new one， if he breaks it again I'll take care of him.,Brother in law bought a new one， if he breaks it again I'll take care of him.
 SAY.chapterFlow02.1.女儿,,阿爸。,Dad.,Dad.
 SAY.chapterFlow02.5311.女儿,,这里到底是叫芷滨镇，还是芷滨乡啊？,Is this Zhibin Town， or Zhibin Village?,Is this Zhibin Town， or Zhibin Village?
-SAY.chapterFlow02.5312.主角,,几年前还叫芷滨乡的。,Few years ago， we called it Zhibin Village.,Few years ago， we called it Zhibin Village.
+SAY.chapterFlow02.5312.主角,,几年前还叫芷滨乡的。,A few years ago， we called it Zhibin Village.,A few years ago， we called it Zhibin Village.
 SAY.chapterFlow02.5313.主角,,后来改成镇了。,Then it became a Town.,Then it became a Town.
 SAY.chapterFlow02.5314.女儿,,有什么不同？,What's the difference?,What's the difference?
 SAY.chapterFlow02.5315.主角,,我也不清楚。,I don't really know,I don't really know
@@ -4372,7 +4372,7 @@ SAY.chapterFlow02.5339.UI旁白1,,装酒不是用汽水瓶吗？,Don't they use 
 SAY.chapterFlow02.5340.UI旁白2,,那是你公自己的习惯。,That's your grandpa's habit.,That's your grandpa's habit.
 SAY.chapterFlow02.5341.UI旁白2,,有的酒壶就长这样。,Flagons look like this.,Flagons look like this.
 SAY.chapterFlow02.5342.UI旁白1,,不是，这是烟囱！,No， this is a chimney!,No， this is a chimney!
-SAY.chapterFlow02.5343.UI旁白1,,这里是糖厂！,This is the sugar factor!,This is the sugar factor!
+SAY.chapterFlow02.5343.UI旁白1,,这里是糖厂！,This is the sugar factory!,This is the sugar factory!
 SAY.chapterFlow02.134.UI旁白1,,回答正确！,Correct answer!,Correct answer!
 SAY.chapterFlow02.135.UI旁白1,,快到村里那条路，有个古代留下的城门。,The town has a gate left over from old times.,The town has a gate left over from old times.
 SAY.chapterFlow02.152.UI旁白1,,我们镇上哪有塔呀！？,We don't have a tower in our town!?,We don't have a tower in our town!?
@@ -4445,7 +4445,7 @@ SAY.chapterFlow02.418.系统提示,,红圈表示要去哪里,The red tells you w
 SAY.chapterFlow02.424.系统提示,,方向键可以切换不同地点,Arrow keys can swap between different locations.,Arrow keys can swap between different locations.
 SAY.chapterFlow02.429.系统提示,,确认键可以获取该地点的信息,Confirm key gives you some information.,Confirm key gives you some information.
 SAY.chapterFlow02.4758.UI旁白1,,去邮局门口找村里来的宁叔。,Go to the post office to find Uncle Ning.,Go to the post office to find Uncle Ning.
-SAY.chapterFlow02.5358.UI旁白1,,去畜牧站找阿山。,Go to the agricultre station to find Ah Shan.,Go to the agricultre station to find Ah Shan.
+SAY.chapterFlow02.5358.UI旁白1,,去畜牧站找阿山。,Go to the agriculture station to find Ah Shan.,Go to the agriculture station to find Ah Shan.
 SAY.chapterFlow02.499.UI旁白1,,这时候回家还早，先去谈谈工作吧。,It's too early to go back， let's see if I can find some work.,It's too early to go back， let's see if I can find some work.
 SAY.chapterFlow02.505.UI旁白1,,之前陪地主妹看过一个动画片，叫《机器狗》。,Ah， not long ago I went with the kid to watch a cartoon movie， “Robot Dog”.,Ah， not long ago I went with the kid to watch a cartoon movie， “Robot Dog”.
 SAY.chapterFlow02.506.UI旁白1,,它有个法宝是一扇门。,They had a gadget that was a door.,They had a gadget that was a door.
@@ -4534,7 +4534,7 @@ SAY.chapterFlow02.5298.冬夕,,早点完事，早点钓鱼。,The earlier I get 
 SAY.chapterFlow02.5303.主角,,（村里来的宁叔。）,(Uncle Ning from the village.),(Uncle Ning from the village.)
 SAY.chapterFlow02.5304.主角,,（改行当猪贩子的阿山。）,(Ah Shan changed professions to be a butcher.),(Ah Shan changed professions to be a butcher.)
 SAY.chapterFlow02.5305.主角,,（还有糖厂的车队……）,(The team from the sugar factory...),(The team from the sugar factory...)
-SAY.chapterFlow02.5306.主角,,（既然老四说糖厂那个人要晚一点才有空。）,(Even though Lao Si said that the sugar factory is going to be busy until later.),(Even though Lao Si said that the sugar factory is going to be busy until later.)
+SAY.chapterFlow02.5306.主角,,（既然老四说糖厂那个人要晚一点才有空。）,(Though Lao Si said that the sugar factory is going to be busy until later.),(Though Lao Si said that the sugar factory is going to be busy until later.)
 SAY.chapterFlow02.5307.主角,,（那就先找另外两个吧。）,(Maybe I should go find the other two first.),(Maybe I should go find the other two first.)
 SAY.chapterFlow02.5362.UI旁白1,,去邮局门口找村里来的宁叔。,Go to the post office to find Uncle Ning.,Go to the post office to find Uncle Ning.
 SAY.chapterFlow02.5369.UI旁白1,,去畜牧站找阿山。,Go to the agricultural center to find Ah Shan.,Go to the agricultural center to find Ah Shan.
