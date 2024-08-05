@@ -149,46 +149,46 @@ SAY.xiaochen.66.邮递员小陈,,我做事情都按章程办。,I do everything 
 SAY.xiaochen.67.邮递员小陈,,为什么他们还说我没有规矩呢？,How come they still say I'm not following the rules?,How come they still say I'm not following the rules?
 SAY.laolitou.1.主角,,郑叔。,Uncle Zheng.,Uncle Zheng.
 SAY.laolitou.100.老厉头,,阿南。,Ah Nan.,Ah Nan.
-SAY.laolitou.101.老厉头,,多久没来买书了？,How long has it been sincey you bought a book?,How long has it been sincey you bought a book?
-SAY.laolitou.102.主角,,我不爱看书。,I don't like looking at books.,I don't like looking at books.
+SAY.laolitou.101.老厉头,,多久没来买书了？,How long has it been since you bought a book?,How long has it been since you bought a book?
+SAY.laolitou.102.主角,,我不爱看书。,I don't like reading books.,I don't like reading books.
 SAY.laolitou.103.老厉头,,读史使人明智，读诗使人灵秀。,Reading history helps with wisdom， reading poetry helps with elegance.,Reading history helps with wisdom， reading poetry helps with elegance.
 SAY.laolitou.104.老厉头,,你什么都不读，会变成庸人的。,If you don't read anything， you'll just be mediocre.,If you don't read anything， you'll just be mediocre.
 SAY.laolitou.105.主角,,我本来就是。,I am mediocre.,I am mediocre.
 SAY.laolitou.106.老厉头,,我给你讲个故事。,Let me tell you a story.,Let me tell you a story.
-SAY.laolitou.107.主角,,你先讲个大概，我看看我听过没有。,Just give a summary， let me see if I've heard it before.,Just give a summary， let me see if I've heard it before.
-SAY.laolitou.108.主角,,你经常重复讲的，听过我就不听了。,You always repeat your stories， if I heard it before I don't want to hear it again.,You always repeat your stories， if I heard it before I don't want to hear it again.
-SAY.laolitou.109.老厉头,,人最大的劣根性，就是喜欢窝里斗。,A person's greatest weakness， is infighting.,A person's greatest weakness， is infighting.
+SAY.laolitou.107.主角,,你先讲个大概，我看看我听过没有。,Just give me a summary， let me see if I've heard it before.,Just give me a summary， let me see if I've heard it before.
+SAY.laolitou.108.主角,,你经常重复讲的，听过我就不听了。,You always repeat your stories， if I heard it before， I don't want to hear it again.,You always repeat your stories， if I heard it before， I don't want to hear it again.
+SAY.laolitou.109.老厉头,,人最大的劣根性，就是喜欢窝里斗。,A person's greatest weakness is infighting.,A person's greatest weakness is infighting.
 SAY.laolitou.110.主角,,哦，得了。,Oh， got it.,Oh， got it.
 SAY.laolitou.111.主角,,这个我听过了。,I heard this before.,I heard this before.
-SAY.laolitou.112.主角,,你在生产队的故事嘛，不用再讲了。,The story of when you were on the production team， don't need to retell it.,The story of when you were on the production team， don't need to retell it.
+SAY.laolitou.112.主角,,你在生产队的故事嘛，不用再讲了。,It's the story of when you were on the production team， you don't need to retell it.,It's the story of when you were on the production team， you don't need to retell it.
 SAY.laolitou.113.老厉头,,等一下！,Wait!,Wait!
 SAY.laolitou.114.老厉头,,同样的道理，还有另外一个故事！,There's another story with the same moral!,There's another story with the same moral!
 SAY.laolitou.115.主角,,……你讲你讲。,...Fine go ahead.,...Fine go ahead.
-SAY.laolitou.116.老厉头,,那天有两个娃仔，来我们店买漫画。,That day there were two kids， wanted to buy some manhua.,That day there were two kids， wanted to buy some manhua.
-SAY.laolitou.117.老厉头,,买了两本《八凤珠》，两本《机器狗》。,Bought two of “Eight Phoenix Perals”， two of “Robot Dog”,Bought two of “Eight Phoenix Perals”， two of “Robot Dog”
-SAY.laolitou.118.主角,,嗯，这段没听过。,Hm， haven't heard this before.,Hm， haven't heard this before.
+SAY.laolitou.116.老厉头,,那天有两个娃仔，来我们店买漫画。,That day， there were two kids who wanted to buy some manhua.,That day， there were two kids who wanted to buy some manhua.
+SAY.laolitou.117.老厉头,,买了两本《八凤珠》，两本《机器狗》。,Bought two copies of “Eight Phoenix Pearls”， two of “Robot Dog”,Bought two copies of “Eight Phoenix Pearls”， two of “Robot Dog”
+SAY.laolitou.118.主角,,嗯，这段没听过。,Hm， I haven't heard this before.,Hm， I haven't heard this before.
 SAY.laolitou.119.主角,,你继续。,Go on.,Go on.
-SAY.laolitou.120.老厉头,,他们刚走出去没多远，就碰见另外三个学生。,They didn't walk but two steps and ran into three other students.,They didn't walk but two steps and ran into three other students.
+SAY.laolitou.120.老厉头,,他们刚走出去没多远，就碰见另外三个学生。,They walked a short distance before running into three other students.,They walked a short distance before running into three other students.
 SAY.laolitou.121.老厉头,,估计是初中生，或者是六年级的。,I'm guessing they were middle school， maybe sixth grade.,I'm guessing they were middle school， maybe sixth grade.
-SAY.laolitou.122.老厉头,,他们的钱就挨这三个人抢走啦。,The got robbed by these three.,The got robbed by these three.
-SAY.laolitou.123.老厉头,,一个挨抢了几块，另外一个挨抢了几十块。,One lost a few dollars， one lots tens of dollars.,One lost a few dollars， one lots tens of dollars.
-SAY.laolitou.124.老厉头,,抢完还要追着他们打。,After robbing them they were chasing them and beating them.,After robbing them they were chasing them and beating them.
+SAY.laolitou.122.老厉头,,他们的钱就挨这三个人抢走啦。,Their money was taken by those three.,Their money was taken by those three.
+SAY.laolitou.123.老厉头,,一个挨抢了几块，另外一个挨抢了几十块。,One had a few bucks stolen， and the other had a few dozen stolen.,One had a few bucks stolen， and the other had a few dozen stolen.
+SAY.laolitou.124.老厉头,,抢完还要追着他们打。,After robbing them， the thieves even chased and beat them.,After robbing them， the thieves even chased and beat them.
 SAY.laolitou.125.主角,,那你不去救他们？,And you didn't go help them?,And you didn't go help them?
 SAY.laolitou.126.老厉头,,去啦！,I did!,I did!
-SAY.laolitou.127.老厉头,,那三个马上跑了！,Those three ran away!,Those three ran away!
-SAY.laolitou.128.主角,,现在这帮仔，坏哦。,Gangsters these days， awful.,Gangsters these days， awful.
-SAY.laolitou.129.老厉头,,问题的关键是第二天。,The problem is the second day.,The problem is the second day.
-SAY.laolitou.130.老厉头,,学校来找我们，你晓得为什么咩？,The school came by， you know why?,The school came by， you know why?
+SAY.laolitou.127.老厉头,,那三个马上跑了！,Those three ran off immediately!,Those three ran off immediately!
+SAY.laolitou.128.主角,,现在这帮仔，坏哦。,Kids these days are terrible， you know.,Kids these days are terrible， you know.
+SAY.laolitou.129.老厉头,,问题的关键是第二天。,The problem was the next day.,The problem was the next day.
+SAY.laolitou.130.老厉头,,学校来找我们，你晓得为什么咩？,The school came by， do you know why?,The school came by， do you know why?
 SAY.laolitou.131.主角,,为什么？,Why?,Why?
-SAY.laolitou.132.老厉头,,挨抢的其中一个的妈，觉得是另一个设计的。,One of the kids who was robbed， their mom， I think was the one who set it all up.,One of the kids who was robbed， their mom， I think was the one who set it all up.
+SAY.laolitou.132.老厉头,,挨抢的其中一个的妈，觉得是另一个设计的。,One of the victims' moms thought the other kid had planned it all.,One of the victims' moms thought the other kid had planned it all.
 SAY.laolitou.133.老厉头,,串通那三个人抢她仔。,Planned it with those other three to rob her kid.,Planned it with those other three to rob her kid.
-SAY.laolitou.134.老厉头,,她找到了学校，又找了另外那个的家长。,She got to school， found the other's parents.,She got to school， found the other's parents.
-SAY.laolitou.135.老厉头,,一心要毁了那个娃仔。,Really wanted to mess up that kid.,Really wanted to mess up that kid.
-SAY.laolitou.136.老厉头,,好在学校来问我，我就给那个娃仔作证。,Good that the school came to ask me， so I was a witness.,Good that the school came to ask me， so I was a witness.
+SAY.laolitou.134.老厉头,,她找到了学校，又找了另外那个的家长。,She went to school， found the other's parents.,She went to school， found the other's parents.
+SAY.laolitou.135.老厉头,,一心要毁了那个娃仔。,She was determined to ruin that boy.,She was determined to ruin that boy.
+SAY.laolitou.136.老厉头,,好在学校来问我，我就给那个娃仔作证。,Fortunately， the school came to ask me,Fortunately， the school came to ask me
 SAY.laolitou.137.老厉头,,我证明他也是受害者。,I testified that the other kid was also a victim.,I testified that the other kid was also a victim.
 SAY.laolitou.138.老厉头,,你讲，这件事情是不是很荒谬？,Isn't that ridiculous?,Isn't that ridiculous?
 SAY.laolitou.139.老厉头,,人性是不是很丑恶？,Human nature is ugly， isn't it?,Human nature is ugly， isn't it?
-SAY.laolitou.140.主角,,是。,Yeah.,Yeah.
+SAY.laolitou.140.主角,,是。,It is.,It is.
 SAY.laolitou.141.老厉头,,窝里斗不可取啊！,Infighting isn't worth it.,Infighting isn't worth it.
 SAY.laolitou.142.老厉头,,你要多读书，才能读懂人性。,You have to read more， so you can understand people more.,You have to read more， so you can understand people more.
 SAY.laolitou.143.主角,,没得空读啊。,I have no time.,I have no time.
@@ -203,24 +203,24 @@ SAY.laolitou.151.主角,,不坐了，有事做。,No thanks， I have things to 
 SAY.laolitou.152.老厉头,,我看了快二十年的书，摘抄了五十本笔记。,I've read for almost twenty years， I have fifty notebooks of notes.,I've read for almost twenty years， I have fifty notebooks of notes.
 SAY.laolitou.153.老厉头,,摆满了家里三个书架。,Three bookshelves full at home.,Three bookshelves full at home.
 SAY.laolitou.154.老厉头,,你读书，可以先专门读某个类别。,When you read， you can focus on a genre first.,When you read， you can focus on a genre first.
-SAY.laolitou.155.老厉头,,也可以泛读各种类别。,Or you can just read all kinds of book.,Or you can just read all kinds of book.
-SAY.laolitou.156.老厉头,,只要读进脑里了，都是有益的。,As long as you read it into your brain， it'll be good.,As long as you read it into your brain， it'll be good.
-SAY.laolitou.157.老厉头,,你不是专门搞学术的，读点通识类的就得了。,You're not doing science or anything so just general knowledge is good.,You're not doing science or anything so just general knowledge is good.
+SAY.laolitou.155.老厉头,,也可以泛读各种类别。,Or you can just read all kinds of books.,Or you can just read all kinds of books.
+SAY.laolitou.156.老厉头,,只要读进脑里了，都是有益的。,As long as you read it and take it to your heart， it'll be good.,As long as you read it and take it to your heart， it'll be good.
+SAY.laolitou.157.老厉头,,你不是专门搞学术的，读点通识类的就得了。,You're not doing science or anything， so just general knowledge is good.,You're not doing science or anything， so just general knowledge is good.
 SAY.laolitou.158.老厉头,,人物文史，社会科学。,Biography， history， social studies.,Biography， history， social studies.
 SAY.laolitou.159.老厉头,,我的笔记都贴了标签。,My notes have it all marked.,My notes have it all marked.
 SAY.laolitou.160.老厉头,,文学啊，文化啊，历史和政治啊。,Literature， Culture， History， Government， all that.,Literature， Culture， History， Government， all that.
 SAY.laolitou.161.老厉头,,有的是摘抄，有的是心得体会。,Some excerpts， some of my own thoughts.,Some excerpts， some of my own thoughts.
 SAY.laolitou.162.老厉头,,我还剪报呢。,I even have newspaper clippings.,I even have newspaper clippings.
 SAY.laolitou.163.老厉头,,从八十年代就开始了。,I started from the Eighties.,I started from the Eighties.
-SAY.laolitou.164.老厉头,,每年都订十来种报纸，读完就剪。,Every year I order dozens of news papers， when I'm done reading I clip them.,Every year I order dozens of news papers， when I'm done reading I clip them.
+SAY.laolitou.164.老厉头,,每年都订十来种报纸，读完就剪。,Every year， I order dozens of newspapers. When I'm done reading， I clip them.,Every year， I order dozens of newspapers. When I'm done reading， I clip them.
 SAY.laolitou.165.老厉头,,报纸是时代的记录仪，是历史的收集者。,Newspapers are a record of time， a collector of histories.,Newspapers are a record of time， a collector of histories.
 SAY.laolitou.166.老厉头,,你要知道某个时候发生过什么，看报最直观。,If you want to know what happened where and when， reading a newspaper is the most direct.,If you want to know what happened where and when， reading a newspaper is the most direct.
 SAY.laolitou.167.老厉头,,人上了年纪容易忘事，记不清就翻翻笔记。,It's easy to forget things when you get older. I just flip through notes when I don't remember.,It's easy to forget things when you get older. I just flip through notes when I don't remember.
 SAY.laolitou.168.老厉头,,这样不仅能帮助记忆，连心情也豁然开朗。,This not only helps with memory， but also makes me happier.,This not only helps with memory， but also makes me happier.
 SAY.laolitou.169.老厉头,,我书店名是什么意思？,What's the meaning of the name of my bookstore?,What's the meaning of the name of my bookstore?
 SAY.laolitou.170.老厉头,,棠棣就是兄弟。,Tangdi is “Brothers”,Tangdi is “Brothers”
-SAY.laolitou.171.老厉头,,喜欢阅读的人，就是跟我志同道合的。,The ones who like to read， are the people who are the same interests as me.,The ones who like to read， are the people who are the same interests as me.
-SAY.laolitou.172.老厉头,,就是我的兄弟。,So my brothers.,So my brothers.
+SAY.laolitou.171.老厉头,,喜欢阅读的人，就是跟我志同道合的。,The ones who like to read， are the people who share the same interests as me.,The ones who like to read， are the people who share the same interests as me.
+SAY.laolitou.172.老厉头,,就是我的兄弟。,So， my brothers.,So， my brothers.
 SAY.chapterFlow06.1.主角,,对不住哦，各位。,Sorry， everyone.,Sorry， everyone.
 SAY.chapterFlow06.2.主角,,是我喊你们来帮忙的，结果我自己参加不了。,I asked you all to come help， but I can't join in myself.,I asked you all to come help， but I can't join in myself.
 SAY.chapterFlow06.3.葛喜,,莫讲这种的。,Don't say that.,Don't say that.
@@ -3321,12 +3321,12 @@ SAY.gouge.106.狗哥,,最恶的那几个，已经被民警抓获了。,The worst
 SAY.gouge.107.狗哥,,剩下的都是些小角色。,Just a few shrimp left.,Just a few shrimp left.
 SAY.gouge.108.主角,,哦，是咩？,Ah， that so?,Ah， that so?
 SAY.gouge.109.主角,,那是好事啊。,That's good.,That's good.
-SAY.gouge.110.狗哥,,所以我只是想吓吓剩下的小鬼，等他们收手。,So I just wanted to scare the little guys， make them stop.,So I just wanted to scare the little guys， make them stop.
+SAY.gouge.110.狗哥,,所以我只是想吓吓剩下的小鬼，等他们收手。,So I just wanted to scare the little guys to make them stop.,So I just wanted to scare the little guys to make them stop.
 SAY.gouge.111.狗哥,,我工作就是看看仓库，不算特别忙。,My job is just to keep an eye on the warehouse， not super busy.,My job is just to keep an eye on the warehouse， not super busy.
 SAY.gouge.112.狗哥,,也算是帮街坊邻里做点小事吧。,Count it as just doing the neighbors a favor.,Count it as just doing the neighbors a favor.
-SAY.gouge.113.狗哥,,除了偏僻小路，溜冰场和游艺厅的烂仔最多。,Outside of these small roads， the skating rinnk and game hall have the most punks.,Outside of these small roads， the skating rinnk and game hall have the most punks.
+SAY.gouge.113.狗哥,,除了偏僻小路，溜冰场和游艺厅的烂仔最多。,Outside of these small roads， the skating rink and game hall have the most punks.,Outside of these small roads， the skating rink and game hall have the most punks.
 SAY.gouge.114.狗哥,,小娃仔要尽量避开那种地方。,Kids should avoid those places.,Kids should avoid those places.
-SAY.gouge.115.狗哥,,我侄女就被抢了点钱。,My neice just got robbed.,My neice just got robbed.
+SAY.gouge.115.狗哥,,我侄女就被抢了点钱。,My niece just got robbed.,My niece just got robbed.
 SAY.gouge.116.狗哥,,没有受伤，也没有被吓得很厉害。,Didn't get hurt， but was quite scared.,Didn't get hurt， but was quite scared.
 SAY.gouge.117.狗哥,,算是不幸中的万幸吧。,I guess that's the silver lining.,I guess that's the silver lining.
 SAY.gouge.118.狗哥,,小学生哪打得过烂仔？,These kids can't fight these punks.,These kids can't fight these punks.
@@ -3346,7 +3346,7 @@ SAY.yuntun.104.云吞老板,,买几斤生云吞放冰箱。,Buy a few kilos and 
 SAY.yuntun.105.云吞老板,,想吃的时候就方便啦。,When you want some it'll be there for you.,When you want some it'll be there for you.
 SAY.yujiyun.1.捕虫少女郁季云,,叔叔，有事吗？,Uncle， can I help you?,Uncle， can I help you?
 SAY.yujiyun.28.主角,,没有。,No.,No.
-SAY.yujiyun.128.主角,,看到你一直在捉虫子，觉得蛮好玩的。,I'm just watching you catch bugs， looks fun.,I'm just watching you catch bugs， looks fun.
+SAY.yujiyun.128.主角,,看到你一直在捉虫子，觉得蛮好玩的。,I'm just watching you catch bugs， it looks fun.,I'm just watching you catch bugs， it looks fun.
 SAY.yujiyun.129.捕虫少女郁季云,,我就喜欢大自然。,I like nature.,I like nature.
 SAY.yujiyun.130.主角,,是咩。,Yeah?,Yeah?
 SAY.yujiyun.131.主角,,你不用上学吗？,You don't need to go to school?,You don't need to go to school?
@@ -3365,7 +3365,7 @@ SAY.yujiyun.143.主角,,哦，那你本地话讲得还不错啊。,Oh， then yo
 SAY.yujiyun.144.捕虫少女郁季云,,妈妈在家经常说。,Mom says that.,Mom says that.
 SAY.yujiyun.145.捕虫少女郁季云,,叔叔，你会觉得我的姓很奇怪吗？,Uncle， do you think my family name is odd?,Uncle， do you think my family name is odd?
 SAY.yujiyun.146.主角,,有啥奇怪的？,What's odd about it?,What's odd about it?
-SAY.yujiyun.147.主角,,百家人有百家姓，什么字都有。,Hundred Family Names has all the names.,Hundred Family Names has all the names.
+SAY.yujiyun.147.主角,,百家人有百家姓，什么字都有。,The “Hundred Family Names” lists all the common family names.,The “Hundred Family Names” lists all the common family names.
 SAY.yujiyun.148.捕虫少女郁季云,,我在那边，只有我家姓这个。,Where I'm at， only my family has my name.,Where I'm at， only my family has my name.
 SAY.yujiyun.149.捕虫少女郁季云,,我那些同学都喜欢拿我开玩笑。,All my classmates make fun of me for it.,All my classmates make fun of me for it.
 SAY.yujiyun.150.捕虫少女郁季云,,他们说我名字奇怪，人也奇怪，什么都奇怪。,They say my name is weird， I'm weird， everything is weird about me.,They say my name is weird， I'm weird， everything is weird about me.
@@ -3377,33 +3377,33 @@ SAY.yujiyun.155.捕虫少女郁季云,,覃叔叔。,Uncle Qin.,Uncle Qin.
 SAY.yujiyun.156.捕虫少女郁季云,,你要一起捉虫子吗？,Do you want to catch bugs with me?,Do you want to catch bugs with me?
 SAY.yujiyun.8.主角,,不了，我皮肤过敏。,No， I'm allergic.,No， I'm allergic.
 SAY.yujiyun.157.主角,,挨虫咬或者碰到花粉，容易一身长满疙瘩。,If I get bug bites or touch pollen， I get a bunch of bumps.,If I get bug bites or touch pollen， I get a bunch of bumps.
-SAY.yujiyun.158.捕虫少女郁季云,,现在流行养电子宠物。,Right now electronic pets are popular.,Right now electronic pets are popular.
+SAY.yujiyun.158.捕虫少女郁季云,,现在流行养电子宠物。,Right now， electronic pets are popular.,Right now， electronic pets are popular.
 SAY.yujiyun.159.捕虫少女郁季云,,我觉得可没意思，真的才好玩。,I don't find those fun，  the real ones are better.,I don't find those fun，  the real ones are better.
 SAY.yujiyun.160.捕虫少女郁季云,,你们这里的夏天好像挺热的！,It's pretty hot here.,It's pretty hot here.
 SAY.yujiyun.161.捕虫少女郁季云,,不过没关系，我住的地方有阳台。,But that's not a problem， I have a porch.,But that's not a problem， I have a porch.
 SAY.yujiyun.162.捕虫少女郁季云,,我要在阳台打地铺了！一定很自在！,I'm gonna sleep on the porch! It'll be nice!,I'm gonna sleep on the porch! It'll be nice!
-SAY.yujiyun.163.捕虫少女郁季云,,前几天，我第一次见到插秧的情景。,A few days ago it was the first time I saw people planting rice.,A few days ago it was the first time I saw people planting rice.
-SAY.yujiyun.164.捕虫少女郁季云,,有个女的已经怀孕了，挺着肚子。,There's a lady who was pregnant with a big belly.,There's a lady who was pregnant with a big belly.
+SAY.yujiyun.163.捕虫少女郁季云,,前几天，我第一次见到插秧的情景。,A few days ago， it was the first time I saw people planting rice.,A few days ago， it was the first time I saw people planting rice.
+SAY.yujiyun.164.捕虫少女郁季云,,有个女的已经怀孕了，挺着肚子。,There was a lady who was pregnant with a big belly.,There was a lady who was pregnant with a big belly.
 SAY.yujiyun.165.捕虫少女郁季云,,她站在田埂上，看她的丈夫在田里弯腰干活。,She was watching her husband work.,She was watching her husband work.
 SAY.yujiyun.166.捕虫少女郁季云,,那时候是傍晚，夕阳照着她的笑容，很好看。,It was evening， the sunset lit up her smile， it was very pretty.,It was evening， the sunset lit up her smile， it was very pretty.
-SAY.yujiyun.167.捕虫少女郁季云,,那个情景真的很温馨，我会一直记得。,That's a very nice scene， I'll always remember it.,That's a very nice scene， I'll always remember it.
+SAY.yujiyun.167.捕虫少女郁季云,,那个情景真的很温馨，我会一直记得。,It was a very nice scene， I'll always remember it.,It was a very nice scene， I'll always remember it.
 SAY.yujiyun.168.捕虫少女郁季云,,我听到知了叫了！,I hear cicadas!,I hear cicadas!
 SAY.yujiyun.169.捕虫少女郁季云,,晚上我就要去抓它们。,I'm gonna catch them at night.,I'm gonna catch them at night.
-SAY.yujiyun.170.捕虫少女郁季云,,你们这边老下雨。,You all have lots of rain too.,You all have lots of rain too.
-SAY.yujiyun.171.捕虫少女郁季云,,我家门口有个大水缸，那天接满了水。,We have a big vat of water at my front door， everyday it's filled up.,We have a big vat of water at my front door， everyday it's filled up.
-SAY.yujiyun.172.捕虫少女郁季云,,然后我就往里一跳——那个凉快呀！,Then I just jump in- that's refreshing!,Then I just jump in- that's refreshing!
+SAY.yujiyun.170.捕虫少女郁季云,,你们这边老下雨。,It always rains here.,It always rains here.
+SAY.yujiyun.171.捕虫少女郁季云,,我家门口有个大水缸，那天接满了水。,We have a big vat of water at my front door， everyday， it fills up.,We have a big vat of water at my front door， everyday， it fills up.
+SAY.yujiyun.172.捕虫少女郁季云,,然后我就往里一跳——那个凉快呀！,Then I just jump in- so refreshing!,Then I just jump in- so refreshing!
 SAY.yujiyun.173.捕虫少女郁季云,,我以前也会在学校门口的田里摸鱼。,I also caught fish in front of the school.,I also caught fish in front of the school.
 SAY.yujiyun.174.捕虫少女郁季云,,摸到了又不敢带回家。,But I didn't dare bring it home.,But I didn't dare bring it home.
 SAY.yujiyun.175.捕虫少女郁季云,,有一次是一只大乌龟，大概比铁饭盆大一圈。,One time， I caught a turtle， it was bigger than the wok.,One time， I caught a turtle， it was bigger than the wok.
-SAY.yujiyun.176.捕虫少女郁季云,,我想养，最后还是放生在附近水池了。,I wanted to take it home as a pet， but in the end i let it go.,I wanted to take it home as a pet， but in the end i let it go.
+SAY.yujiyun.176.捕虫少女郁季云,,我想养，最后还是放生在附近水池了。,I wanted to take it home as a pet， but in the end，I let it go.,I wanted to take it home as a pet， but in the end，I let it go.
 SAY.yujiyun.177.捕虫少女郁季云,,我来这里坐的是火车，坐了很久很久。,I came here on train， it took a long long time.,I came here on train， it took a long long time.
 SAY.yujiyun.178.捕虫少女郁季云,,我都忘记有几个白天，几个夜晚。,I forgot how many days and nights.,I forgot how many days and nights.
-SAY.yujiyun.179.捕虫少女郁季云,,抓到的虫子，我养两天就会放走。,The bugs I catch I let them go after two days.,The bugs I catch I let them go after two days.
-SAY.yujiyun.180.捕虫少女郁季云,,我觉得把它们做成标本太残忍了。,I think making them into specimines is too cruel.,I think making them into specimines is too cruel.
+SAY.yujiyun.179.捕虫少女郁季云,,抓到的虫子，我养两天就会放走。,The bugs I catch， I let them go after two days.,The bugs I catch， I let them go after two days.
+SAY.yujiyun.180.捕虫少女郁季云,,我觉得把它们做成标本太残忍了。,I think making them into specimens is too cruel.,I think making them into specimens is too cruel.
 SAY.yujiyun.181.捕虫少女郁季云,,我在芷滨见过好多虫。,I saw so many bugs in Zhibin.,I saw so many bugs in Zhibin.
 SAY.yujiyun.182.捕虫少女郁季云,,草蜢、螳螂、土狗还有各种颜色的甲虫。,Grasshoppers， mantis， crickets， and all sorts of beetles.,Grasshoppers， mantis， crickets， and all sorts of beetles.
 SAY.yujiyun.183.捕虫少女郁季云,,但是我很讨厌大蟑螂！,But I really hate big cockraches.,But I really hate big cockraches.
-SAY.yujiyun.184.捕虫少女郁季云,,就是你们讲的骚甲！,What you all call saojia!,What you all call saojia!
+SAY.yujiyun.184.捕虫少女郁季云,,就是你们讲的骚甲！,The ones you call Saojia!,The ones you call Saojia!
 SAY.hongping.1.红萍,,南哥，我决定了，我要自己做烧猪。,Bro' Nan. I decided， I'm gonna make a roast pig.,Bro' Nan. I decided， I'm gonna make a roast pig.
 SAY.hongping.28.主角,,你之前不就有吗？,Didn't you make it before?,Didn't you make it before?
 SAY.hongping.29.主角,,烧肉不是猪肉？,Wasn't the BBQ pork?,Wasn't the BBQ pork?
@@ -3516,19 +3516,19 @@ SAY.lufuren.68.老陆,,家里想给我介绍对象，好几回了。,My family w
 SAY.lufuren.69.老陆,,人家听见是卖游戏的，马上拒绝。,Once someone hears I sell games， they reject me.,Once someone hears I sell games， they reject me.
 SAY.lufuren.76.老陆,,不懂啦，我做错什么，没偷没抢的。,I don't understand， I didn't do anything wrong， I don't steal， or rob.,I don't understand， I didn't do anything wrong， I don't steal， or rob.
 SAY.lufuren.77.老陆,,游戏是什么十恶不赦的东西吗？,Are games really that evil?,Are games really that evil?
-SAY.zhangpopo.70.果园张婆婆,,我亲家劝我去楼房住。,My in laws tried to convince me to move to a condo.,My in laws tried to convince me to move to a condo.
+SAY.zhangpopo.70.果园张婆婆,,我亲家劝我去楼房住。,My in laws tried to convince me to move to an apartment.,My in laws tried to convince me to move to an apartment.
 SAY.zhangpopo.73.果园张婆婆,,五楼这么高！,Fifth Floor!,Fifth Floor!
 SAY.zhangpopo.74.果园张婆婆,,五楼！,FIFTH!,FIFTH!
-SAY.zhangpopo.75.果园张婆婆,,哪样上去！,How am I going to get up there?,How am I going to get up there?
+SAY.zhangpopo.75.果园张婆婆,,哪样上去！,How am I supposed to get up there?,How am I supposed to get up there?
 SAY.zhangpopo.76.果园张婆婆,,爬到我脚都软！,My legs will be sore!,My legs will be sore!
-SAY.zhangpopo.77.果园张婆婆,,五楼太高了，黄金铺楼梯我都不想上去。,Fifth floor is too high， I won't go even if it's golden stairs.,Fifth floor is too high， I won't go even if it's golden stairs.
-SAY.zhangpopo.79.果园张婆婆,,楼房是女婿买的。,My son in law bought it.,My son in law bought it.
+SAY.zhangpopo.77.果园张婆婆,,五楼太高了，黄金铺楼梯我都不想上去。,Fifth floor is too high， I won't go even if the stairs were made of gold.,Fifth floor is too high， I won't go even if the stairs were made of gold.
+SAY.zhangpopo.79.果园张婆婆,,楼房是女婿买的。,My son in law bought an apartment.,My son in law bought an apartment.
 SAY.zhangpopo.84.果园张婆婆,,亲家担心我不去，邻居会笑他。,They worry if I don't go， the neighbors will make fun of them.,They worry if I don't go， the neighbors will make fun of them.
 SAY.zhangpopo.85.果园张婆婆,,讲他对岳母娘不好。,And say they aren't good to their in laws.,And say they aren't good to their in laws.
 SAY.zhangpopo.86.果园张婆婆,,不会的！没有这种事！,No way! No such thing!,No way! No such thing!
 SAY.zhangpopo.81.果园张婆婆,,五楼，不行。,Fifth floor， nope.,Fifth floor， nope.
 SAY.zhangpopo.83.果园张婆婆,,我自己家住得习惯。,I am used to living in my own home.,I am used to living in my own home.
-SAY.zhangpopo.87.果园张婆婆,,不想去五楼。,I'm not going to the fifth floor.,I'm not going to the fifth floor.
+SAY.zhangpopo.87.果园张婆婆,,不想去五楼。,I'm not living on the fifth floor.,I'm not living on the fifth floor.
 SAY.liwei.95.建材老板立伟,,……,……,……
 SAY.liwei.98.建材老板立伟,,有事吗？,Can I help you?,Can I help you?
 SAY.liwei.99.建材老板立伟,,莫站我门口。,Don't stand in my doorway.,Don't stand in my doorway.
@@ -5082,41 +5082,41 @@ SAY.chapterFlow02.6310.莫子成,,彩扩机早晚是要买的。,I'll buy a colo
 SAY.chapterFlow02.6311.莫子成,,有彩扩机和没彩扩机，照相馆是两个档次。,It's a different level between the haves and the have nots.,It's a different level between the haves and the have nots.
 SAY.chapterFlow02.6312.莫子成,,业务能力有质的区别。,There's definitely a difference.,There's definitely a difference.
 SAY.chapterFlow02.6316.主角,,阿喜哥。,Bro' Ah Xi.,Bro' Ah Xi.
-SAY.chapterFlow02.6403.葛喜,,哟，货运大亨。,Oh， delivery mogul.,Oh， delivery mogul.
-SAY.chapterFlow02.6404.葛喜,,今天这么得空？,Free today?,Free today?
+SAY.chapterFlow02.6403.葛喜,,哟，货运大亨。,Hey， delivery mogul.,Hey， delivery mogul.
+SAY.chapterFlow02.6404.葛喜,,今天这么得空？,What brings you here today?,What brings you here today?
 SAY.chapterFlow02.6405.主角,,来看看你在做什么。,Checking out what you're doing.,Checking out what you're doing.
 SAY.chapterFlow02.6406.葛喜,,干嘛？指导我工作吗？,Why? Here to supervise?,Why? Here to supervise?
 SAY.chapterFlow02.6407.主角,,你的工作我不敢指导。,Oh， no way.,Oh， no way.
-SAY.chapterFlow02.6408.葛喜,,唉，不轻松哦。,Sigh， not easy.,Sigh， not easy.
-SAY.chapterFlow02.6409.葛喜,,死了个娃仔，才七岁。,Just lost a kid， only 7.,Just lost a kid， only 7.
+SAY.chapterFlow02.6408.葛喜,,唉，不轻松哦。,Sigh， it's not easy.,Sigh， it's not easy.
+SAY.chapterFlow02.6409.葛喜,,死了个娃仔，才七岁。,A kid died， only 7 years old.,A kid died， only 7 years old.
 SAY.chapterFlow02.6410.主角,,什么原因？,What happened?,What happened?
-SAY.chapterFlow02.6411.葛喜,,过马路不看，挨车创，那种运沙子的车。,Didn't look both ways when crossing the street. Got hit， by a large dump truck.,Didn't look both ways when crossing the street. Got hit， by a large dump truck.
+SAY.chapterFlow02.6411.葛喜,,过马路不看，挨车创，那种运沙子的车。,Didn't look both ways when crossing the street. Got hit by a large dump truck.,Didn't look both ways when crossing the street. Got hit by a large dump truck.
 SAY.chapterFlow02.6412.葛喜,,抢救了一个下午，还是没救回来。,They tried all afternoon， couldn't save'm.,They tried all afternoon， couldn't save'm.
 SAY.chapterFlow02.6413.主角,,哎……,Sigh...,Sigh...
 SAY.chapterFlow02.6414.葛喜,,跟那家人沟通很着力。,It's tough to communicate with the family.,It's tough to communicate with the family.
-SAY.chapterFlow02.6415.葛喜,,不过都是有娃仔的人，我理解他们。,But I can understand those with kids.,But I can understand those with kids.
-SAY.chapterFlow02.6416.主角,,照理讲白头人不可以送黑头人吧？,White haired people shouldn't send off black haired people， right?,White haired people shouldn't send off black haired people， right?
+SAY.chapterFlow02.6415.葛喜,,不过都是有娃仔的人，我理解他们。,But since we all have children， I understand them.,But since we all have children， I understand them.
+SAY.chapterFlow02.6416.主角,,照理讲白头人不可以送黑头人吧？,The elderly shouldn't have to send off the young， right?,The elderly shouldn't have to send off the young， right?
 SAY.chapterFlow02.6417.葛喜,,对啊，他们家风俗传统还要比这严格得多。,Yeah， their family's tradition is even more strict.,Yeah， their family's tradition is even more strict.
-SAY.chapterFlow02.6418.葛喜,,后事都不能亲自操办，只能叫亲戚代劳。,They can't handle the funeral themselves， so their relative have to do it.,They can't handle the funeral themselves， so their relative have to do it.
+SAY.chapterFlow02.6418.葛喜,,后事都不能亲自操办，只能叫亲戚代劳。,They can't handle the funeral themselves， so their relatives have to do it.,They can't handle the funeral themselves， so their relatives have to do it.
 SAY.chapterFlow02.6419.葛喜,,所以娃仔的父母情绪很激动。,So the kid's parents are very emotional.,So the kid's parents are very emotional.
-SAY.chapterFlow02.6420.葛喜,,骂家里长辈无情无义。,They say their familiy elders don't have any heart.,They say their familiy elders don't have any heart.
+SAY.chapterFlow02.6420.葛喜,,骂家里长辈无情无义。,They say their family elders don't have any heart.,They say their family elders don't have any heart.
 SAY.chapterFlow02.6421.葛喜,,加上各种复杂的讲究，后面麻烦多着呢。,Plus all these other traditions， it's going to be very complicated. ,Plus all these other traditions， it's going to be very complicated. 
-SAY.chapterFlow02.6422.葛喜,,我是觉得嘛，一些传统的东西可以尊重。,I feel like， some traditions can be respected.,I feel like， some traditions can be respected.
-SAY.chapterFlow02.6423.葛喜,,但是死亡这件事本身，没有什么好忌讳的。,But death? There's nothing to be worrying about.,But death? There's nothing to be worrying about.
-SAY.chapterFlow02.6424.葛喜,,不要搞个白事搞得活人也跟着受罪。,Don't make it hard on the living too.,Don't make it hard on the living too.
-SAY.chapterFlow02.6425.葛喜,,生与死每天看得多了，心也静了。,I see so much life and death everyday， I feel very calm.,I see so much life and death everyday， I feel very calm.
+SAY.chapterFlow02.6422.葛喜,,我是觉得嘛，一些传统的东西可以尊重。,I feel like some traditions can be respected.,I feel like some traditions can be respected.
+SAY.chapterFlow02.6423.葛喜,,但是死亡这件事本身，没有什么好忌讳的。,But death? There's no need to be overly superstitious.,But death? There's no need to be overly superstitious.
+SAY.chapterFlow02.6424.葛喜,,不要搞个白事搞得活人也跟着受罪。,Don’t let the funeral make the living suffer as well.,Don’t let the funeral make the living suffer as well.
+SAY.chapterFlow02.6425.葛喜,,生与死每天看得多了，心也静了。,Seeing life and death every day， my heart has grown calm,Seeing life and death every day， my heart has grown calm
 SAY.chapterFlow02.6426.葛喜,,生就搞得开心点，死就走得体面点。,Be happy when you're living， and be more composed when you leave.,Be happy when you're living， and be more composed when you leave.
 SAY.chapterFlow02.6427.葛喜,,该哭的哭，该笑的笑。,Cry when you should， laugh when you should.,Cry when you should， laugh when you should.
 SAY.chapterFlow02.6428.葛喜,,哭完笑完，该做的事情还是要做的。,After crying and laughing， you still have to do what you have to do.,After crying and laughing， you still have to do what you have to do.
-SAY.chapterFlow02.6429.葛喜,,上回喊你帮娃仔迎魂，你又不听。,Last time I asked you to help with a kid's funeral， you didn't listen.,Last time I asked you to help with a kid's funeral， you didn't listen.
-SAY.chapterFlow02.6430.葛喜,,准备一件干净的衣服，还有一些零钱就得了。,Prepped a clean set of clothes and some change and you're done.,Prepped a clean set of clothes and some change and you're done.
-SAY.chapterFlow02.6431.葛喜,,唱完歌就穿衣服，钱就给娃仔。,After you sing you put on the clothes， then give them money.,After you sing you put on the clothes， then give them money.
+SAY.chapterFlow02.6429.葛喜,,上回喊你帮娃仔迎魂，你又不听。,Last time， I asked you to help with a kid's funeral， you didn't listen.,Last time， I asked you to help with a kid's funeral， you didn't listen.
+SAY.chapterFlow02.6430.葛喜,,准备一件干净的衣服，还有一些零钱就得了。,Just prepare a clean set of clothes and some loose change.,Just prepare a clean set of clothes and some loose change.
+SAY.chapterFlow02.6431.葛喜,,唱完歌就穿衣服，钱就给娃仔。,After singing the song， dress the child and give them the money.,After singing the song， dress the child and give them the money.
 SAY.chapterFlow02.6432.葛喜,,十六岁之前都可以做，就是求个心安嘛。,You can do it anytime before they are 16， just for peace of mind.,You can do it anytime before they are 16， just for peace of mind.
 SAY.chapterFlow02.6433.葛喜,,祈盼荔荔健康强壮。,I hope Lili grows up healthy and strong.,I hope Lili grows up healthy and strong.
-SAY.chapterFlow02.6434.葛喜,,现在都流行做生日。,Now it's more popular to celebrate birthdays.,Now it's more popular to celebrate birthdays.
-SAY.chapterFlow02.6435.葛喜,,其实传统上到十八岁就不庆生了。,In the past after 18 there's no more birthday celebrations.,In the past after 18 there's no more birthday celebrations.
+SAY.chapterFlow02.6434.葛喜,,现在都流行做生日。,Now， it's more popular to celebrate birthdays.,Now， it's more popular to celebrate birthdays.
+SAY.chapterFlow02.6435.葛喜,,其实传统上到十八岁就不庆生了。,In the past， after 18， birthday celebrations stop.,In the past， after 18， birthday celebrations stop.
 SAY.chapterFlow02.6436.葛喜,,等到八十岁后才开始又庆生。,Then you celebrate after 80.,Then you celebrate after 80.
-SAY.chapterFlow02.6437.葛喜,,中间这几十年，一般是不庆生的。,Everything in between， normally isn't celebrated.,Everything in between， normally isn't celebrated.
+SAY.chapterFlow02.6437.葛喜,,中间这几十年，一般是不庆生的。,Everything in between normally isn't celebrated.,Everything in between normally isn't celebrated.
 SAY.chapterFlow02.6441.主角,,刘主任。,Director Liu.,Director Liu.
 SAY.chapterFlow02.6442.刘主任,,哟，阿南。,Oh， Ah Nan.,Oh， Ah Nan.
 SAY.chapterFlow02.6487.刘主任,,没去跑车咯。,Didn't go driving?,Didn't go driving?
