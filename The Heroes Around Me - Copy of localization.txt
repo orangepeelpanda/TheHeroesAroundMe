@@ -231,9 +231,9 @@ SAY.chapterFlow06.7.莫子成,,荔荔那边绝对OK啦。,Lili will definitely b
 SAY.chapterFlow06.8.莫子成,,问题是原来我们也有赢的打算咯？,The problem is we also planned to win then?,The problem is we also planned to win then?
 SAY.chapterFlow06.9.旁白1,,哈哈哈哈哈。,Hahahahaha.,Hahahahaha.
 SAY.chapterFlow06.12.韦家乐,,问题是原来我们也有赢的打算咯？,The problem is we also planned to win then?,The problem is we also planned to win then?
-SAY.chapterFlow06.13.韦家乐,,难不成讲我们要倒数？,Wait， do you mean reverse order?,Wait， do you mean reverse order?
+SAY.chapterFlow06.13.韦家乐,,难不成讲我们要倒数？,I don't want to be last.,I don't want to be last.
 SAY.chapterFlow06.14.吴明,,表姐夫，我会加把劲。,Cousin， I'll do my best.,Cousin， I'll do my best.
-SAY.chapterFlow06.15.吴明,,为芷滨拿、拿个名次！,We will place for  Zhibin!,We will place for  Zhibin!
+SAY.chapterFlow06.15.吴明,,为芷滨拿、拿个名次！,We will place for Zhibin!,We will place for Zhibin!
 SAY.chapterFlow06.16.吴明,,不给凤表姐做的龙、龙头丢脸。,We wont bring shame to Cousin Feng's Dragon and Dragon Head!,We wont bring shame to Cousin Feng's Dragon and Dragon Head!
 SAY.chapterFlow06.17.红萍,,那就争冠军，拿锦旗！,Then we go for the champion， win the flag!,Then we go for the champion， win the flag!
 SAY.chapterFlow06.18.刘主任,,锦旗是第二名！,The flag is second place!,The flag is second place!
@@ -388,7 +388,7 @@ SAY.chapterFlow06.5734.冬夕,,你这个状态开不了车。,You can't drive li
 SAY.chapterFlow06.5735.冬夕,,车子给我用，我找个人租出去，搞点外快。,Let me use the car， I'll find someone to rent it to， make some money.,Let me use the car， I'll find someone to rent it to， make some money.
 SAY.chapterFlow06.5736.主角,,可以啊。,Sure.,Sure.
 SAY.chapterFlow06.5737.主角,,如果后面我还不起钱，这台车就当抵押给你。,Later if I really can't pay you back， just take the car as collateral.,Later if I really can't pay you back， just take the car as collateral.
-SAY.chapterFlow06.5738.冬夕,,我发现你这个人真是蛮兜狠的。,I realize you're hard to deal with.,I realize you're hard to deal with.
+SAY.chapterFlow06.5738.冬夕,,我发现你这个人真是蛮兜狠的。,I find you really annoying.,I find you really annoying.
 SAY.chapterFlow06.5739.冬夕,,啰里啰嗦，不识好歹。,Bah whatever， you can't tell good from bad.,Bah whatever， you can't tell good from bad.
 SAY.chapterFlow06.5743.主角,,给我根烟。,Gimme a smoke.,Gimme a smoke.
 SAY.chapterFlow06.5744.冬夕,,不给，你又不会抽烟，浪费。,No， you don't even smoke， it's a waste.,No， you don't even smoke， it's a waste.
@@ -3827,7 +3827,7 @@ SAY.chapterFlow01.4691.张老师,,莫用这么谦虚。,Don't be so humble.,Don'
 SAY.chapterFlow01.4692.张老师,,我们这种才叫辛苦钱。,Teaching is labor work.,Teaching is labor work.
 SAY.chapterFlow01.4693.张老师,,整天对着一大帮娃仔，操心这个操心那个。,Facing a bunch of kids all day， worrying about this and that.,Facing a bunch of kids all day， worrying about this and that.
 SAY.chapterFlow01.4694.张老师,,下班了还要在这儿等，就为了和家长聊几句。,Waiting here after school is out just to catch the parents for a chat.,Waiting here after school is out just to catch the parents for a chat.
-SAY.chapterFlow01.4695.主角,,……老师，是不是覃茁荔做错事了？,...Teacher， did Zuoli do something wrong?,...Teacher， did Zuoli do something wrong?
+SAY.chapterFlow01.4695.主角,,……老师，是不是覃茁荔做错事了？,...Teacher， did Zhuoli do something wrong?,...Teacher， did Zhuoli do something wrong?
 SAY.chapterFlow01.4696.张老师,,家长啊，我不是告状。,I'm not tattling.,I'm not tattling.
 SAY.chapterFlow01.4697.张老师,,只是让你了解一下她在学校的情况。,I just want you to understand her situation at school.,I just want you to understand her situation at school.
 SAY.chapterFlow01.4698.主角,,明白。,Got it.,Got it.
