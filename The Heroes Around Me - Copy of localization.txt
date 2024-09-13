@@ -26,7 +26,7 @@ SAY.mozicheng.52.莫子成,,村口有棵树，树旁边是一间大宅。,There'
 SAY.mozicheng.53.莫子成,,街道的路是石板铺的，村口有桑树和鱼塘。,The streets are paved with stone， there's also a fish pond and mulberry tree.,The streets are paved with stone， there's also a fish pond and mulberry tree.
 SAY.mozicheng.54.莫子成,,这就是我奶记忆中她村子的模样。,That's the village in my Grandma's memory.,That's the village in my Grandma's memory.
 SAY.mozicheng.55.莫子成,,我奶越来越像娃仔了，爱讲俏皮话。,Grandma's more and more like a kid， she's being more of a wisecrack.,Grandma's more and more like a kid， she's being more of a wisecrack.
-SAY.mozicheng.56.莫子成,,我觉得她有时候是故意装傻。,Sometimes I feel like she's pretending like she doens't understand.,Sometimes I feel like she's pretending like she doens't understand.
+SAY.mozicheng.56.莫子成,,我觉得她有时候是故意装傻。,Sometimes I feel like she's pretending like she doesn't understand.,Sometimes I feel like she's pretending like she doesn't understand.
 SAY.mozicheng.57.莫子成,,如果那样，也是好事，证明她人开心点了。,If that's so， that's good too， means she's happier.,If that's so， that's good too， means she's happier.
 SAY.mozicheng.58.莫子成,,离开家乡和亲人越久，思念的情绪就越深。,The longer you're away from  home and family， the harder it is.,The longer you're away from  home and family， the harder it is.
 SAY.mozicheng.59.莫子成,,是真的咩？我不晓得。,Yeah? I don't know.,Yeah? I don't know.
@@ -122,7 +122,7 @@ SAY.xiaochen.39.邮递员小陈,,领导说局里人手不足，需要重新调�
 SAY.xiaochen.40.邮递员小陈,,所以让我去做邮递员。,So now I have to deliver the mail.,So now I have to deliver the mail.
 SAY.xiaochen.41.主角,,我也没见你送信呀？,But I don't see you delivering Mail?,But I don't see you delivering Mail?
 SAY.xiaochen.42.邮递员小陈,,可是我送信送的太慢，又被调回来了。,Because I was too slow so I got moved back.,Because I was too slow so I got moved back.
-SAY.xiaochen.43.邮递员小陈,,现在领导让我全天站在这个窗口前。,Now I just stand infront of this window.,Now I just stand infront of this window.
+SAY.xiaochen.43.邮递员小陈,,现在领导让我全天站在这个窗口前。,Now I just stand in front of this window.,Now I just stand in front of this window.
 SAY.xiaochen.44.邮递员小陈,,给办事群众介绍各种业务怎么办理。,And tell people where to go to get their things done.,And tell people where to go to get their things done.
 SAY.xiaochen.45.主角,,……你肯定做错事了。,...You must have done something wrong.,...You must have done something wrong.
 SAY.xiaochen.46.邮递员小陈,,做错什么了？,What did I do wrong?,What did I do wrong?
@@ -234,7 +234,7 @@ SAY.chapterFlow06.12.韦家乐,,问题是原来我们也有赢的打算咯？,Th
 SAY.chapterFlow06.13.韦家乐,,难不成讲我们要倒数？,I don't want to be last.,I don't want to be last.
 SAY.chapterFlow06.14.吴明,,表姐夫，我会加把劲。,Cousin， I'll do my best.,Cousin， I'll do my best.
 SAY.chapterFlow06.15.吴明,,为芷滨拿、拿个名次！,We will place for Zhibin!,We will place for Zhibin!
-SAY.chapterFlow06.16.吴明,,不给凤表姐做的龙、龙头丢脸。,We wont bring shame to Cousin Feng's Dragon and Dragon Head!,We wont bring shame to Cousin Feng's Dragon and Dragon Head!
+SAY.chapterFlow06.16.吴明,,不给凤表姐做的龙、龙头丢脸。,We won't bring shame to Cousin Feng's Dragon and Dragon Head!,We won't bring shame to Cousin Feng's Dragon and Dragon Head!
 SAY.chapterFlow06.17.红萍,,那就争冠军，拿锦旗！,Then we go for the champion， win the flag!,Then we go for the champion， win the flag!
 SAY.chapterFlow06.18.刘主任,,锦旗是第二名！,The flag is second place!,The flag is second place!
 SAY.chapterFlow06.19.刘主任,,第一名奖一头烧猪！,First place wins a roast pig!,First place wins a roast pig!
@@ -293,7 +293,7 @@ SAY.chapterFlow06.5668.UI旁白1,,{wvo}困在车里头出不来。{w=3},{wvo}Cou
 SAY.chapterFlow06.103.UI旁白2,,{wvo}害人害己哦。{w=3},{wvo}Harmed themselves and others.{w=3},{wvo}Harmed themselves and others.{w=3}
 SAY.chapterFlow06.5669.UI旁白1,,{wvo}那不是吗！？{w=3},{wvo}Right?!{w=3},{wvo}Right?!{w=3}
 SAY.chapterFlow06.5670.UI旁白1,,{wvo}这么大一台车掉水里。{w=3},{wvo}Such a big car dropped into the water.{w=3},{wvo}Such a big car dropped into the water.{w=3}
-SAY.chapterFlow06.5671.UI旁白1,,{wvo}那个女的肯定是挨漩涡卷进去了。{w=3},{wvo}The woman must have been pulled into the vortext.{w=3},{wvo}The woman must have been pulled into the vortext.{w=3}
+SAY.chapterFlow06.5671.UI旁白1,,{wvo}那个女的肯定是挨漩涡卷进去了。{w=3},{wvo}The woman must have been pulled into the vortex.{w=3},{wvo}The woman must have been pulled into the vortex.{w=3}
 SAY.chapterFlow06.5672.UI旁白1,,{wvo}找到她的时候……{w=3},{wvo}When we found her……{w=3},{wvo}When we found her……{w=3}
 SAY.chapterFlow06.5673.UI旁白1,,{wvo}哎哟，莫讲了。{w=3},{wvo}Sigh， let's not talk about it anymore.{w=3},{wvo}Sigh， let's not talk about it anymore.{w=3}
 SAY.chapterFlow06.104.UI旁白3,,{wvo}这个男的水性好哦。{w=3},{wvo}The man is good at swimming.{w=3},{wvo}The man is good at swimming.{w=3}
@@ -371,7 +371,7 @@ SAY.chapterFlow06.5709.冬夕,,你都神经的。,You're ridiculous.,You're ridi
 SAY.chapterFlow06.5710.冬夕,,卖车算个屁的办法。,What kind of way is sellin' your car?,What kind of way is sellin' your car?
 SAY.chapterFlow06.5711.冬夕,,卖了你回来吃什么？,What do you eat with after you sell it?,What do you eat with after you sell it?
 SAY.chapterFlow06.5712.冬夕,,你觉得荔荔治不了啦？,You feel like Lili can't be treated?,You feel like Lili can't be treated?
-SAY.chapterFlow06.5713.冬夕,,你也不打算活了是咩？,You dont' wanna live either?,You dont' wanna live either?
+SAY.chapterFlow06.5713.冬夕,,你也不打算活了是咩？,You don't' wanna live either?,You don't' wanna live either?
 SAY.chapterFlow06.5715.主角,,……,……,……
 SAY.chapterFlow06.5717.主角,,那我回来尽快还你。,Then I'll pay you back as soon as possible.,Then I'll pay you back as soon as possible.
 SAY.chapterFlow06.5718.冬夕,,到时候再讲。,Talk about it later.,Talk about it later.
@@ -494,7 +494,7 @@ SAY.chapterFlow06.6430.主角,,是的。,Yes.,Yes.
 SAY.chapterFlow06.5949.乘务员燕姐,,现在的情况是这样的。,So the situation is this.,So the situation is this.
 SAY.chapterFlow06.5950.乘务员燕姐,,我们马上就到成周站。,We are about to get to Chengzhou station.,We are about to get to Chengzhou station.
 SAY.chapterFlow06.5951.乘务员燕姐,,但是因为昨天发大水，半个成周都受到波及。,But because of the torrential rain yesterday， half of Chengzhou is affected.,But because of the torrential rain yesterday， half of Chengzhou is affected.
-SAY.chapterFlow06.6432.乘务员燕姐,,进入市区的道路全部被洪水淹没了。,All the roads there are under water.,All the roads there are under water.
+SAY.chapterFlow06.6432.乘务员燕姐,,进入市区的道路全部被洪水淹没了。,All the roads there are flooded.,All the roads there are flooded.
 SAY.chapterFlow06.6433.乘务员燕姐,,要去汽车站的话，只能等待洪水消退。,To get to the bus station， you'll have to wait for the water to recede.,To get to the bus station， you'll have to wait for the water to recede.
 SAY.chapterFlow06.6431.主角,,……怎么突然有洪水？,...How did it flood so suddenly?,...How did it flood so suddenly?
 SAY.chapterFlow06.5953.乘务员燕姐,,这几天降雨量太大了。,There was just too much rain these past few days.,There was just too much rain these past few days.
@@ -645,7 +645,7 @@ SAY.chapterFlow06.6124.UI旁白1,,{wvo}还是充满信心{w=3},{wvo}Are still fu
 SAY.chapterFlow06.6125.UI旁白1,,{wvo}他们说，明年的目标是冠军{w=3},{wvo}Next year， champions， they say{w=3},{wvo}Next year， champions， they say{w=3}
 SAY.chapterFlow06.6127.UI旁白1,,{wvo}当初是为了我们{w=3},{wvo}At first， it was for us{w=3},{wvo}At first， it was for us{w=3}
 SAY.chapterFlow06.6128.UI旁白1,,{wvo}为了妈妈做的龙头{w=3},{wvo}For mom's Dragon Head{w=3},{wvo}For mom's Dragon Head{w=3}
-SAY.chapterFlow06.6129.UI旁白1,,{wvo}叔叔阿姨们决定参加这支龙舟队{w=3},{wvo}Uncles and Aunites decided to join this team{w=3},{wvo}Uncles and Aunites decided to join this team{w=3}
+SAY.chapterFlow06.6129.UI旁白1,,{wvo}叔叔阿姨们决定参加这支龙舟队{w=3},{wvo}Uncles and Aunties decided to join this team{w=3},{wvo}Uncles and Aunties decided to join this team{w=3}
 SAY.chapterFlow06.6130.UI旁白1,,{wvo}这么多年过去了{w=3},{wvo}After so many years{w=3},{wvo}After so many years{w=3}
 SAY.chapterFlow06.6131.UI旁白1,,{wvo}他们还在做着这件事{w=3},{wvo}They are still doing this{w=3},{wvo}They are still doing this{w=3}
 SAY.chapterFlow06.6220.UI旁白1,,{wvo}似乎对每个人而言{w=3},{wvo}To everyone{w=3},{wvo}To everyone{w=3}
@@ -720,7 +720,7 @@ SAY.chapterFlow06.6236.熊小龙,,节目这么丰富。,So fancy.,So fancy.
 SAY.chapterFlow06.6237.付毓滢,,李颖你头发这么长啦？,Li Ying your hair is so long now.,Li Ying your hair is so long now.
 SAY.chapterFlow06.6238.李颖,,嘻嘻，留了好久咯。,Hehe， I spent a long time growing it.,Hehe， I spent a long time growing it.
 SAY.chapterFlow06.6239.付毓滢,,我昨天就想找你。,I tried to find you yesterday,I tried to find you yesterday
-SAY.chapterFlow06.6240.付毓滢,,打你手机说关机了。,But your cellphone was off.,But your cellphone was off.
+SAY.chapterFlow06.6240.付毓滢,,打你手机说关机了。,But your cell phone was off.,But your cell phone was off.
 SAY.chapterFlow06.6241.李颖,,嗯，我把卡拔出来了。,Yeah， I took out the simcard.,Yeah， I took out the simcard.
 SAY.chapterFlow06.6242.李颖,,我用的是学校发的卡，在这边打要收漫游费。,I'm using the card from school， I have to pay roaming if I use it here.,I'm using the card from school， I have to pay roaming if I use it here.
 SAY.chapterFlow06.6243.李颖,,跟你们又用不了短号。,I can't use the group chat either.,I can't use the group chat either.
@@ -847,12 +847,12 @@ SAY.linshi.169.林式,,哎，算了，明天还是改喝汽水吧。,Sigh， wha
 SAY.linshi.170.林式,,举杯销愁愁更愁。,Try to drink my worries away， my worries become more worrisome.,Try to drink my worries away， my worries become more worrisome.
 SAY.linshi.171.林式,,不可以越来越颓废的，这样违背了我的初衷。,I can't become dispirited， it betrays my original intention.,I can't become dispirited， it betrays my original intention.
 SAY.linshi.172.林式,,今天也是个好天气啊，无论晴雨都是。,Today is a good day， rain or shine!,Today is a good day， rain or shine!
-SAY.linshi.173.林式,,我要乐观积极。,I want to be super optimisitic.,I want to be super optimisitic.
-SAY.linshi.174.林式,,我要乐观积极！,I want to be super optimisitic!,I want to be super optimisitic!
+SAY.linshi.173.林式,,我要乐观积极。,I want to be super optimistic.,I want to be super optimistic.
+SAY.linshi.174.林式,,我要乐观积极！,I want to be super optimistic!,I want to be super optimistic!
 SAY.linshi.175.林式,,“人生如逆旅，我亦是行人……”,Life is a journey， I too am one of the travelers...,Life is a journey， I too am one of the travelers...
 SAY.linshi.176.林式,,这句词的境界，有几人能有呢？,How many can reach the level of this line of poetry?,How many can reach the level of this line of poetry?
 SAY.linshi.177.林式,,人是很难接受离别的，嘴上豁达，心里计较。,It's hard for people to accept separation， even though they may talk like it's easy， deep in their heart it's difficult.,It's hard for people to accept separation， even though they may talk like it's easy， deep in their heart it's difficult.
-SAY.linshi.178.林式,,我本想借这趟采风出来放空脑袋，换换心情。,I oroginally wanted to go collect folk songs to try to change my mood.,I oroginally wanted to go collect folk songs to try to change my mood.
+SAY.linshi.178.林式,,我本想借这趟采风出来放空脑袋，换换心情。,I originally wanted to go collect folk songs to try to change my mood.,I originally wanted to go collect folk songs to try to change my mood.
 SAY.linshi.179.林式,,结果看到这里的山水，反而更伤感了。,But after seeing the scenery here， I'm more depressed.,But after seeing the scenery here， I'm more depressed.
 SAY.linshi.181.林式,,身边人常说，我年纪也不小了咋还那么幼稚。,People next to me would often tell me that I'm childish for my age.,People next to me would often tell me that I'm childish for my age.
 SAY.linshi.182.林式,,那句歌词怎么唱来着？,How did that line go again?,How did that line go again?
@@ -867,7 +867,7 @@ SAY.daliangzi.72.大亮子,,制衣竞争太大了，所以我才选做包包。,
 SAY.daliangzi.73.大亮子,,我不会卖去大城市的，这样太蠢了。,I won't go try to sell it in big cities， that's not the smart move.,I won't go try to sell it in big cities， that's not the smart move.
 SAY.daliangzi.74.大亮子,,本来就是廉价品，我瞄准的是乡村市场。,It's already a cheaper product， I'm aiming for rural markets.,It's already a cheaper product， I'm aiming for rural markets.
 SAY.daliangzi.75.大亮子,,我也不会卖给批发商，这样差价他们都吃了。,I also won't sell to wholesalers， otherwise they'll take all my margin.,I also won't sell to wholesalers， otherwise they'll take all my margin.
-SAY.daliangzi.76.大亮子,,我要直接供货给商店，给他们更便宜的进价。,I'm going to sell directly to stores and let them buy it for c heap.,I'm going to sell directly to stores and let them buy it for c heap.
+SAY.daliangzi.76.大亮子,,我要直接供货给商店，给他们更便宜的进价。,I'm going to sell directly to stores and let them buy it for cheap.,I'm going to sell directly to stores and let them buy it for cheap.
 SAY.afu.162.阿福,,这是我的猫，叫阿福。,This is my cat， called Ah Fu.,This is my cat， called Ah Fu.
 SAY.afu.163.阿福,,因为它是只黑猫，长得像蝙蝠。,Because they are a black cat and look like a bat.,Because they are a black cat and look like a bat.
 SAY.afu.164.阿福,,阿福陪我很多年了。,Ah Fu has been with me for many years.,Ah Fu has been with me for many years.
@@ -992,7 +992,7 @@ SAY.liangshu.118.梁叔,,所以我很少过去打水。,So I don't get water the
 SAY.liangshu.96.梁叔,,那天我去到小学那边，看他们下棋。,That day I went to the school， found them playing some Chinese Chess.,That day I went to the school， found them playing some Chinese Chess.
 SAY.liangshu.97.梁叔,,我才发现修了条新路，可以直接到卫生院。,I found a new road， goes straight to the santiation department.,I found a new road， goes straight to the santiation department.
 SAY.liangshu.98.梁叔,,去供销社也近了好多，蛮方便的。,A shorter way to get to the co op too， pretty convenient.,A shorter way to get to the co op too， pretty convenient.
-SAY.liangshu.119.梁叔,,所以讲发展终究是会给大家带来好处。,Developement eventually brings good to everyone.,Developement eventually brings good to everyone.
+SAY.liangshu.119.梁叔,,所以讲发展终究是会给大家带来好处。,Development eventually brings good to everyone.,Development eventually brings good to everyone.
 SAY.liangshu.120.梁叔,,虽然也有破坏的方面。,Even though there will be some destruction.,Even though there will be some destruction.
 SAY.liangshu.100.梁叔,,那个幼儿园，都不晓得搞点什么鬼。,That kindergarten， who knows what's up.,That kindergarten， who knows what's up.
 SAY.liangshu.101.梁叔,,修了一年还没修好。,Been under repairs for a year.,Been under repairs for a year.
@@ -1049,7 +1049,7 @@ SAY.taoyi.64.桃姨,,或者直接买给他们。,Or he'll just buy for them.,Or 
 SAY.taoyi.65.桃姨,,有钱但是不多的娃仔，目标就很明确啦。,The ones with money they have their goal in sight.,The ones with money they have their goal in sight.
 SAY.taoyi.66.桃姨,,买完就走。,They leave after they buy.,They leave after they buy.
 SAY.taoyi.67.桃姨,,还有一种，钱不够的。,And another kind， one without lots of money.,And another kind， one without lots of money.
-SAY.taoyi.68.桃姨,,买一样东西要想半天。,Takes all day to think about what th ey want.,Takes all day to think about what th ey want.
+SAY.taoyi.68.桃姨,,买一样东西要想半天。,Takes all day to think about what they want.,Takes all day to think about what they want.
 SAY.taoyi.69.桃姨,,通常这种我就请他吃。,Usually those kids I just give it to them.,Usually those kids I just give it to them.
 SAY.taoyi.70.桃姨,,晚上也蛮多人来。,Plenty of people at night too.,Plenty of people at night too.
 SAY.taoyi.71.桃姨,,出来散散步，吹吹风。,Ones who come out for a walk， enjoy the breeze.,Ones who come out for a walk， enjoy the breeze.
@@ -1091,7 +1091,7 @@ SAY.chapterFlow04.33.张老师,,牛头牛奶水牛都可以。,So cow head， co
 SAY.chapterFlow04.34.张老师,,够简单了吧？写不出。,Easy right?  Couldn't do it.,Easy right?  Couldn't do it.
 SAY.chapterFlow04.35.张老师,,我让她把“牛”的词语各抄二十次。,I told her to write some of these common words to do with cow twenty times.,I told her to write some of these common words to do with cow twenty times.
 SAY.chapterFlow04.36.张老师,,就这样她还有意见。,She talks back.,She talks back.
-SAY.chapterFlow04.37.女儿,,我写了牛蛙呀！,I wrote bullfrong!,I wrote bullfrong!
+SAY.chapterFlow04.37.女儿,,我写了牛蛙呀！,I wrote bullfrog!,I wrote bullfrog!
 SAY.chapterFlow04.38.女儿,,为什么不对啊？,Why is it wrong?,Why is it wrong?
 SAY.chapterFlow04.39.张老师,,你告诉我什么是牛蛙？,Can you tell me what a bullfrog is?,Can you tell me what a bullfrog is?
 SAY.chapterFlow04.40.张老师,,我就没听讲过。,I've never heard of it.,I've never heard of it.
@@ -1171,7 +1171,7 @@ SAY.chapterFlow04.195.系统提示,,{wvo}捡到一颗很长的螺丝{w=3},{wvo}P
 SAY.chapterFlow04.3790.主角,,是你店里的吗？,Is this from your store?,Is this from your store?
 SAY.chapterFlow04.3792.阿福,,不是，客人随手丢的。,Nah， a customer tossed it.,Nah， a customer tossed it.
 SAY.chapterFlow04.3793.阿福,,他拿这个型号来对照，没找到就不要了。,He brought this in to match， couldn't find it then tossed it.,He brought this in to match， couldn't find it then tossed it.
-SAY.chapterFlow04.3797.系统提示,,{wvo}捡到一个漂亮的鱼钩{w=3},{wvo}Picked up a pretty fishhook{w=3},{wvo}Picked up a pretty fishhook{w=3}
+SAY.chapterFlow04.3797.系统提示,,{wvo}捡到一个漂亮的鱼钩{w=3},{wvo}Picked up a pretty fish hook{w=3},{wvo}Picked up a pretty fish hook{w=3}
 SAY.chapterFlow04.3802.主角,,（不会是叶老四留下的吧？）,(Did Ye Laosi leave this here?),(Did Ye Laosi leave this here?)
 SAY.chapterFlow04.3809.主角,,（做工不错，可惜断了。）,(Not bad craftsmanship， too bad it's broken.),(Not bad craftsmanship， too bad it's broken.)
 SAY.chapterFlow04.3813.系统提示,,{wvo}捡到一个金属圆环{w=3},{wvo}Picked up a metal ring{w=3},{wvo}Picked up a metal ring{w=3}
@@ -1321,7 +1321,7 @@ SAY.chapterFlow04.4819.主角,,你搞清楚没有？,Got it?,Got it?
 SAY.chapterFlow04.4820.女儿,,哈哈哈哈，搞清楚了！哈哈哈哈！,Hahaha， got it! Hahaha!,Hahaha， got it! Hahaha!
 SAY.chapterFlow04.4827.旁白,,威风女侠遭遇了剪刀怪。,Mighty Heroine encountered Scissor Monster!,Mighty Heroine encountered Scissor Monster!
 SAY.chapterFlow04.4828.旁白,,剪刀怪：你今天真不走运！居然碰上我了！,Scissor Monster:  You're unlucky today! You ran into me!,Scissor Monster:  You're unlucky today! You ran into me!
-SAY.chapterFlow04.5016.旁白,,剪刀怪：嘿！威风女侠！,Scissor Monster: Ha! Migthy Heroine!,Scissor Monster: Ha! Migthy Heroine!
+SAY.chapterFlow04.5016.旁白,,剪刀怪：嘿！威风女侠！,Scissor Monster: Ha! Mighty Heroine!,Scissor Monster: Ha! Mighty Heroine!
 SAY.chapterFlow04.4829.旁白,,剪刀怪：口桀口合口合口合——,Scissor Monster: Snip snip snap snap-,Scissor Monster: Snip snip snap snap-
 SAY.chapterFlow04.4830.旁白,,威风女侠：啊！是你！,Mighty Heroine: Ah! It's you!,Mighty Heroine: Ah! It's you!
 SAY.chapterFlow04.5017.旁白,,威风女侠：头上长螺丝的剪刀怪！,Mighty Heroine: The Scissor Monster with screw for hair!,Mighty Heroine: The Scissor Monster with screw for hair!
@@ -1386,7 +1386,7 @@ SAY.chapterFlow04.5021.旁白,,威风女侠：你要读书里的句子！,Mighty
 SAY.chapterFlow04.5007.旁白,,威风女侠：坏蛋输的时候会说很长一段话的！,Mighty Heroine: When the bad guys lose they have a whole thing to say!,Mighty Heroine: When the bad guys lose they have a whole thing to say!
 SAY.chapterFlow04.5008.旁白,,剪刀怪：……,Scissor Monster: ...,Scissor Monster: ...
 SAY.chapterFlow04.5009.旁白,,剪刀怪：不！我不会输的！我是最强的！,Scissor Monster: No! I can't lose! I am the strongest!,Scissor Monster: No! I can't lose! I am the strongest!
-SAY.chapterFlow04.5010.旁白,,剪刀怪：可恶的……威，威……风女侠。,Scissor Monster: So destestable...Migh...Mighty Heroine.,Scissor Monster: So destestable...Migh...Mighty Heroine.
+SAY.chapterFlow04.5010.旁白,,剪刀怪：可恶的……威，威……风女侠。,Scissor Monster: So detestable...Migh...Mighty Heroine.,Scissor Monster: So detestable...Migh...Mighty Heroine.
 SAY.chapterFlow04.5022.旁白,,剪刀怪：呜啊————嘣，哔哩嘣啷。,Scissor Monster: Gahh- Rahhh- Bang， kachong crash.,Scissor Monster: Gahh- Rahhh- Bang， kachong crash.
 SAY.chapterFlow04.5012.旁白,,威风女侠：呵呵呵，哈哈哈哈哈哈。,Mighty Heroine: Hehehe， hahahahahaha.,Mighty Heroine: Hehehe， hahahahahaha.
 SAY.chapterFlow04.5013.旁白,,又一次，威风女侠维护了宇宙的和平。,Once again， the Mighty Heroine saves the universe.,Once again， the Mighty Heroine saves the universe.
@@ -1404,7 +1404,7 @@ SAY.chapterFlow04.5036.主角,,天天吃红薯，你不想象一下怎么吃得�
 SAY.chapterFlow04.5043.女儿,,哈哈哈哈。,Hahahaha.,Hahahaha.
 SAY.chapterFlow04.5044.主角,,以后我得空就跟你玩，好不好？,In the future when I'm free I'll play with you， okay?,In the future when I'm free I'll play with you， okay?
 SAY.chapterFlow04.5045.女儿,,嗯！,Yup!,Yup!
-SAY.chapterFlow04.5119.主角,,下回不准这么赖皮啊！你都是乱来的！,Can't cheat next time! You make too many t hings up!,Can't cheat next time! You make too many t hings up!
+SAY.chapterFlow04.5119.主角,,下回不准这么赖皮啊！你都是乱来的！,Can't cheat next time! You make too many things up!,Can't cheat next time! You make too many things up!
 SAY.chapterFlow04.5115.女儿,,嘻嘻嘻嘻。,Hehehehe.,Hehehehe.
 SAY.chapterFlow04.5123.UI旁白1,,篮球场这条街很空旷，一眼能看完。,This street next to the Basketball Courts is pretty open， you can see everything with a glance.,This street next to the Basketball Courts is pretty open， you can see everything with a glance.
 SAY.chapterFlow04.5423.UI旁白1,,她的钥匙应该不会掉在这里。,Her key probably isn't here.,Her key probably isn't here.
@@ -1482,14 +1482,14 @@ SAY.chapterFlow04.5543.黄乐飘,,……,……,……
 SAY.chapterFlow04.5546.熊小龙,,说你是老黄还不承认。,Call you Old Huang and you still don't want to admit it.,Call you Old Huang and you still don't want to admit it.
 SAY.chapterFlow04.5547.旁白1,,哈哈哈哈哈。,Hahahahaha.,Hahahahaha.
 SAY.chapterFlow04.5548.付毓滢,,玩什么都行。,We can play whatever.,We can play whatever.
-SAY.chapterFlow04.5549.付毓滢,,我可以看你们玩。,I can watch ya'll play.,I can watch ya'll play.
+SAY.chapterFlow04.5549.付毓滢,,我可以看你们玩。,I can watch y'all play.,I can watch y'all play.
 SAY.chapterFlow04.5550.李颖,,别争了，快点去玩吧。,Stop fighting， let's go play.,Stop fighting， let's go play.
 SAY.chapterFlow04.5551.女儿,,阿爸阿爸！,Daddy daddy!,Daddy daddy!
 SAY.chapterFlow04.5554.主角,,怎么了？,What?,What?
 SAY.chapterFlow04.5556.女儿,,我是不是应该去拿吃的给大家啊？,Should I bring snacks to everyone?,Should I bring snacks to everyone?
 SAY.chapterFlow04.5557.主角,,得啦，你不用管。,Got it， don't worry about it.,Got it， don't worry about it.
 SAY.chapterFlow04.5558.主角,,阿爸来搞定就好。,Dad will handle it.,Dad will handle it.
-SAY.chapterFlow04.5562.主角,,你们中午在这里吃饭，好不好？,How about ya'll just have lunch here?,How about ya'll just have lunch here?
+SAY.chapterFlow04.5562.主角,,你们中午在这里吃饭，好不好？,How about y'all just have lunch here?,How about y'all just have lunch here?
 SAY.chapterFlow04.5563.主角,,现在都十点几了，叔叔准备去买菜煮饭。,It's ten something， I'll go buy stuff to make.,It's ten something， I'll go buy stuff to make.
 SAY.chapterFlow04.5564.旁白1,,……,.....,.....
 SAY.chapterFlow04.5565.主角,,你们有什么特别想吃的吗？,Do you have anything you want in particular?,Do you have anything you want in particular?
@@ -1518,7 +1518,7 @@ SAY.chapterFlow04.5591.付毓滢,,那是什么？,What is it then?,What is it th
 SAY.chapterFlow04.5592.李颖,,语文老师教过我们的！用普通话讲的！,We learned it in class! In Standard Chinese!,We learned it in class! In Standard Chinese!
 SAY.chapterFlow04.5593.李颖,,电视里也有播，可是我想不起来了……,It's on TV too， but I don't remember.,It's on TV too， but I don't remember.
 SAY.chapterFlow04.5594.黄乐飘,,哦！我知道！,Oh! I know!,Oh! I know!
-SAY.chapterFlow04.5595.黄乐飘,,我看过那个广告！,I've seen that commerical!,I've seen that commerical!
+SAY.chapterFlow04.5595.黄乐飘,,我看过那个广告！,I've seen that commercial!,I've seen that commercial!
 SAY.chapterFlow04.5596.黄乐飘,,“公激凌”！,“Kid Ice!”,“Kid Ice!”
 SAY.chapterFlow04.5597.黄乐飘,,“冰仔公激凌” ！,“Frosty Kid Ice!”,“Frosty Kid Ice!”
 SAY.chapterFlow04.5598.女儿,,不是公仔冰激凌吗？,Not Kiddo Ice Cream?,Not Kiddo Ice Cream?
@@ -1593,7 +1593,7 @@ SAY.chapterFlow04.5690.女儿,,啊……,Ah.....,Ah.....
 SAY.chapterFlow04.5691.李颖,,哈哈，茁荔第一把就要当鬼。,Haha， Zhuoli has to be it the first round.,Haha， Zhuoli has to be it the first round.
 SAY.chapterFlow04.5692.女儿,,阿爸，怎么办？,Dad， what do we do?,Dad， what do we do?
 SAY.chapterFlow04.5693.主角,,不怕，当鬼很简单的。,Don't worry， it's easy to be it.,Don't worry， it's easy to be it.
-SAY.chapterFlow04.5694.主角,,看我把他们全逮出来。,Watch me fin dall of them.,Watch me fin dall of them.
+SAY.chapterFlow04.5694.主角,,看我把他们全逮出来。,Watch me find all of them.,Watch me find all of them.
 SAY.chapterFlow04.5695.黄乐飘,,叔叔你不能通风报信。,Uncle you can't sell us out.,Uncle you can't sell us out.
 SAY.chapterFlow04.5696.黄乐飘,,要覃茁荔自己找。,Qin Zhuoli has to find us herself.,Qin Zhuoli has to find us herself.
 SAY.chapterFlow04.5697.熊小龙,,老黄你真是争强好胜。,Old Huang， you're competitive.,Old Huang， you're competitive.
@@ -1693,7 +1693,7 @@ SAY.chapterFlow04.5938.UI旁白1,,钥匙在路上很好发现。,The key would b
 SAY.chapterFlow04.5879.UI旁白1,,礼堂门口人来人往的，旁边还有公交车站。,The Assembly hall has lots of people moving in and out， there's a bus station next to it as well.,The Assembly hall has lots of people moving in and out， there's a bus station next to it as well.
 SAY.chapterFlow04.5937.UI旁白1,,掉在这段路就麻烦咯，容易被踢到不知哪儿去。,If it's lost here then that'll be a problem， who knows who may have kicked it somewhere.,If it's lost here then that'll be a problem， who knows who may have kicked it somewhere.
 SAY.chapterFlow04.5897.放映员,,今天来看电影的人明显比平时多。,Looks like more people than usual coming to watch a movie.,Looks like more people than usual coming to watch a movie.
-SAY.chapterFlow04.5898.放映员,,陈大哥的动作片还是很受欢迎的。,Brother Chen's action flims are pretty popular.,Brother Chen's action flims are pretty popular.
+SAY.chapterFlow04.5898.放映员,,陈大哥的动作片还是很受欢迎的。,Brother Chen's action films are pretty popular.,Brother Chen's action films are pretty popular.
 SAY.chapterFlow04.5914.放映员,,他打得好看，又好玩。,He looks great in action， and it's fun.,He looks great in action， and it's fun.
 SAY.chapterFlow04.5900.放映员,,这个女主角唱歌好听，演戏也有模有样的。,The female lead is good at singing and acting too.,The female lead is good at singing and acting too.
 SAY.chapterFlow04.5903.放映员,,里面街道追逐那一段，相当过瘾。,There's that alleyway chase scene that's super intense.,There's that alleyway chase scene that's super intense.
@@ -1727,7 +1727,7 @@ SAY.chapterFlow05.531.父亲,,喝了！来不及！,I tried! Couldn't make it in
 SAY.chapterFlow05.532.父亲,,出门之前灌了快三升，喝不下了。,I drank almost three liters befroe leaving， couldn't drink anymore.,I drank almost three liters befroe leaving， couldn't drink anymore.
 SAY.chapterFlow05.533.母亲,,等车的时候去了十几回厕所。,Then when I was waiting I went to the bathroom dozens of times.,Then when I was waiting I went to the bathroom dozens of times.
 SAY.chapterFlow05.536.主角,,……,......,......
-SAY.chapterFlow05.537.主角,,那这身打扮又是什么？,Then whats with the outfit.,Then whats with the outfit.
+SAY.chapterFlow05.537.主角,,那这身打扮又是什么？,Then what's with the outfit.,Then what's with the outfit.
 SAY.chapterFlow05.538.主角,,这么牛鬼。,It's something.,It's something.
 SAY.chapterFlow05.539.母亲,,哎呀，莫讲了。,Ah， let's not talk about it.,Ah， let's not talk about it.
 SAY.chapterFlow05.540.母亲,,这个老鬼够兜狠啦。,Your old man loves to argue.,Your old man loves to argue.
@@ -1813,7 +1813,7 @@ SAY.chapterFlow05.609.女儿,,一个硬皮抄。,Hardcover notebook.,Hardcover n
 SAY.chapterFlow05.610.女儿,,学校让我们学写日记。,School wants us to write a diary.,School wants us to write a diary.
 SAY.chapterFlow05.611.女儿,,我正好看到那个本子，就写在里面了。,I saw this book， so I wrote in it.,I saw this book， so I wrote in it.
 SAY.chapterFlow05.612.主角,,那你本来放在哪里？,Where'd you put it?,Where'd you put it?
-SAY.chapterFlow05.613.女儿,,我昨晚写完，放在书桌抽屉里。,I put it in my drawer after I finishsed my assignments.,I put it in my drawer after I finishsed my assignments.
+SAY.chapterFlow05.613.女儿,,我昨晚写完，放在书桌抽屉里。,I put it in my drawer after I finished my assignments.,I put it in my drawer after I finished my assignments.
 SAY.chapterFlow05.614.女儿,,它不是作业，不用交。,It's not an assignment， I don't have to turn it in.,It's not an assignment， I don't have to turn it in.
 SAY.chapterFlow05.615.女儿,,我都是写的时候才会拿出来的。,I only take it out when I'm done with my assignments.,I only take it out when I'm done with my assignments.
 SAY.chapterFlow05.616.主角,,这样子也能搞丢吗？,You still lost it?,You still lost it?
@@ -1839,10 +1839,10 @@ SAY.chapterFlow05.649.父亲,,今天你们没回到，你妈叫我打扫卫生�
 SAY.chapterFlow05.650.父亲,,我就想把东西捡一下。,So I thought I'd put things away.,So I thought I'd put things away.
 SAY.chapterFlow05.651.父亲,,平时我也会放点资料和本子在她抽屉的。,Normally I would put some notebooks and stuff in her drawer.,Normally I would put some notebooks and stuff in her drawer.
 SAY.chapterFlow05.652.父亲,,我哪想得到她会用来写日记咧？,I didn't think she'd use this to write a diary.,I didn't think she'd use this to write a diary.
-SAY.chapterFlow05.653.父亲,,一捡当然全部捡走啦。,So when i was cleaning I just grabbed e verything.,So when i was cleaning I just grabbed e verything.
+SAY.chapterFlow05.653.父亲,,一捡当然全部捡走啦。,So when i was cleaning I just grabbed everything.,So when i was cleaning I just grabbed everything.
 SAY.chapterFlow05.654.主角,,那刚才问你又不承认？,Then how come you didn't admit when I asked?,Then how come you didn't admit when I asked?
-SAY.chapterFlow05.655.父亲,,我哪好意思咧？,It's embarrasing.,It's embarrasing.
-SAY.chapterFlow05.656.主角,,你打算偷偷还回去？,You wanted to put it back steathily?,You wanted to put it back steathily?
+SAY.chapterFlow05.655.父亲,,我哪好意思咧？,It's embarrassing.,It's embarrassing.
+SAY.chapterFlow05.656.主角,,你打算偷偷还回去？,You wanted to put it back stealthily?,You wanted to put it back stealthily?
 SAY.chapterFlow05.657.父亲,,是啊！,Yeah.,Yeah.
 SAY.chapterFlow05.658.主角,,你这个老鬼脸皮厚哦。,You are so shameless.,You are so shameless.
 SAY.chapterFlow05.659.主角,,骗娃仔。,Lying to kids.,Lying to kids.
@@ -1862,7 +1862,7 @@ SAY.chapterFlow05.675.父亲,,什么水杯啊，水壶啊，本子啊。,Mugs，
 SAY.chapterFlow05.676.父亲,,你用完和我讲，还有！,When you're finished， come tell me， there's more!,When you're finished， come tell me， there's more!
 SAY.chapterFlow05.677.女儿,,谢谢阿公！,Thanks Grandpa!,Thanks Grandpa!
 SAY.chapterFlow05.678.父亲,,不用谢！,No need to thank me.,No need to thank me.
-SAY.chapterFlow05.679.父亲,,还想要什么就跟我讲！,Whatever else you need jsut tell me!,Whatever else you need jsut tell me!
+SAY.chapterFlow05.679.父亲,,还想要什么就跟我讲！,Whatever else you need just tell me!,Whatever else you need just tell me!
 SAY.chapterFlow05.683.母亲,,荔荔情绪稳定了很多，性格也变开朗了。,Lili's more calm these days and is happier too.,Lili's more calm these days and is happier too.
 SAY.chapterFlow05.684.母亲,,刚刚我还怕她会哭呢。,I was worried she would start crying.,I was worried she would start crying.
 SAY.chapterFlow05.685.父亲,,学习也上心了。,She's starting to pay attention in school too.,She's starting to pay attention in school too.
@@ -1872,7 +1872,7 @@ SAY.chapterFlow05.688.母亲,,弟啊，你哪样教她的？,Did you do somethin
 SAY.chapterFlow05.689.主角,,没有啊，就平常那样。,No， nothing out of the ordinary.,No， nothing out of the ordinary.
 SAY.chapterFlow05.690.主角,,她本来就蛮懂事的。,She was always a kid who got it.,She was always a kid who got it.
 SAY.chapterFlow05.691.主角,,可能以前太孤独了吧，做什么都不积极。,Maybe she was lonely before， didn't have any drive.,Maybe she was lonely before， didn't have any drive.
-SAY.chapterFlow05.692.主角,,有人陪她就好了。,It's good that someone's with her.,It's good that someone's with her.
+SAY.chapterFlow05.692.主角,,有人陪她就好了。,It's good that someone is with her.,It's good that someone is with her.
 SAY.chapterFlow05.693.母亲,,看来这次让你留下来是对的。,Looks like letting you stay is the right choice.,Looks like letting you stay is the right choice.
 SAY.chapterFlow05.694.母亲,,这个娃仔成长了，你也成长了。,Kid's grown up， you're growing up too.,Kid's grown up， you're growing up too.
 SAY.chapterFlow05.695.主角,,爸，妈。,Mom， dad.,Mom， dad.
@@ -1973,7 +1973,7 @@ SAY.chapterFlow05.829.主角,,你是一岁零十五天开始会走路的。,You 
 SAY.chapterFlow05.830.主角,,走路之前就会叫人了。,You knew how to call for people before that.,You knew how to call for people before that.
 SAY.chapterFlow05.831.主角,,一岁半已经会讲蛮多的东西了。,At 1 and a half you could talk a lot.,At 1 and a half you could talk a lot.
 SAY.chapterFlow05.832.女儿,,哦。,Oh. ,Oh. 
-SAY.chapterFlow05.833.主角,,现在换了另外一面。,On the otherside now.,On the otherside now.
+SAY.chapterFlow05.833.主角,,现在换了另外一面。,On the other side now.,On the other side now.
 SAY.chapterFlow05.834.主角,,录的是你再小点的时候。,This is when you were even smaller.,This is when you were even smaller.
 SAY.chapterFlow05.837.旁白1,,哇啊啊啊啊啊啊——,Wahhh-,Wahhh-
 SAY.chapterFlow05.838.黎芸凤,,荔荔荔荔！在呢在呢！,Lili Lili! I'm here I'm here.,Lili Lili! I'm here I'm here.
@@ -1982,7 +1982,7 @@ SAY.chapterFlow05.840.旁白1,,哇啊啊啊啊——,Wahhh-,Wahhh-
 SAY.chapterFlow05.841.旁白1,,啊啊啊啊——,Ahhh-,Ahhh-
 SAY.chapterFlow05.842.黎芸凤,,乖，不哭！,It's okay， you're okay!,It's okay， you're okay!
 SAY.chapterFlow05.843.黎芸凤,,抱着呢！妈妈抱着呢！,I got you! Mom's got you!,I got you! Mom's got you!
-SAY.chapterFlow05.844.旁白1,,呃呃呃呃——,Wahh-,Wahh-
+SAY.chapterFlow05.844.旁白1,,呃呃呃呃——,This kid loves to laugh.,This kid loves to laugh.
 SAY.chapterFlow05.845.黎芸凤,,不哭不哭。,Shh， shh.,Shh， shh.
 SAY.chapterFlow05.846.黎芸凤,,妈妈在，妈妈在。,Mom's here， mom's here.,Mom's here， mom's here.
 SAY.chapterFlow05.847.黎芸凤,,抱住你啦。,I'm holding you.,I'm holding you.
@@ -2133,7 +2133,7 @@ SAY.chapterFlow05.5740.主角,,得啦。,Got it.,Got it.
 SAY.chapterFlow05.5744.医生,,这个娃仔的病情，突然恶化了。,The kids illness has taken a turn for the worse.,The kids illness has taken a turn for the worse.
 SAY.chapterFlow05.5767.主角,,啊……,Ah....,Ah....
 SAY.chapterFlow05.5770.主角,,她也没有做什么啊。,She didn't do anything though.,She didn't do anything though.
-SAY.chapterFlow05.5771.主角,,我每天也有监督她按时吃药。,I make sure she takes her medicaiton everyday.,I make sure she takes her medicaiton everyday.
+SAY.chapterFlow05.5771.主角,,我每天也有监督她按时吃药。,I make sure she takes her medication everyday.,I make sure she takes her medication everyday.
 SAY.chapterFlow05.5772.医生,,人的身体像机器一样。,The human body is like a machine.,The human body is like a machine.
 SAY.chapterFlow05.5773.医生,,它本来就有缺陷，时间久了总会到极限的。,There's already an issue， and after sometime there's always a limit.,There's already an issue， and after sometime there's always a limit.
 SAY.chapterFlow05.5774.医生,,你保养得再好也没用。,Doesn't matter how well you maintain it.,Doesn't matter how well you maintain it.
@@ -2223,7 +2223,7 @@ SAY.chapterFlow05.5900.主角,,地主妹……,Kid...,Kid...
 SAY.chapterFlow05.5901.主角,,不怕的……,Don't be afraid...,Don't be afraid...
 SAY.chapterFlow05.5902.主角,,有阿爸在……,Dad's here...,Dad's here...
 SAY.chapterFlow05.5908.梦境学生,,叔叔。,Uncle.,Uncle.
-SAY.chapterFlow05.5913.梦境学生,,你是来拿忘忧草的吗？,Aer you here for the Wangyou Herb?,Aer you here for the Wangyou Herb?
+SAY.chapterFlow05.5913.梦境学生,,你是来拿忘忧草的吗？,Are you here for the Wangyou Herb?,Are you here for the Wangyou Herb?
 SAY.chapterFlow05.5909.主角,,嗯。,Yeah.,Yeah.
 SAY.chapterFlow05.5917.梦境学生,,我也是！,Me too!,Me too!
 SAY.chapterFlow05.5918.梦境学生,,喝了用忘忧草熬的汤，就能心想事成！,Once you drink a soup brewed from the herb， your wishes will come true!,Once you drink a soup brewed from the herb， your wishes will come true!
@@ -2339,7 +2339,7 @@ SAY.chapterFlow03.6.付毓滢,,黄乐飘他们已经去了，我们现在也去�
 SAY.chapterFlow03.7.付毓滢,,你去不去？,You coming?,You coming?
 SAY.chapterFlow03.8.女儿,,我……,I..,I..
 SAY.chapterFlow03.9.熊小龙,,你不要叫她了。,Just leave her.,Just leave her.
-SAY.chapterFlow03.10.熊小龙,,等下半路她又不舒服。,Otherwise she'll get uncomfortable on the wayw there.,Otherwise she'll get uncomfortable on the wayw there.
+SAY.chapterFlow03.10.熊小龙,,等下半路她又不舒服。,Otherwise she'll get uncomfortable on the way there.,Otherwise she'll get uncomfortable on the way there.
 SAY.chapterFlow03.11.付毓滢,,可以慢慢走过去啊。,We can get there slowly.,We can get there slowly.
 SAY.chapterFlow03.12.付毓滢,,她又不是不能走。,It's not like she can't walk.,It's not like she can't walk.
 SAY.chapterFlow03.13.熊小龙,,那去到都天黑了，还看什么？,When we get there it'll be dark， what will we look at then?,When we get there it'll be dark， what will we look at then?
@@ -2470,7 +2470,7 @@ SAY.chapterFlow03.309.女儿,,我天天都有吃药。,Everyday I eat medicine.,
 SAY.chapterFlow03.554.主角,,吃药只是让你的病不要变严重。,The medicine just stops it from getting worse.,The medicine just stops it from getting worse.
 SAY.chapterFlow03.311.主角,,你没好完全，不能乱跑乱跳。,You haven't healed completely， you can't run around.,You haven't healed completely， you can't run around.
 SAY.chapterFlow03.312.女儿,,哦……,Oh......,Oh......
-SAY.chapterFlow03.314.主角,,难受就和我讲。,If you feel sick just let me konw.,If you feel sick just let me konw.
+SAY.chapterFlow03.314.主角,,难受就和我讲。,If you feel sick just let me know.,If you feel sick just let me know.
 SAY.chapterFlow03.315.旁白1,,嗯。,Okay.,Okay.
 SAY.chapterFlow03.320.旁白1,,阿爸，做什么？,Dad， what are you doing?,Dad， what are you doing?
 SAY.chapterFlow03.321.主角,,回头看看。,Looking behind us.,Looking behind us.
@@ -2478,7 +2478,7 @@ SAY.chapterFlow03.322.旁白1,,看什么呀？,For what?,For what?
 SAY.chapterFlow03.323.主角,,看看芝麻卷有没走丢。,See if Sesame Roll got lost.,See if Sesame Roll got lost.
 SAY.chapterFlow03.324.旁白1,,不会的，它很聪明的！,No way， Sesame Roll is smart!,No way， Sesame Roll is smart!
 SAY.chapterFlow03.331.旁白1,,阿爸，怎么又回头呀？,Dad， why are you turning around again?,Dad， why are you turning around again?
-SAY.chapterFlow03.332.主角,,我总觉得有什么东西在跟着我们。,I feel lik esomething's following us.,I feel lik esomething's following us.
+SAY.chapterFlow03.332.主角,,我总觉得有什么东西在跟着我们。,I feel like something's following us.,I feel like something's following us.
 SAY.chapterFlow03.333.旁白1,,什么？,What?,What?
 SAY.chapterFlow03.334.主角,,不知道。,Don't know.,Don't know.
 SAY.chapterFlow03.555.主角,,可能是怪物吧。,Monster?,Monster?
@@ -2487,7 +2487,7 @@ SAY.chapterFlow03.337.旁白1,,它们不会来芷滨啦！,They won't come to Zh
 SAY.chapterFlow03.338.旁白1,,这么远！,It's too far!,It's too far!
 SAY.chapterFlow03.339.主角,,它们不会飞吗？,Couldn't they fly?,Couldn't they fly?
 SAY.chapterFlow03.340.旁白1,,会，但是它们在太空！,Yes， but they are in space,Yes， but they are in space
-SAY.chapterFlow03.341.旁白1,,过来要坐飞船的！,They have to come by space ship!,They have to come by space ship!
+SAY.chapterFlow03.341.旁白1,,过来要坐飞船的！,They have to come by spaceship!,They have to come by spaceship!
 SAY.chapterFlow03.347.主角,,（不要回头了，后面什么都没有。）,(Stop turning a round， there's nothing there.),(Stop turning a round， there's nothing there.)
 SAY.chapterFlow03.353.主角,,（为什么我老想回头呢？）,(Why do I keep turning around?),(Why do I keep turning around?)
 SAY.chapterFlow03.360.旁白1,,啊！是欢欢！,Ah! It's Huanhuan!,Ah! It's Huanhuan!
@@ -2668,7 +2668,7 @@ SAY.chapterFlow03.789.阿成奶奶,,……飞宝！,....Feibao!,....Feibao!
 SAY.chapterFlow03.790.阿成奶奶,,系飞宝乜！？(是飞宝吗！？),Hai Feibou mat?! (Is it Feibao?!),Hai Feibou mat?! (Is it Feibao?!)
 SAY.chapterFlow03.791.莫子成,,……对！他就是飞宝！,....Yeah! He's Feibao!,....Yeah! He's Feibao!
 SAY.chapterFlow03.792.主角,,……飞宝是谁？,...Who's Feibao?,...Who's Feibao?
-SAY.chapterFlow03.793.莫子成,,别管了，你就说你是。,Doesn't jatter just say it's you.,Doesn't jatter just say it's you.
+SAY.chapterFlow03.793.莫子成,,别管了，你就说你是。,Doesn't matter just say it's you.,Doesn't matter just say it's you.
 SAY.chapterFlow03.794.阿成奶奶,,真系飞宝啊？（真的是飞宝啊？）,Zan hai Feibou aa? (Is it really you Feibao?),Zan hai Feibou aa? (Is it really you Feibao?)
 SAY.chapterFlow03.795.主角,,……系哦，涯系飞宝哦。（是，我是飞宝。）,...Hai ngo， Ngaa hai Feibou ngo. (Yeah， I'm Feibao.),...Hai ngo， Ngaa hai Feibou ngo. (Yeah， I'm Feibao.)
 SAY.chapterFlow03.796.阿成奶奶,,飞宝哦！咹久至翻来啊？（这么久才回来？）,Feibou ngo! Hon gau zi faan loi aa? (Feibao! Why'd it take you so long?),Feibou ngo! Hon gau zi faan loi aa? (Feibao! Why'd it take you so long?)
@@ -2785,7 +2785,7 @@ SAY.chapterFlow03.5291.韦家乐,,必须支持她！,I have to support her!,I ha
 SAY.chapterFlow03.5292.主角,,……啥战线？,...what battle?,...what battle?
 SAY.chapterFlow03.5293.韦家乐,,她是木工，我是乐师。,She's a woodworker， I'm a musician.,She's a woodworker， I'm a musician.
 SAY.chapterFlow03.5295.韦家乐,,我们都是继承传统技艺的人。,We're all carrying on traditional arts.,We're all carrying on traditional arts.
-SAY.chapterFlow03.5296.韦家乐,,都肩负着弘扬传统文化的光荣使命。,We all carry the responsibilty to pass down tradition!,We all carry the responsibilty to pass down tradition!
+SAY.chapterFlow03.5296.韦家乐,,都肩负着弘扬传统文化的光荣使命。,We all carry the responsibility to pass down tradition!,We all carry the responsibility to pass down tradition!
 SAY.chapterFlow03.5298.韦家乐,,没说错吧？,Ain't that right?,Ain't that right?
 SAY.chapterFlow03.5300.主角,,没错没错。,Yep， you're right.,Yep， you're right.
 SAY.chapterFlow03.5301.韦家乐,,哈哈哈哈。,Hahahaha.,Hahahaha.
@@ -2866,7 +2866,7 @@ SAY.chapterFlow03.5391.主角,,他们愿意听咯？,They listen to you?,They li
 SAY.chapterFlow03.5392.主角,,不是不信你们？,Didn't they not trust you?,Didn't they not trust you?
 SAY.chapterFlow03.5674.吴明,,是的，之前是不理解。,No， int he past they just didn't understand.,No， int he past they just didn't understand.
 SAY.chapterFlow03.5675.吴明,,说农技站就是群骗子，说我们搞、搞鬼搞怪。,They said our agriculture technology station is full of frauds， and making stuff up.,They said our agriculture technology station is full of frauds， and making stuff up.
-SAY.chapterFlow03.5676.主角,,那现在想通了？,You got through to th em?,You got through to th em?
+SAY.chapterFlow03.5676.主角,,那现在想通了？,You got through to them?,You got through to them?
 SAY.chapterFlow03.5677.吴明,,他们看到试验田的收成不错，好像没那么多顾虑了。,They saw our testing fields did well， so they weren't so afraid anymore.,They saw our testing fields did well， so they weren't so afraid anymore.
 SAY.chapterFlow03.5678.主角,,还有试验田这么牛鬼？,Testing fields?,Testing fields?
 SAY.chapterFlow03.5679.吴明,,表姐给我出的主意。,Yeah， Ah Feng gave me that idea.,Yeah， Ah Feng gave me that idea.
@@ -2933,7 +2933,7 @@ SAY.chapterFlow03.5830.陈老师,,女的能参加游龙吗？,Can women join?,Ca
 SAY.chapterFlow03.5831.主角,,能啊。,Yeah.,Yeah.
 SAY.chapterFlow03.5832.陈老师,,那算我一个呗！,Then count me in!,Then count me in!
 SAY.chapterFlow03.5833.主角,,……你？,...You?,...You?
-SAY.chapterFlow03.5834.陈老师,,我运动是不怎样。,I'm not an athelete.,I'm not an athelete.
+SAY.chapterFlow03.5834.陈老师,,我运动是不怎样。,I'm not an athlete.,I'm not an athlete.
 SAY.chapterFlow03.5835.陈老师,,不过，只是充数的话，应该没问题吧？,But if you just people that'll be fine right?,But if you just people that'll be fine right?
 SAY.chapterFlow03.5836.主角,,哈哈，没问题。,Haha， yeah， no problem.,Haha， yeah， no problem.
 SAY.chapterFlow03.5837.主角,,那谢谢你了，陈老师。,Thank you， Teacher Chen.,Thank you， Teacher Chen.
@@ -2967,7 +2967,7 @@ SAY.chapterFlow03.5906.主角,,哈哈哈哈。,Hahahaha.,Hahahaha.
 SAY.chapterFlow03.5907.冬夕,,啊？荔荔？,Ah? Lili?,Ah? Lili?
 SAY.chapterFlow03.5908.女儿,,……鸭子叔叔。,...Uncle Ducky.,...Uncle Ducky.
 SAY.chapterFlow03.5909.冬夕,,为什么是鸭子叔叔？,Why is it Uncle Ducky?,Why is it Uncle Ducky?
-SAY.chapterFlow03.5910.女儿,,因为你的声音像鸭子。,Because you sound llike a duck.,Because you sound llike a duck.
+SAY.chapterFlow03.5910.女儿,,因为你的声音像鸭子。,Because you sound like a duck.,Because you sound like a duck.
 SAY.chapterFlow03.5911.女儿,,镇上的小孩都这样叫。,All the kids call you that.,All the kids call you that.
 SAY.chapterFlow03.5912.主角,,哈哈哈哈。,Hahahaha.,Hahahaha.
 SAY.chapterFlow03.5913.主角,,你不懂得咯？,You don't get it?,You don't get it?
@@ -3011,7 +3011,7 @@ SAY.chapterFlow03.6003.主角,,到时划起来就特别快。,So they move extra
 SAY.chapterFlow03.6004.主角,,第二个是对人好。,Second， it's good for the person.,Second， it's good for the person.
 SAY.chapterFlow03.6005.主角,,谁给龙点睛，谁就是龙睁眼看到的第一个人。,The person who draws the eyes is the first person the Dragon sees.,The person who draws the eyes is the first person the Dragon sees.
 SAY.chapterFlow03.6006.主角,,龙会保佑他顺风顺水，有福气。,The Dragon will bless with with good fortune.,The Dragon will bless with with good fortune.
-SAY.chapterFlow03.6009.主角,,其实你妈妈以前就想让你来点睛了。,You mom wnated you to dot the eyes a long time ago.,You mom wnated you to dot the eyes a long time ago.
+SAY.chapterFlow03.6009.主角,,其实你妈妈以前就想让你来点睛了。,You mom wanted you to dot the eyes a long time ago.,You mom wanted you to dot the eyes a long time ago.
 SAY.chapterFlow03.6010.主角,,她希望你能平安健康，事事顺利。,She wants you to be healthy and successful.,She wants you to be healthy and successful.
 SAY.chapterFlow03.6011.主角,,不过那时候没有龙舟，龙头不下水不能点睛。,But we didn't have a Boat then， we can't dot the eyes if the Dragon Head isn't going to water.,But we didn't have a Boat then， we can't dot the eyes if the Dragon Head isn't going to water.
 SAY.chapterFlow03.6012.主角,,画了好像也没有意义。,So it didn't make sense to draw it then.,So it didn't make sense to draw it then.
@@ -3105,7 +3105,7 @@ SAY.chapterFlow03.6211.主角,,我老头老娘回来之前，我会一直留在�
 SAY.chapterFlow03.6212.葛喜,,那这段时间都是你自己带娃仔？,So you're taking care of the kid yourself these days?,So you're taking care of the kid yourself these days?
 SAY.chapterFlow03.6213.主角,,对啊。,Yeah.,Yeah.
 SAY.chapterFlow03.6214.葛喜,,着力咩？,Hard work?,Hard work?
-SAY.chapterFlow03.6215.主角,,现在好点了。,Better no w.,Better no w.
+SAY.chapterFlow03.6215.主角,,现在好点了。,Better now.,Better now.
 SAY.chapterFlow03.6216.主角,,刚开始没有一点办法。,At first it was a bit challenging.,At first it was a bit challenging.
 SAY.chapterFlow03.6217.主角,,只能骂，骂完又顶嘴，又接着骂。,Scold her， she talks back， scold her again.,Scold her， she talks back， scold her again.
 SAY.chapterFlow03.6218.葛喜,,荔荔有这么淘气咯？,Lili is that naughty?,Lili is that naughty?
@@ -3135,7 +3135,7 @@ SAY.chapterFlow03.6241.葛喜,,我病了会催我去医院。,Tells me to go to 
 SAY.chapterFlow03.6242.葛喜,,会骂我，不让我喝酒。,He'll also scold me， tell me I can't drink.,He'll also scold me， tell me I can't drink.
 SAY.chapterFlow03.6243.葛喜,,他还在读初中哦，已经知道照顾人了。,He's still in middle school， and already knows how to take care of people.,He's still in middle school， and already knows how to take care of people.
 SAY.chapterFlow03.6244.葛喜,,因为他知道这个家只有我和他。,Because he knows it's just me and him.,Because he knows it's just me and him.
-SAY.chapterFlow03.6245.葛喜,,知道我是他最亲的人。,He knows I'm his familyi.,He knows I'm his familyi.
+SAY.chapterFlow03.6245.葛喜,,知道我是他最亲的人。,He knows I'm his family.,He knows I'm his family.
 SAY.chapterFlow03.6246.葛喜,,我对他怎么样，他也对我怎么样。,How I treat him， is how he treats me.,How I treat him， is how he treats me.
 SAY.chapterFlow03.6247.葛喜,,荔荔也一样。,Just like Lili.,Just like Lili.
 SAY.chapterFlow03.6248.葛喜,,只要你尽到你的责任，早晚她会理解你的。,If you do your job， she'll understand.,If you do your job， she'll understand.
@@ -3169,7 +3169,7 @@ SAY.chapterFlow03.6328.红萍,,我最近在研究烧肉。,I'm researching BBQ t
 SAY.chapterFlow03.6329.红萍,,到时祭龙我带点过去，拜完神大家一起尝尝。,During the ceremony I'll bring some over and we can try some afterwards.,During the ceremony I'll bring some over and we can try some afterwards.
 SAY.chapterFlow03.6330.红萍,,你们不用给钱我，提点建议让我改进就好了。,It's free， just give me some feedback.,It's free， just give me some feedback.
 SAY.chapterFlow03.6332.红萍,,煮饭这种东西，你多煮几次就熟练了。,You just have to cook often to get better at it.,You just have to cook often to get better at it.
-SAY.chapterFlow03.6333.红萍,,我得空给你几个菜谱，你照着煮给荔荔吃吧。,When I'm free I'll give you somer reciepes. You can use it to cook for Lili.,When I'm free I'll give you somer reciepes. You can use it to cook for Lili.
+SAY.chapterFlow03.6333.红萍,,我得空给你几个菜谱，你照着煮给荔荔吃吧。,When I'm free I'll give you somer recipes. You can use it to cook for Lili.,When I'm free I'll give you somer recipes. You can use it to cook for Lili.
 SAY.chapterFlow03.6334.红萍,,如果还是不喜欢，那再换几个试试。,If she still doesn't like it， you can change a different one.,If she still doesn't like it， you can change a different one.
 SAY.chapterFlow03.6383.莫子成,,你还不赶紧去找人？,Why are you still here? You're not looking for them?,Why are you still here? You're not looking for them?
 SAY.chapterFlow03.6384.莫子成,,等下我奶不让你走你就麻烦了。,Once my Grandma doesn't let you go you'll be in trouble.,Once my Grandma doesn't let you go you'll be in trouble.
@@ -3215,10 +3215,10 @@ SAY.chapterFlow03.6480.葛喜,,你家荔荔又还这么小，自己克服不了�
 SAY.chapterFlow03.6481.葛喜,,你肯定要多花点时间，急是没有用的。,You have to spend more time with her， rushing won't help.,You have to spend more time with her， rushing won't help.
 SAY.chapterFlow03.6490.葛喜,,我们是第一年，其他镇可不是。,This is our first year， but not other towns'.,This is our first year， but not other towns'.
 SAY.chapterFlow03.6491.葛喜,,有些龙舟氛围重的镇，那帮人求胜心很强的。,Some towns are really into the Dragon Boats and they really are competitive.,Some towns are really into the Dragon Boats and they really are competitive.
-SAY.chapterFlow03.6492.葛喜,,上船的都练过很多年。,The ones on their boats have been training for yars.,The ones on their boats have been training for yars.
+SAY.chapterFlow03.6492.葛喜,,上船的都练过很多年。,When I'm free I'll give you some recipes. You can use it to cook for Lili.,When I'm free I'll give you some recipes. You can use it to cook for Lili.
 SAY.chapterFlow03.6501.葛喜,,想跟他们比，不容易。,It'll be hard to compete with them.,It'll be hard to compete with them.
 SAY.chapterFlow03.6494.葛喜,,龙舟是团体项目，只有几个人厉害没有用。,The Dragon Boat is a team sport， only a few good people won't be enough.,The Dragon Boat is a team sport， only a few good people won't be enough.
-SAY.chapterFlow03.6495.葛喜,,关键还是要通力合作，配合好点。,The key is tteam work.,The key is tteam work.
+SAY.chapterFlow03.6495.葛喜,,关键还是要通力合作，配合好点。,The key is teamwork.,The key is teamwork.
 SAY.chapterFlow03.6498.葛喜,,划龙舟基本上就是五个动作。,There's five basic movements to rowing. ,There's five basic movements to rowing. 
 SAY.chapterFlow03.6499.葛喜,,坐姿、举桨、入水；,Your seating position， raising the oar， putting the oar in water;,Your seating position， raising the oar， putting the oar in water;
 SAY.chapterFlow03.6500.葛喜,,拉水、回桨。,Rowing， then pulling the oar up.,Rowing， then pulling the oar up.
@@ -3339,7 +3339,7 @@ SAY.gouge.124.狗哥,,偷自行车，偷狗，甚至拦货车问司机要烟。,
 SAY.gouge.125.狗哥,,幸好公安加大了力度，及时打击整治。,Luckily security really stepped up in time to stop it.,Luckily security really stepped up in time to stop it.
 SAY.gouge.126.狗哥,,近来情况好了不少。,It looks like things have gotten better now.,It looks like things have gotten better now.
 SAY.yuntun.95.云吞老板,,云吞专家，就是我家。,Wonton Expert， that's my shop.,Wonton Expert， that's my shop.
-SAY.yuntun.101.云吞老板,,吃完绝对想再来吃。,After you eat it you'll defintiely come back.,After you eat it you'll defintiely come back.
+SAY.yuntun.101.云吞老板,,吃完绝对想再来吃。,After you eat it you'll definitely come back.,After you eat it you'll definitely come back.
 SAY.yuntun.102.云吞老板,,和我讲你吃什么。,Tell me what you want.,Tell me what you want.
 SAY.yuntun.103.云吞老板,,坐下来等就得啦。,Just sit and wait.,Just sit and wait.
 SAY.yuntun.104.云吞老板,,买几斤生云吞放冰箱。,Buy a few kilos and put it in the freezer.,Buy a few kilos and put it in the freezer.
@@ -3402,7 +3402,7 @@ SAY.yujiyun.179.捕虫少女郁季云,,抓到的虫子，我养两天就会放�
 SAY.yujiyun.180.捕虫少女郁季云,,我觉得把它们做成标本太残忍了。,I think making them into specimens is too cruel.,I think making them into specimens is too cruel.
 SAY.yujiyun.181.捕虫少女郁季云,,我在芷滨见过好多虫。,I saw so many bugs in Zhibin.,I saw so many bugs in Zhibin.
 SAY.yujiyun.182.捕虫少女郁季云,,草蜢、螳螂、土狗还有各种颜色的甲虫。,Grasshoppers， mantis， crickets， and all sorts of beetles.,Grasshoppers， mantis， crickets， and all sorts of beetles.
-SAY.yujiyun.183.捕虫少女郁季云,,但是我很讨厌大蟑螂！,But I really hate big cockraches.,But I really hate big cockraches.
+SAY.yujiyun.183.捕虫少女郁季云,,但是我很讨厌大蟑螂！,But I really hate big cockroaches.,But I really hate big cockroaches.
 SAY.yujiyun.184.捕虫少女郁季云,,就是你们讲的骚甲！,The ones you call Saojia!,The ones you call Saojia!
 SAY.hongping.1.红萍,,南哥，我决定了，我要自己做烧猪。,Bro' Nan. I decided， I'm gonna make a roast pig.,Bro' Nan. I decided， I'm gonna make a roast pig.
 SAY.hongping.28.主角,,你之前不就有吗？,Didn't you make it before?,Didn't you make it before?
@@ -3493,20 +3493,20 @@ SAY.lufuren.43.老陆,,把垫片插到电池盒里面才能用。,It attaches on
 SAY.lufuren.44.老陆,,年底我搞台电脑过来。,I'm going to get a computer at the end of the year.,I'm going to get a computer at the end of the year.
 SAY.lufuren.45.老陆,,电脑的游戏也蛮爽的。,The computer games are pretty good too.,The computer games are pretty good too.
 SAY.lufuren.47.老陆,,看过《三国演义》咩？,Have you seen “Romance of the Three Kingdoms”?,Have you seen “Romance of the Three Kingdoms”?
-SAY.lufuren.48.老陆,,过几天我进货回来一个新的三国游戏。,I'm i'mporting a new Three Kingdoms game.,I'm i'mporting a new Three Kingdoms game.
+SAY.lufuren.48.老陆,,过几天我进货回来一个新的三国游戏。,I'm importing a new Three Kingdoms game.,I'm importing a new Three Kingdoms game.
 SAY.lufuren.70.老陆,,可以让不同势力的武将帮同一个老板打工。,You can get various generals from all factions to work for you.,You can get various generals from all factions to work for you.
 SAY.lufuren.50.老陆,,来店里面玩的话，最近降价了。,If you want to play here I lowered the prices.,If you want to play here I lowered the prices.
 SAY.lufuren.51.老陆,,黄卡一小时2块钱，黑卡一小时3块钱。,2 dollars an hour for the yellow catridges， 3 for the black ones.,2 dollars an hour for the yellow catridges， 3 for the black ones.
 SAY.lufuren.53.老陆,,整个芷滨镇的小娃仔，来打游戏的就这两个。,In all of Zhibin only these two kids come play.,In all of Zhibin only these two kids come play.
 SAY.lufuren.54.老陆,,他们家长算是管得比较宽松了。,Their parents aren't as strict.,Their parents aren't as strict.
 SAY.lufuren.56.老陆,,以前我家会上山采药，再拿回来研磨、炮制。,When I was young I used to go forage for herbs to grind and mix.,When I was young I used to go forage for herbs to grind and mix.
-SAY.lufuren.57.老陆,,后来不干了，就留下了这个研钵。,I sill have this mortar and pestle even though I don't do it anymore.,I sill have this mortar and pestle even though I don't do it anymore.
+SAY.lufuren.57.老陆,,后来不干了，就留下了这个研钵。,I still have this mortar and pestle even though I don't do it anymore.,I still have this mortar and pestle even though I don't do it anymore.
 SAY.lufuren.71.老陆,,摆在这里，看起来像个迫击炮。,I put it here because it looks like a cannon.,I put it here because it looks like a cannon.
 SAY.lufuren.59.老陆,,想买个录像机，音影店那个仔又不肯便宜点。,I wanted to buy a camcorder， but the aren't willing to haggle the price.,I wanted to buy a camcorder， but the aren't willing to haggle the price.
 SAY.lufuren.60.老陆,,干脆过段时间托人带台水货算了。,Figured I might as well wait then ask someone to bring me cheap one.,Figured I might as well wait then ask someone to bring me cheap one.
-SAY.lufuren.62.老陆,,现在流行的游戏主机，就是黄卡的和黑卡的。,The popular games now are the yellow and black catridges.,The popular games now are the yellow and black catridges.
+SAY.lufuren.62.老陆,,现在流行的游戏主机，就是黄卡的和黑卡的。,The popular games now are the yellow and black cartridges.,The popular games now are the yellow and black cartridges.
 SAY.lufuren.63.老陆,,掌机也偏贵了，卖的店少点。,The handhelds are a bit expensive， fewer stores sell them.,The handhelds are a bit expensive， fewer stores sell them.
-SAY.lufuren.72.老陆,,但其实这些都已经属于上个世代的产品了。,But these are acutally the previous generation of games.,But these are acutally the previous generation of games.
+SAY.lufuren.72.老陆,,但其实这些都已经属于上个世代的产品了。,But these are actually the previous generation of games.,But these are actually the previous generation of games.
 SAY.lufuren.73.老陆,,新一代的那两台，国内没有普及起来。,The new generation hasn't started to get popular here yet.,The new generation hasn't started to get popular here yet.
 SAY.lufuren.74.老陆,,下一代马上又要出了。,And the next generation is coming too.,And the next generation is coming too.
 SAY.lufuren.75.老陆,,游戏产业发展真快啊。,The game industry is developing fast.,The game industry is developing fast.
@@ -3563,7 +3563,7 @@ SAY.gexi.93.葛喜,,好像我的命，有一半在这个娃仔身上。,Like my 
 SAY.gexi.94.葛喜,,就算我现在死了，也不是一无所有了。,Even if I die now， it's not like I have nothing.,Even if I die now， it's not like I have nothing.
 SAY.gexi.95.葛喜,,天天在想生死的问题，总想找到答案。,Thinking about death everyday， I finally found my answer.,Thinking about death everyday， I finally found my answer.
 SAY.gexi.96.葛喜,,我才决定做这一行。,That's why I do what I do.,That's why I do what I do.
-SAY.gexi.97.葛喜,,丧葬仪式是对逝者一次郑重的告别。,A funeral is a last respectful farewell to the ones that leavel.,A funeral is a last respectful farewell to the ones that leavel.
+SAY.gexi.97.葛喜,,丧葬仪式是对逝者一次郑重的告别。,A funeral is a last respectful farewell to the ones that leave.,A funeral is a last respectful farewell to the ones that leave.
 SAY.gexi.98.葛喜,,反过来，喜事是对活着的人的祝贺。,On the otherside， it's well wishing for the remaining ones.,On the otherside， it's well wishing for the remaining ones.
 SAY.gexi.99.葛喜,,祝贺会有很多回，告别只有一次。,There will be lots of well wishing， but only one farewell.,There will be lots of well wishing， but only one farewell.
 SAY.gexi.100.葛喜,,所以活比死复杂很多。,So living is more complicated than dying.,So living is more complicated than dying.
@@ -4050,7 +4050,7 @@ SAY.chapterFlow01.4627.主角,,那当然，哪有这么容易发财？,Of course
 SAY.chapterFlow01.3853.母亲,,你还不走？,Why are you still here?,Why are you still here?
 SAY.chapterFlow01.3931.母亲,,去晚了娃仔不着急嘛！,Won't the kid get worried if you're late?,Won't the kid get worried if you're late?
 SAY.chapterFlow01.3688.主角,,嗯。,Yeah.,Yeah.
-SAY.chapterFlow01.3696.母亲,,我打算今晚煎条鱼。,I'm gonna panfry some fish tonight.,I'm gonna panfry some fish tonight.
+SAY.chapterFlow01.3696.母亲,,我打算今晚煎条鱼。,I'm gonna pan fry some fish tonight.,I'm gonna pan fry some fish tonight.
 SAY.chapterFlow01.3730.母亲,,还要蒸肉饼吗？,You want steamed meat buns?,You want steamed meat buns?
 SAY.chapterFlow01.3733.母亲,,店里这罐煤气用完了。,There's no more gas in the tank in the store.,There's no more gas in the tank in the store.
 SAY.chapterFlow01.3735.母亲,,明天要叫人来换新的。,I'll get someone to bring a new one tomorrow.,I'll get someone to bring a new one tomorrow.
@@ -4230,7 +4230,7 @@ SAY.chapterFlow01.5144.UI旁白1,,你了不起。,You're amazing.,You're amazing
 SAY.chapterFlow01.5145.UI旁白2,,哎呀，那时候没过塑，磨损得厉害。,Ah， this is an old photo that hasn't gone through plasticization， so it's pretty damaged.,Ah， this is an old photo that hasn't gone through plasticization， so it's pretty damaged.
 SAY.chapterFlow01.5146.UI旁白1,,哪个是你？,Which one is you?,Which one is you?
 SAY.chapterFlow01.5147.UI旁白2,,你看不出来咯！？,You can't tell?!,You can't tell?!
-SAY.chapterFlow01.5148.UI旁白1,,眯眼睛那个？,The one with the sqinting eyes?,The one with the sqinting eyes?
+SAY.chapterFlow01.5148.UI旁白1,,眯眼睛那个？,The one with the squinting eyes?,The one with the squinting eyes?
 SAY.chapterFlow01.5149.UI旁白2,,对啦！,Yeah!,Yeah!
 SAY.chapterFlow01.5155.UI旁白1,,猪肉一斤，切丝……,One kilo of pork， cut into strips.,One kilo of pork， cut into strips.
 SAY.chapterFlow01.5169.UI旁白1,,盐，酱油，生粉，抓打均匀……,Salt， soy sauce， potato starch， mix it up...,Salt， soy sauce， potato starch， mix it up...
@@ -4589,7 +4589,7 @@ SAY.chapterFlow02.5448.林雨山,,我跟她提过你，她愿意见个面。,I m
 SAY.chapterFlow02.5449.林雨山,,就看你想不想……,Up to you if...,Up to you if...
 SAY.chapterFlow02.5450.主角,,不想。,Nope.,Nope.
 SAY.chapterFlow02.5451.林雨山,,哎呀，既然大家……,Ah， but everyone...,Ah， but everyone...
-SAY.chapterFlow02.5452.主角,,莫讲了。,End of disucssion.,End of disucssion.
+SAY.chapterFlow02.5452.主角,,莫讲了。,End of discussion.,End of discussion.
 SAY.chapterFlow02.5453.主角,,开车就开车，其他事情不用喊我。,I only drive， don't call me for anything else.,I only drive， don't call me for anything else.
 SAY.chapterFlow02.5454.林雨山,,好好好。,Okay okay.,Okay okay.
 SAY.chapterFlow02.5455.林雨山,,那就算了。,Forget it then.,Forget it then.
@@ -4609,7 +4609,7 @@ SAY.chapterFlow02.5471.宁叔,,又说你和我一样属虎，我比你大二十�
 SAY.chapterFlow02.5472.主角,,哦，我想起来了！,Oh， I remember!,Oh， I remember!
 SAY.chapterFlow02.5473.主角,,你差点拿了我的运单去卷烟！,You almost took my delivery slip to roll a smoke!,You almost took my delivery slip to roll a smoke!
 SAY.chapterFlow02.5474.宁叔,,对啦对啦！就是我！,Yeah yeah! That's me!,Yeah yeah! That's me!
-SAY.chapterFlow02.5475.宁叔,,给你路费也不要，给你红薯芋头也不要。,Tried to pay you， you didn't want it. Wanted to give you some potatoes or taro you didnt' want it.,Tried to pay you， you didn't want it. Wanted to give you some potatoes or taro you didnt' want it.
+SAY.chapterFlow02.5475.宁叔,,给你路费也不要，给你红薯芋头也不要。,Tried to pay you， you didn't want it. Wanted to give you some potatoes or taro you didn't' want it.,Tried to pay you， you didn't want it. Wanted to give you some potatoes or taro you didn't' want it.
 SAY.chapterFlow02.5476.宁叔,,我真是过意不去。,I really felt bad.,I really felt bad.
 SAY.chapterFlow02.5477.主角,,不要紧的，举手之劳。,It was nothing.,It was nothing.
 SAY.chapterFlow02.5478.宁叔,,话不是这样讲哦！,Can't say it like that!,Can't say it like that!
@@ -4619,11 +4619,11 @@ SAY.chapterFlow02.5481.宁叔,,后来不知道从哪天起，大家就没见过�
 SAY.chapterFlow02.5482.宁叔,,但是我记着你的名字。覃牧南。,But I remember your name， Qin Munan.,But I remember your name， Qin Munan.
 SAY.chapterFlow02.5483.主角,,我买了车跑货运，不在矿区上班了。,I bought a truck to do deliveries， I don't drive for the mine anymore.,I bought a truck to do deliveries， I don't drive for the mine anymore.
 SAY.chapterFlow02.5484.主角,,那条路也很少走了。,I don't really come out this way either.,I don't really come out this way either.
-SAY.chapterFlow02.5485.宁叔,,今天我来镇上找司机。,I cam looking for a driver today.,I cam looking for a driver today.
+SAY.chapterFlow02.5485.宁叔,,今天我来镇上找司机。,I came looking for a driver today.,I came looking for a driver today.
 SAY.chapterFlow02.5486.宁叔,,供销社那些人说，木材厂的那个什么叶老板。,They told me that there was that Boss Ye from the lumberyard.,They told me that there was that Boss Ye from the lumberyard.
 SAY.chapterFlow02.5487.宁叔,,有个熟人叫覃牧南，他的车子才够大。,Knows someone named Qin Munan， he's got a big enough truck.,Knows someone named Qin Munan， he's got a big enough truck.
 SAY.chapterFlow02.5488.宁叔,,我还在想会不会是听错，或者有人同名同姓。,I was just thinking， did I hear wrong? Or does someone just have the same name.,I was just thinking， did I hear wrong? Or does someone just have the same name.
-SAY.chapterFlow02.5489.宁叔,,结果真是你！够巧了！,And it is you! What a conincidence!,And it is you! What a conincidence!
+SAY.chapterFlow02.5489.宁叔,,结果真是你！够巧了！,And it is you! What a coincidence!,And it is you! What a coincidence!
 SAY.chapterFlow02.5490.主角,,哈哈，是挺巧的。,Haha， yeah what a coincidence indeed!,Haha， yeah what a coincidence indeed!
 SAY.chapterFlow02.5491.主角,,你要拉什么？,What do you need delivered?,What do you need delivered?
 SAY.chapterFlow02.5492.宁叔,,我们村的农机，要送去县城维修点。,Ah， this machine from our village farm， gotta take it in for repairs and maintenence.,Ah， this machine from our village farm， gotta take it in for repairs and maintenence.
@@ -4632,7 +4632,7 @@ SAY.chapterFlow02.5494.主角,,可以，我帮你们拉。,Sure， I'll deliver 
 SAY.chapterFlow02.5495.宁叔,,那太好了！有你在我就安心了！,Great! I can relax with you doing it.,Great! I can relax with you doing it.
 SAY.chapterFlow02.5496.宁叔,,到时候来我家吃饭！,Come over for a meal sometime!,Come over for a meal sometime!
 SAY.chapterFlow02.5497.宁叔,,我家房子重新盖过了，有两层！,We rebuit our place， it's got two stories now!,We rebuit our place， it's got two stories now!
-SAY.chapterFlow02.5498.宁叔,,火砖的！不是泥砖了！,Firebricks! Not mudbricks!,Firebricks! Not mudbricks!
+SAY.chapterFlow02.5498.宁叔,,火砖的！不是泥砖了！,Firebricks! Not mud bricks!,Firebricks! Not mud bricks!
 SAY.chapterFlow02.5499.主角,,哈哈哈。,Hahaha.,Hahaha.
 SAY.chapterFlow02.5500.主角,,没问题，我一定去。,Sure， I'll definitely go.,Sure， I'll definitely go.
 SAY.chapterFlow02.5503.UI旁白1,,糖厂要请临时工司机。,The sugar factory needs a driver too.,The sugar factory needs a driver too.
@@ -4653,7 +4653,7 @@ SAY.chapterFlow02.5526.主角,,我以为你们蛮景气呢。,I thought you all 
 SAY.chapterFlow02.5527.糖厂司机,,早就不行了。,We've been struggling.,We've been struggling.
 SAY.chapterFlow02.5528.糖厂司机,,你车况怎么样？,How's your car?,How's your car?
 SAY.chapterFlow02.5529.主角,,还可以啊。,Not bad.,Not bad.
-SAY.chapterFlow02.5530.主角,,月初才做过二级维护。,Just did a second level maintenence start of the month.,Just did a second level maintenence start of the month.
+SAY.chapterFlow02.5530.主角,,月初才做过二级维护。,Just did a second level maintenance start of the month.,Just did a second level maintenance start of the month.
 SAY.chapterFlow02.5531.糖厂司机,,那等下跟我们跑一趟。,Come with us in a bit.,Come with us in a bit.
 SAY.chapterFlow02.5532.糖厂司机,,拉些糖到枣坪那边的一个中转仓库。,Bring some sugar over to a transit warehouse in Zaoping.,Bring some sugar over to a transit warehouse in Zaoping.
 SAY.chapterFlow02.5533.主角,,枣坪？打算走哪条路？,Zaoping? Which way you plan on going?,Zaoping? Which way you plan on going?
@@ -4792,7 +4792,7 @@ SAY.chapterFlow02.5757.主角,,你们就是把她宠坏了。,You're spoiling he
 SAY.chapterFlow02.5758.主角,,现在一点都不听话。,Now she won't listen.,Now she won't listen.
 SAY.chapterFlow02.5759.旁白1,,娃仔是这样的啦，总有淘气的时候。,Kids are like that， they'll misbehave occasionally.,Kids are like that， they'll misbehave occasionally.
 SAY.chapterFlow02.5760.旁白1,,你以为你小时候好带？,You thought you were easy to raise?,You thought you were easy to raise?
-SAY.chapterFlow02.5761.主角,,讲得好比你带过一样。,You talk like you know what its like.,You talk like you know what its like.
+SAY.chapterFlow02.5761.主角,,讲得好比你带过一样。,You talk like you know what it's like.,You talk like you know what it's like.
 SAY.chapterFlow02.5762.主角,,以前不都是我妈和大姐带的我。,Mom and Big sis were the ones who took care of me.,Mom and Big sis were the ones who took care of me.
 SAY.chapterFlow02.5763.旁白1,,骑自行车哪个教你的？,Who taught you how to ride a bike?,Who taught you how to ride a bike?
 SAY.chapterFlow02.5764.旁白1,,游泳划船哪个教你的？,Swimming? Rowing? What about those?,Swimming? Rowing? What about those?
@@ -4986,7 +4986,7 @@ SAY.chapterFlow02.6163.主角,,你也一起来摆摊啊？,You're here at the st
 SAY.chapterFlow02.6164.红萍外婆,,来啊。,Yeah.,Yeah.
 SAY.chapterFlow02.6165.红萍外婆,,在家没有事做。,Nothing to do at home.,Nothing to do at home.
 SAY.chapterFlow02.6166.红萍外婆,,扫地拔草种菜，一早晨都做完了。,Swept the floors， pulled weeds， took care of my plants， did it all this morning.,Swept the floors， pulled weeds， took care of my plants， did it all this morning.
-SAY.chapterFlow02.6167.红萍,,她是怕我太辛苦，硬要跟来帮忙。,She was afraid it's too much work forr me so insisted on co ming.,She was afraid it's too much work forr me so insisted on co ming.
+SAY.chapterFlow02.6167.红萍,,她是怕我太辛苦，硬要跟来帮忙。,She was afraid it's too much work for me so insisted on coming.,She was afraid it's too much work for me so insisted on coming.
 SAY.chapterFlow02.6168.主角,,你还是半夜就要起来？,You still get up in the middle of the night?,You still get up in the middle of the night?
 SAY.chapterFlow02.6169.红萍,,嗯，不然哪做得及？,Yeah， otherwise I don't have enough time.,Yeah， otherwise I don't have enough time.
 SAY.chapterFlow02.6170.红萍,,烧腊的工序就是必须要这么长时间。,The work for BBQ takes that long.,The work for BBQ takes that long.
@@ -5103,7 +5103,7 @@ SAY.chapterFlow02.6420.葛喜,,骂家里长辈无情无义。,They say their fam
 SAY.chapterFlow02.6421.葛喜,,加上各种复杂的讲究，后面麻烦多着呢。,Plus all these other traditions， it's going to be very complicated. ,Plus all these other traditions， it's going to be very complicated. 
 SAY.chapterFlow02.6422.葛喜,,我是觉得嘛，一些传统的东西可以尊重。,I feel like some traditions can be respected.,I feel like some traditions can be respected.
 SAY.chapterFlow02.6423.葛喜,,但是死亡这件事本身，没有什么好忌讳的。,But death? There's no need to be overly superstitious.,But death? There's no need to be overly superstitious.
-SAY.chapterFlow02.6424.葛喜,,不要搞个白事搞得活人也跟着受罪。,Don’t let the funeral make the living suffer as well.,Don’t let the funeral make the living suffer as well.
+SAY.chapterFlow02.6424.葛喜,,不要搞个白事搞得活人也跟着受罪。,Don't let the funeral make the living suffer as well.,Don't let the funeral make the living suffer as well.
 SAY.chapterFlow02.6425.葛喜,,生与死每天看得多了，心也静了。,Seeing life and death every day， my heart has grown calm,Seeing life and death every day， my heart has grown calm
 SAY.chapterFlow02.6426.葛喜,,生就搞得开心点，死就走得体面点。,Be happy when you're living， and be more composed when you leave.,Be happy when you're living， and be more composed when you leave.
 SAY.chapterFlow02.6427.葛喜,,该哭的哭，该笑的笑。,Cry when you should， laugh when you should.,Cry when you should， laugh when you should.
@@ -5208,7 +5208,7 @@ SAY.youtiaoqiang.124.油条强,,炸好了，哪家订了的，还要骑单车送
 SAY.youtiaoqiang.125.油条强,,送货回来还要上街卖掉剩下的。,Then， when I got back I had to go sell what I had left over.,Then， when I got back I had to go sell what I had left over.
 SAY.youtiaoqiang.126.油条强,,就靠着这一样东西养活我一家的人。,I fed my family with just that.,I fed my family with just that.
 SAY.youtiaoqiang.127.油条强,,有店面了，就可以自己磨豆浆卖啦。,After I got a store， I started to make my own soymilk.,After I got a store， I started to make my own soymilk.
-SAY.youtiaoqiang.128.油条强,,油条就应该配豆浆。,Have to have soymilk wity youtiao.,Have to have soymilk wity youtiao.
+SAY.youtiaoqiang.128.油条强,,油条就应该配豆浆。,Have to have soy milk with youtiao.,Have to have soy milk with youtiao.
 SAY.youtiaoqiang.129.油条强,,其实这个店本来是打算开在矿区的。,Actually I wanted to open this near the mines.,Actually I wanted to open this near the mines.
 SAY.youtiaoqiang.130.油条强,,但是那边已经没落了，人越来越少。,But that place has gone downhill， fewer and fewer people.,But that place has gone downhill， fewer and fewer people.
 SAY.youtiaoqiang.131.油条强,,不像以前，大清早的，家家户户亮着灯。,Not like before， all the houses were litup in before dawn.,Not like before， all the houses were litup in before dawn.
@@ -5226,7 +5226,7 @@ SAY.liuzhuren.78.刘主任,,转个弯就到了，转个弯就到了。,Another t
 SAY.liuzhuren.79.刘主任,,一直就是转个弯就到。,Always the same line.,Always the same line.
 SAY.liuzhuren.80.刘主任,,一走也能走个半小时。,Walked for half an hour.,Walked for half an hour.
 SAY.liuzhuren.81.刘主任,,小凤真是心细啊，荔荔也很坚强。,Xiao Feng was so caring， Lili was also very strong.,Xiao Feng was so caring， Lili was also very strong.
-SAY.liuzhuren.82.刘主任,,养个女儿真好。,Good to have a daugther.,Good to have a daugther.
+SAY.liuzhuren.82.刘主任,,养个女儿真好。,Good to have a daughter.,Good to have a daughter.
 SAY.liuzhuren.83.刘主任,,前两年我做手术，只有我女儿陪我。,Two years ago I had surgery， only my daugther was with me.,Two years ago I had surgery， only my daugther was with me.
 SAY.liuzhuren.84.刘主任,,我被推进手术室之前，躺在床上。,Before I went into operation， I was laying in the bed.,Before I went into operation， I was laying in the bed.
 SAY.liuzhuren.85.刘主任,,仰着头看到她在大哭。,Then I saw her crying.,Then I saw her crying.
@@ -5325,7 +5325,7 @@ SAY.axing.96.阿星,,要是能顺便赚点小钱，那就更好了。,If I can m
 SAY.axing.77.阿星,,电影我也蛮感兴趣的，它是关于时间的艺术。,I like movies too， it's all related to art and time.,I like movies too， it's all related to art and time.
 SAY.axing.78.阿星,,才一两个钟头，很讲究表达的方法和内容。,You only get like 1 to 2 hours， it's particular about how to express and present what you want to say.,You only get like 1 to 2 hours， it's particular about how to express and present what you want to say.
 SAY.axing.81.阿星,,看电影可以开眼界嘛，好比跟着镜头去旅游。,You can broaden your horizons with movies.,You can broaden your horizons with movies.
-SAY.axing.82.阿星,,我以前经常去录像厅看外国电影。,I used to go to the theather to watch foreign films.,I used to go to the theather to watch foreign films.
+SAY.axing.82.阿星,,我以前经常去录像厅看外国电影。,I used to go to the theater to watch foreign films.,I used to go to the theater to watch foreign films.
 SAY.axing.83.阿星,,不过录像带应该很快竞争不过光碟了。,But I think tapes are going to fall behind CDs.,But I think tapes are going to fall behind CDs.
 SAY.axing.97.阿星,,光碟更便宜，更方便。,I think CDs are cheaper and more portable.,I think CDs are cheaper and more portable.
 SAY.axing.99.阿星,,你有娃仔咩？,You have a kid?,You have a kid?
@@ -5361,7 +5361,7 @@ SAY.lizhong.53.劳工李钟,,在这边辛辛苦苦，也就刚刚够吃饭。,It
 SAY.lizhong.54.劳工李钟,,哪个朋友家盖房子的，可以找我。,They can come find me if they need some housing construction.,They can come find me if they need some housing construction.
 SAY.lizhong.55.劳工李钟,,做了十几二十年泥水，砌砖刮墙我样样在行。,I've done 20 plus years as as a laborer， I can do everything.,I've done 20 plus years as as a laborer， I can do everything.
 SAY.lizhong.56.劳工李钟,,有娃仔以后我戒烟了，抽不起啊。,I stopped smoking too， can't afford it.,I stopped smoking too， can't afford it.
-SAY.lizhong.57.劳工李钟,,有钱就想给他买东西。,Ocne I have money I want buy something for them.,Ocne I have money I want buy something for them.
+SAY.lizhong.57.劳工李钟,,有钱就想给他买东西。,Once I have money I want buy something for them.,Once I have money I want buy something for them.
 SAY.lizhong.58.劳工李钟,,最近帮这家酒楼做事，买菜买米买油。,Been helping a restaraunt lately， buying their supplies.,Been helping a restaraunt lately， buying their supplies.
 SAY.lizhong.59.劳工李钟,,他们还蛮好讲的，不忙的时候让我在这里坐。,They're easy to talk to， they let me sit there and rest when it's not busy.,They're easy to talk to， they let me sit there and rest when it's not busy.
 SAY.lizhong.60.劳工李钟,,如果有人过来找零工，我还可以去做。,If they need some extra hands， I can go do it.,If they need some extra hands， I can go do it.
@@ -5409,7 +5409,7 @@ SAY.zhengfeng.221.潘争锋,,本来我觉得我取的名字有点简单。,I tho
 SAY.zhengfeng.222.潘争锋,,听完你的故事，又感觉还过得去。,But after your story， I think it's fine.,But after your story， I think it's fine.
 SAY.zhengfeng.223.主角,,叫什么？,What?,What?
 SAY.zhengfeng.224.潘争锋,,我对我的娃仔没有什么大的期望。,I don't have any big hopes for my kids.,I don't have any big hopes for my kids.
-SAY.zhengfeng.225.潘争锋,,只希望他们踏实做人，不要做坏事。,I just want them to be a good person and don't do bad  htings.,I just want them to be a good person and don't do bad  htings.
+SAY.zhengfeng.225.潘争锋,,只希望他们踏实做人，不要做坏事。,I just want them to be a good person and don't do bad  things.,I just want them to be a good person and don't do bad  things.
 SAY.zhengfeng.226.潘争锋,,所以我想好了，男的就叫正义，女的就叫善良。,So I decided， a boy would be named Zhengyi， a girl would be named Shanliang.,So I decided， a boy would be named Zhengyi， a girl would be named Shanliang.
 SAY.zhengfeng.227.主角,,……,……,……
 SAY.zhengfeng.230.主角,,还不如南瓜呢。,Not as good as Nangua.,Not as good as Nangua.
@@ -5451,7 +5451,7 @@ SAY.laohu.72.老胡,,听老一辈讲，这里成立的时候，桌子都不够�
 SAY.laohu.73.老胡,,过去没有固定的场地，只能租用居民的房子。,No set place to go， they rented houses.,No set place to go， they rented houses.
 SAY.laohu.74.老胡,,职工上班都没有干劲，感觉单位不像一个家。,No one had any motivation， didn't feel like a unit.,No one had any motivation， didn't feel like a unit.
 SAY.laohu.75.老胡,,我们畜牧站还配了一台专用摩托车。,We even had a station motorcycle.,We even had a station motorcycle.
-SAY.laohu.76.老胡,,希望以后能申请汽车。,I hope we cna get a car later.,I hope we cna get a car later.
+SAY.laohu.76.老胡,,希望以后能申请汽车。,I hope we can get a car later.,I hope we can get a car later.
 SAY.laohu.77.老胡,,以前检疫靠眼睛看的，看猪有没有精神。,In the past we just gave the pigs an eye test， see if they looked lively.,In the past we just gave the pigs an eye test， see if they looked lively.
 SAY.laohu.78.老胡,,很不科学的。,Not scientific at all.,Not scientific at all.
 SAY.laohu.79.老胡,,现在检疫都用机器了，效率提升很多。,Now it's all with machines， way more efficient.,Now it's all with machines， way more efficient.

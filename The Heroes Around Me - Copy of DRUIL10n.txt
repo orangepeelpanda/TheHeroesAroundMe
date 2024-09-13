@@ -44,7 +44,7 @@
 ,43,fish.sanjiao,Trout,Trout
 ,44,fish.bangui,Hairfin Anchovy,Hairfin Anchovy
 ,45,fish.luofei,Tilapia,Tilapia
-,46,desc.ji,Fresh water fish that eats everything. Looks pretty while swimming.,Fresh water fish that eats everything. Looks pretty while swimming.
+,46,desc.ji,Freshwater fish that eats everything. Looks pretty while swimming.,Freshwater fish that eats everything. Looks pretty while swimming.
 ,47,desc.li,Lives closer to the bottom， slightly yellow on the belly. Has short whiskers， generally timid and full of life.,Lives closer to the bottom， slightly yellow on the belly. Has short whiskers， generally timid and full of life.
 ,48,desc.tangshi,Looks shiny with no scales， has eight large whiskers， can actually crawl on land and live out of the water for a bit.,Looks shiny with no scales， has eight large whiskers， can actually crawl on land and live out of the water for a bit.
 ,49,desc.qing,Greenish Grey color， hard to catch and moves quick. One of the “Four Famous Domestic Fishes”,Greenish Grey color， hard to catch and moves quick. One of the “Four Famous Domestic Fishes”
